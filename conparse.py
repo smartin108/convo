@@ -9,6 +9,7 @@ def message_parts(message:str):
 
 def main():
     source_file = './sms-20241206001051.xml'
+    all_data = []
 
     with open(source_file, 'r', encoding='utf-8') as f:
         my_xml = f.read()
@@ -18,56 +19,58 @@ def main():
     s1 = s0['smses']
 
     for k,v in s1.items():
-        if type(v) == 'str':
-            print(f'{k}: {v}')
-        elif k == 'mms':
+        if k == 'mms':
             counter = 0
             print(f'  {k}[{counter}]')
             for vv in v:
-                print(f'    date: {vv["@date"]}')
-                # print(f'    address: {vv["@address"]}')
-                # print(f'    parts: {str(vv["parts"])[:100]}')
+                date = vv["@date"]
+                # print(f'    date: {vv["@date"]}')
                 for part in vv["parts"].values():
                     author = 'Rebecca'
                     if isinstance(part, list):
-                        # print(f'      part: {str(part)[:100]}')
                         for od in part:
                             seq_flag = int(od['@seq'])
                             if seq_flag == -1:
                                 author = 'Andy'
                             else:
-                            # if int(od['@seq']) > -1:
-                                # print(f'      part seq={od["""@seq"""]}: {od}')
-                                print(f'      author={author}')
-                                print(f'      text={od["@text"]}')
+                                # print(f'      author={author}')
+                                text = od["@text"]
+                                # print(f'      text={od["@text"]}')
                     elif isinstance(part, dict):
-                        # print(f'          {part}')
                         if part["@seq"] == '-1':
                             author = 'Andy'
-                        print(f'      author={author}')
+                        # print(f'      author={author}')
                         m_text = part["@text"]
-                        data_only = False
-                        if m_text == 'null':
-                            if part["@data"]:
-                                data_only = True
-                                m_text = '<data only>'
-                        print(f'      text={m_text}')
+                        # print(f'      text={m_text}')
                     else:
-                        print(f'          unknown type {type(part)}')
-                        print(f'          content={part}')
+                        # print(f'          unknown type {type(part)}')
+                        # print(f'          content={part}')
+                        author = '<unknown>'
+                        text = '<unknown>'
                 print()
                 counter += 1
-                if counter > 100000:
-                    break
+                # if counter > 100000:
+                #     break
+                all_data.append([date, author, text])
         elif k == 'sms':
-            print(f'  {k}')
+            # print(f'  {k}')
             for vv in v:
-                print(f'    date: {vv["@date"]}')
-                print(f'    address: {vv["@address"]}')
-                print(f'    body: {vv["@body"]}')
-                print()
+                author = 'Rebecca' # I don't actually know how to setermine the author for sms message types
+                date = vv["@date"]
+                # print(f'    address: {vv["@address"]}')
+                text = vv["@body"]
+                # print(f'    date: {vv["@date"]}')
+                # print(f'    address: {vv["@address"]}')
+                # print(f'    body: {vv["@body"]}')
+                # print()
+            all_data.append([date, author, text])
+        elif type(v) == 'str':
+            pass
+            # print(f'{k}: {v}')
         else:
             print(f'{k}: ({type(v)}) v: ')
+    for i in all_data:
+        print()
 
 if __name__ == '__main__':
     main()
