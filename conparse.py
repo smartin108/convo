@@ -1,10 +1,15 @@
 import xmltodict
 import pprint
 import json
+import clsSQLServer
 
 
-def message_parts(message:str):
-    pass
+def write_to_db(chonk:list):
+    s = clsSQLServer.Interface(database='Convo')
+    sql = \
+"""insert into Convo.dbo.conv(source_timestamp, author, body) 
+values (?, ?, ?);"""
+    s.InsertMany(sql, chonk)
 
 
 def main():
@@ -21,7 +26,7 @@ def main():
     for k,v in s1.items():
         if k == 'mms':
             counter = 0
-            print(f'  {k}[{counter}]')
+            # print(f'  {k}[{counter}]')
             for vv in v:
                 date = vv["@date"]
                 # print(f'    date: {vv["@date"]}')
@@ -40,16 +45,16 @@ def main():
                         if part["@seq"] == '-1':
                             author = 'Andy'
                         # print(f'      author={author}')
-                        m_text = part["@text"]
+                        text = part["@text"]
                         # print(f'      text={m_text}')
                     else:
                         # print(f'          unknown type {type(part)}')
                         # print(f'          content={part}')
                         author = '<unknown>'
                         text = '<unknown>'
-                print()
-                counter += 1
-                # if counter > 100000:
+                # print()
+                # counter += 1
+                # if counter > 100:
                 #     break
                 all_data.append([date, author, text])
         elif k == 'sms':
@@ -68,9 +73,11 @@ def main():
             pass
             # print(f'{k}: {v}')
         else:
-            print(f'{k}: ({type(v)}) v: ')
+            pass
+            # print(f'{k}: ({type(v)}) v: ')
     for i in all_data:
-        print()
+        print(i)
+    write_to_db(all_data)
 
 if __name__ == '__main__':
     main()
