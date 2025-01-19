@@ -6,6 +6,9 @@ from datetime import datetime
 import tzlocal
 
 
+source_file = "C:\\Users\\Z40\\Downloads\\sms-20250118184120.xml"
+
+
 def write_to_db(chonk:list):
     s = clsSQLServer.Interface(database='Convo')
     sql = \
@@ -21,7 +24,6 @@ def main():
         local_time = datetime.fromtimestamp(float(unix_timestamp)/1000, local_timezone)
         all_data.append([unix_timestamp, local_time, author, text])
 
-    source_file = './sms-20250112101206.xml'
     all_data = []
 
     print('reading file data...')
@@ -67,9 +69,10 @@ def main():
             pass
         else:
             pass
-    for i in all_data:
-        print(i)
-    print('\n\nwriting to database...')
+    # for i in all_data:
+    #     print(i)
+    print(f'{len(all_data)} records read\n')
+    print('writing to database...')
     write_to_db(all_data)
 
 if __name__ == '__main__':
