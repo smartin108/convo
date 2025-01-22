@@ -4,17 +4,28 @@ import json
 import clsSQLServer
 from datetime import datetime
 import tzlocal
+from tkinter import Tk
+from tkinter.filedialog import askopenfilename
 
 
-source_file = "C:\\Users\\Z40\\Downloads\\sms-20250118184120.xml"
+def user_get_file():
+    Tk().withdraw()
+    source_file = askopenfilename(initialdir='C://Users//Andy//Downloads')
+    return source_file
 
 
 def write_to_db(chonk:list):
     s = clsSQLServer.Interface(database='Convo')
     sql = \
-"""insert into Convo.dbo.conv(source_timestamp, converted_timestamp, author, body) 
+"""insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body) 
 values (?, ?, ?, ?);"""
     s.InsertMany(sql, chonk)
+
+
+def load_db():
+    s = clsSQLServer.Interface(database='Convo')
+    sql = 'exec dbo.load_conversation_data'
+    s.Execute(sql)
 
 
 def main():
@@ -24,13 +35,14 @@ def main():
         local_time = datetime.fromtimestamp(float(unix_timestamp)/1000, local_timezone)
         all_data.append([unix_timestamp, local_time, author, text])
 
+    source_file = user_get_file()
     all_data = []
 
     print('reading file data...')
     with open(source_file, 'r', encoding='utf-8') as f:
         my_xml = f.read()
 
-
+    print(f'read {len(my_xml)} thingies')
     s0 = xmltodict.parse(my_xml)
     s1 = s0['smses']
 
@@ -69,11 +81,11 @@ def main():
             pass
         else:
             pass
-    # for i in all_data:
-    #     print(i)
     print(f'{len(all_data)} records read\n')
     print('writing to database...')
     write_to_db(all_data)
+    load_db()
+    print('done')
 
 if __name__ == '__main__':
     main()
