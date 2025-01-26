@@ -8,6 +8,9 @@ from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 
 
+local_timezone = tzlocal.get_localzone()
+
+
 def user_get_file():
     Tk().withdraw()
     source_file = askopenfilename(initialdir='C://Users//Andy//Downloads')
@@ -16,9 +19,13 @@ def user_get_file():
 
 def write_to_db(chonk:list):
     s = clsSQLServer.Interface(database='Convo')
+    d = datetime.now(local_timezone)
+    for i in chonk:
+        i.append(d)
+    print(chonk)
     sql = \
-"""insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body) 
-values (?, ?, ?, ?);"""
+"""insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body, record_created) 
+values (?, ?, ?, ?, ?);"""
     s.InsertMany(sql, chonk)
 
 
@@ -31,7 +38,6 @@ def load_db():
 def main():
 
     def do_append(unix_timestamp, author, text):
-        local_timezone = tzlocal.get_localzone()
         local_time = datetime.fromtimestamp(float(unix_timestamp)/1000, local_timezone)
         all_data.append([unix_timestamp, local_time, author, text])
 
