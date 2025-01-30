@@ -32,7 +32,7 @@ def write_to_db(chonk:list):
     d = datetime.now(local_timezone)
     for i in chonk:
         i.append(d)
-    print(chonk)
+    # print(chonk)
     sql = \
 """insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body, record_created) 
 values (?, ?, ?, ?, ?);"""
@@ -54,8 +54,7 @@ def main():
     # source_file = user_get_file()
     for source_file in get_file_from_backups():
         all_data = []
-
-        print('reading file data...')
+        print(f'{source_file}: reading file data...')
         with open(source_file, 'r', encoding='utf-8') as f:
             my_xml = f.read()
 
