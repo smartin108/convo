@@ -14,7 +14,7 @@ from sys import exit
 local_timezone = tzlocal.get_localzone()
 
 
-def get_file_from_backups():
+def get_file_names_from_repository():
     backup_location = "H:/OneDrive/Apps/SMS Backup and Restore"
     for subdir, _, files in walk(backup_location):
         for filename in files:
@@ -45,20 +45,51 @@ def load_db():
     s.Execute(sql)
 
 
+def mms_parsing(message_xml):
+    date = message_xml["@date"]
+    for part in message_xml["parts"].values():
+        author = 'Rebecca'
+        if isinstance(part, list):
+            for od in part:
+                seq_flag = int(od['@seq'])
+                if seq_flag == -1:
+                    author = 'Andy'
+                else:
+                    text = od["@text"]
+        elif isinstance(part, dict):
+            if part["@seq"] == '-1':
+                author = 'Andy'
+            text = part["@text"]
+        else:
+            author = '<unknown>'
+            text = '<unknown>'
+    return date, author, text
+
+
+def sms_parsing(message_xml):
+    author = 'Rebecca' # I don't actually know how to determine the author for sms message types
+    date = message_xml["@date"]
+    text = message_xml["@body"]
+    return author, date, text
+
+
+def read_xml(source_file_name):
+    print(f'{source_file_name}: reading file data...')
+    with open(source_file_name, 'r', encoding='utf-8') as f:
+        my_xml = f.read()
+    print(f'read {len(my_xml)} thingies')
+    return my_xml
+
+
 def main():
 
     def do_append(unix_timestamp, author, text):
         local_time = datetime.fromtimestamp(float(unix_timestamp)/1000, local_timezone)
         all_data.append([unix_timestamp, local_time, author, text])
 
-    # source_file = user_get_file()
-    for source_file in get_file_from_backups():
+    for source_file_name in get_file_names_from_repository():
         all_data = []
-        print(f'{source_file}: reading file data...')
-        with open(source_file, 'r', encoding='utf-8') as f:
-            my_xml = f.read()
-
-        print(f'read {len(my_xml)} thingies')
+        my_xml = read_xml(source_file_name)
         s0 = xmltodict.parse(my_xml)
         s1 = s0['smses']
 
@@ -67,41 +98,21 @@ def main():
             if k == 'mms':
                 counter = 0
                 for vv in v:
-                    date = vv["@date"]
-                    for part in vv["parts"].values():
-                        author = 'Rebecca'
-                        if isinstance(part, list):
-                            for od in part:
-                                seq_flag = int(od['@seq'])
-                                if seq_flag == -1:
-                                    author = 'Andy'
-                                else:
-                                    text = od["@text"]
-                        elif isinstance(part, dict):
-                            if part["@seq"] == '-1':
-                                author = 'Andy'
-                            text = part["@text"]
-                        else:
-                            author = '<unknown>'
-                            text = '<unknown>'
-                    # all_data.append([date, datetime.utcfromtimestamp(float(date)/1000).isoformat(), author, text])
+                    date, author, text = mms_parsing(vv)
                     do_append(date, author, text)
             elif k == 'sms':
                 for vv in v:
-                    author = 'Rebecca' # I don't actually know how to determine the author for sms message types
-                    date = vv["@date"]
-                    text = vv["@body"]
-                # all_data.append([date, datetime.utcfromtimestamp(float(date)/1000).isoformat(), author, text])
+                    date, author, text = sms_parsing(vv)
                 do_append(date, author, text)
             elif type(v) == 'str':
                 pass
             else:
-                pass
+                print(f'ignored content key {k}')
         print(f'{len(all_data)} records read\n')
         print('writing to database...')
         write_to_db(all_data)
         load_db()
-        remove(source_file)
+        remove(source_file_name)
     print('done')
 
 if __name__ == '__main__':
