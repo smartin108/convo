@@ -1,0 +1,23 @@
+body {
+    width: 800px;
+    background-color: #33333a;
+    color: #eeeeee;
+}
+
+table {
+    width: 50%;
+}
+
+td {
+    width: 50%;
+    border: 1px solid;
+    overflow: visible;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}

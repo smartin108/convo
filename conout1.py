@@ -10,7 +10,14 @@ data = S.SelectQuery(q)
 
 
 def headers(frame_width):
-    return '<html><style><table {width: %s}</style><body><table>\n'%(frame_width)
+    return \
+"""<html>
+<head>
+    <link rel="stylesheet" href="out.css">
+</head>
+<body>
+    <table>
+"""
 
 
 def trailers():
@@ -18,7 +25,7 @@ def trailers():
 
 
 def make_format(frame_width, body, align):
-    return '    <tr><td>%s</td></tr>\n'%(body)
+    return '    <tr><td><p>%s</p></td></tr>\n'%(body)
 
 
 frame_width = '50%'
