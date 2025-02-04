@@ -16,7 +16,7 @@ def headers(frame_width):
     <link rel="stylesheet" href="out.css">
 </head>
 <body>
-    <table>
+    <table><tr><th width="400px"></th></tr>
 """
 
 
@@ -25,7 +25,8 @@ def trailers():
 
 
 def make_format(frame_width, body, align):
-    return '    <tr><td><p>%s</p></td></tr>\n'%(body)
+    return '    <tr><td width="400px">%s</td></tr>\n'%(body)
+    # return '    <tr><td width="400px"><p>%s</p></td></tr>\n'%(body)
 
 
 frame_width = '50%'
