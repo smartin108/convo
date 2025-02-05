@@ -11,7 +11,14 @@ data = S.SelectQuery(q)
 
 def headers(frame_width):
     return \
-"""<html>
+"""
+#!/usr/bin/env python3
+
+print(\"\"\"
+Content-type: text.html
+
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <link rel="stylesheet" href="out.css">
 </head>
@@ -21,16 +28,54 @@ def headers(frame_width):
 
 
 def trailers():
-    return '</table></body></html>\n'
+    return '</table></body></html>\n\"\"\")'
 
 
 def make_format(frame_width, body, align):
-    return '    <tr><td width="400px">%s</td></tr>\n'%(body)
+
+    def sanitize(t):
+        temp = t
+        replacements = [\
+            ['“','"'],\
+            ['”','"'],\
+            [' ',' '],\
+            ['​',' '],\
+            ['🇭🇺',' '],\
+            ['\U0001f61d',':P'],\
+            ['😋',':P'],\
+            ['😛',':P'],\
+            ['🤷','\\/'],\
+            ['😊',':)'],\
+            ['👍',' '],\
+            ['🎉',' '],\
+            ['🥰',' '],\
+            ['💞',' '],\
+            ['😁',':)'],\
+            ['🤣',':)'],\
+            ['😂',':)'],\
+            ['🙂',':)'],\
+            ['😅',':)'],\
+            ['😘',''],\
+            ['💋',''],\
+            ['😭',''],\
+            ['🤪',''],\
+            ['☺️',':)'],\
+            ['😈',':)'],\
+            ['❤️','<3'],\
+            ['❤','<3'],\
+            ['♥️','<3'],\
+            ['🤍','<3']\
+            ]
+        for r in replacements:
+            temp = temp.replace(r[0], r[1])
+        return temp
+
+    return '    <tr><td width="400px">%s</td></tr>\n'%(sanitize(body))
     # return '    <tr><td width="400px"><p>%s</p></td></tr>\n'%(body)
 
 
 frame_width = '50%'
-outfile = './out.html'
+outfile = './cgi-bin/hello.py'
 with open(outfile, 'w', encoding='UTF-8') as f:
     f.write(headers(frame_width))
     for r in data:

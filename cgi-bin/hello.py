@@ -36,7 +36,7 @@ I do, but more and more rarely</td></tr>
     <tr><td width="400px">I mean I do have to go shopping sometimes. For sustenance. </td></tr>
     <tr><td width="400px">I have food here </td></tr>
     <tr><td width="400px">Bbbbbbran flakes?</td></tr>
-    <tr><td width="400px"> ​🇭🇺​ to “ I have food here  ” </td></tr>
+    <tr><td width="400px">     to " I have food here  " </td></tr>
     <tr><td width="400px">Wanna kmow something that explains a bit of naivete?</td></tr>
     <tr><td width="400px">*Of mine</td></tr>
     <tr><td width="400px">And, um, defffffff not asmr lol</td></tr>
@@ -199,7 +199,7 @@ You seem out of character</td></tr>
 
 I think the word we're looking for is "acceptance". Or perhaps "pensive". </td></tr>
     <tr><td width="400px">But whyyyyyyyyyy</td></tr>
-    <tr><td width="400px">😝</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Did you finally fall from the high? I bet that's it</td></tr>
     <tr><td width="400px">Ok Morrissey </td></tr>
     <tr><td width="400px">Guess i have to look that up now</td></tr>
@@ -230,15 +230,15 @@ It's well nigh impossible for me to get out in evenings</td></tr>
     <tr><td width="400px">Here's one for you. I quit smoking cigarettes almost two years ago. I started smoking weed not much later. I quickly realized how it makes me feel slutty. I tried, in various ways, to draw her attention, the charms, the undies, etc. little was working. One day I had the perfect timing to answer a question--what did I want to do? "Get high and fuck!" I never talk that way. 
 
 Nothing happened that weekend. Nothing. </td></tr>
-    <tr><td width="400px">🤷</td></tr>
+    <tr><td width="400px">\/</td></tr>
     <tr><td width="400px">I'm so sorry for that
 
 That's been what i wanted to say to you.... way too many times</td></tr>
     <tr><td width="400px">This is a good example why I ask for little from the universe and expect less. And why I can be happy in my head. And why when the universe does me a solid from time to time, it feels really special. </td></tr>
     <tr><td width="400px">Well, what i said is very true</td></tr>
     <tr><td width="400px">I believe what you tell me</td></tr>
-    <tr><td width="400px">😊</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ 😊 ” </td></tr>
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px">  <3  to " :) " </td></tr>
     <tr><td width="400px">Next time I see you hopefully you will feel more relaxed. I do have to say though you were cute asf when you drew me into you. I was trying to be deferential, and you were like "get over here" lol</td></tr>
     <tr><td width="400px">I've prepared a version of this obscene salad thing I make a lot these days: 
 Green olives with pimento 
@@ -266,7 +266,7 @@ https://open.spotify.com/track/5Lr0c5OIPM53M5JQUwyxL5?si=fKeQjxXeRbGcfhoQB7AXKQ
     <tr><td width="400px">Did you find my Reddit alt yeah or nay?</td></tr>
     <tr><td width="400px">Didn't look actually</td></tr>
     <tr><td width="400px">And not ignoring you - just out and about. Ish </td></tr>
-    <tr><td width="400px"> ​👍​ to “ And not ignoring you - just out and about. Ish  ” </td></tr>
+    <tr><td width="400px">     to " And not ignoring you - just out and about. Ish  " </td></tr>
     <tr><td width="400px">Also, at what point would you call in if you were just going to wfh but had a fever?</td></tr>
     <tr><td width="400px">Serious fever, night before if possible
 Jiffy flu,7am</td></tr>
@@ -332,7 +332,7 @@ A listener has lost their package containing a cell phone case. Should anyone re
 
 Thought you requested more 
 
-😁</td></tr>
+:)</td></tr>
     <tr><td width="400px">Wishing you safe passage m'Lady </td></tr>
     <tr><td width="400px">I got called "lush" by a girl on OF. what is it?</td></tr>
     <tr><td width="400px">I am chatting with a dude named Andrew lol</td></tr>
@@ -344,7 +344,7 @@ Thought you requested more
     <tr><td width="400px">What should I tell him?</td></tr>
     <tr><td width="400px">Such a sweet boi</td></tr>
     <tr><td width="400px">He is the best</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Hey?</td></tr>
     <tr><td width="400px">Hey :)</td></tr>
     <tr><td width="400px">How are you?</td></tr>
@@ -420,8 +420,8 @@ Are we misappropriating office supplies again?</td></tr>
     <tr><td width="400px">I also cant see red font easily </td></tr>
     <tr><td width="400px">Or a lot of lighter ones</td></tr>
     <tr><td width="400px">How's yiur friday going?</td></tr>
-    <tr><td width="400px">Pretty good! I just had my last meeting of the week 😊</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Pretty good! I just had my last meeting of the week :)</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">How is life in the phone mines?</td></tr>
     <tr><td width="400px">It's fine. My stuff kept messing up, so i told kirby again today since everyone was habing phone issues yesterday and it wasnt that important. Some back and forth about what i had vs what i need, so i shared my screen to say "hey, i do. Not. Have. Webex." And he was like "no calls yet!?!?" And long story short it is somehow my fault that ny new laptop did not and does not have the phone app i need. So havent had a call. Sad, lol</td></tr>
     <tr><td width="400px">He should have known that. They've said 50,000 times only Microsoft 365 apps will be on the laptops initially, all other software will be "as approved" and "when we can get to it"</td></tr>
@@ -447,7 +447,7 @@ A little disheartening that no one sees how little i care about doing a good job
     <tr><td width="400px">Id much rather be under you</td></tr>
     <tr><td width="400px">I just got some new boobs from Amazon!</td></tr>
     <tr><td width="400px">Ohh?</td></tr>
-    <tr><td width="400px"> ​🥰​ to “ Id much rather be under you ” </td></tr>
+    <tr><td width="400px">     to " Id much rather be under you " </td></tr>
     <tr><td width="400px">Slightly bigger than the other fake ones I have. And these came with a surprise--pasties lol</td></tr>
     <tr><td width="400px">
 Actually I think they're just nipple covers to prevent chaffing. I don't think I will have that problem</td></tr>
@@ -469,7 +469,7 @@ Actually I think they're just nipple covers to prevent chaffing. I don't think I
     <tr><td width="400px">Available for get high & fuck sesh</td></tr>
     <tr><td width="400px">Yes please </td></tr>
     <tr><td width="400px">I only work for like an hour and change more today</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I only work for like an hour and change more today ” </td></tr>
+    <tr><td width="400px">  <3  to " I only work for like an hour and change more today " </td></tr>
     <tr><td width="400px">Welcome to your weekend babe!</td></tr>
     <tr><td width="400px">3 minutes early but thanks! You too</td></tr>
     <tr><td width="400px">What are your many plans?</td></tr>
@@ -511,7 +511,7 @@ Yes. Rather difficult on air mattress</td></tr>
 I did not grok the full story before. Props to these guys</td></tr>
     <tr><td width="400px">I lovvvvvvvvvvve Matty </td></tr>
     <tr><td width="400px">I can see why!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I found something </td></tr>
     <tr><td width="400px">What is it?</td></tr>
     <tr><td width="400px">My inspiration
@@ -555,7 +555,7 @@ https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7?si=BAl-ihsbRJKmAqpDT6fnBg
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Kitters!
 
-Likes you! 💞</td></tr>
+Likes you!  </td></tr>
     <tr><td width="400px">I like catses</td></tr>
     <tr><td width="400px">And "sex"?</td></tr>
     <tr><td width="400px"> Got distracted, listening now</td></tr>
@@ -611,7 +611,7 @@ I will have you both ways</td></tr>
 </td></tr>
     <tr><td width="400px">I just want you share with you
 
-I cannot get enough of this one, and I thank you for that 🤍
+I cannot get enough of this one, and I thank you for that <3
 
 https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz?si=JZktsJeXTrua_T_vCDMZIA</td></tr>
     <tr><td width="400px">I'm glad :)</td></tr>
@@ -637,7 +637,7 @@ I appreciate you, and i appreciate you appreciating me</td></tr>
     <tr><td width="400px">https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV?si=dFTKUv3GRvy_0aubsH-RFQ</td></tr>
     <tr><td width="400px">I think youd also like Fletcher</td></tr>
     <tr><td width="400px">And maybe Bleachers</td></tr>
-    <tr><td width="400px">🤍</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">So talk to mw</td></tr>
     <tr><td width="400px">*me</td></tr>
     <tr><td width="400px">What are you feeling? What's going through your mind?</td></tr>
@@ -781,13 +781,13 @@ I need to put phone down and sleep
 I really really really wish I was holding you, but I am lucky to have done that before so I can remember happy thoughts 
 
 Thanks for staying with me through this</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Thank you</td></tr>
     <tr><td width="400px">One of these days I'll tell you more about how Sunday thru Wednesday went</td></tr>
-    <tr><td width="400px">Ooo ok! ♥️</td></tr>
+    <tr><td width="400px">Ooo ok! <3</td></tr>
     <tr><td width="400px">Beaux reves, mon prince</td></tr>
     <tr><td width="400px">Merci!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I hope you slept well  </td></tr>
     <tr><td width="400px">At some point today i think i would like to tell you the family drama. The main one, at least</td></tr>
     <tr><td width="400px">Heya</td></tr>
@@ -837,7 +837,7 @@ But mine might be some nibblea. I dont think i would do smoking well</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">You are also cooking </td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Yep</td></tr>
     <tr><td width="400px">Not for me though</td></tr>
     <tr><td width="400px">Lol</td></tr>
@@ -926,7 +926,7 @@ All you want</td></tr>
     <tr><td width="400px">And you did!!!</td></tr>
     <tr><td width="400px">Fuccccc ck</td></tr>
     <tr><td width="400px">Me grincing and swirling and rocking and spelling with my hips on you, it still feel good? Do you chafe? Do you  lose to finishing at all?</td></tr>
-    <tr><td width="400px">I ♥️ the way you grind on me ♥️
+    <tr><td width="400px">I <3 the way you grind on me <3
 
 Sometimes I may lose some momentum, but not this time. If I feel chaffing I will say something</td></tr>
     <tr><td width="400px">You
@@ -955,14 +955,14 @@ Please expound on everything</td></tr>
     <tr><td width="400px">Bon matin mon chou!</td></tr>
     <tr><td width="400px">I really wish i could spend time with you tod</td></tr>
     <tr><td width="400px">* today </td></tr>
-    <tr><td width="400px">Good morning ☺️ I would love to laze with youuuuu</td></tr>
+    <tr><td width="400px">Good morning :) I would love to laze with youuuuu</td></tr>
     <tr><td width="400px">Omg saaaaaame</td></tr>
     <tr><td width="400px"> If i have the house to myself next weekend, would you like to cum over?
 
 It will likely be messy and i have 3 cats and a dog. I also have 3 different inhalers and a nebulizer with a ton of </td></tr>
     <tr><td width="400px">Keep in mind, i have a full length mirror that's moveable </td></tr>
     <tr><td width="400px">Ooooo that does sound nice! </td></tr>
-    <tr><td width="400px">A mirror you say 😈</td></tr>
+    <tr><td width="400px">A mirror you say :)</td></tr>
     <tr><td width="400px">Indeed
 
 So if you wanted to sit at the edge of the bed and watch the backside of me bobbing up and down</td></tr>
@@ -1045,7 +1045,7 @@ What happened lo those many years ago?</td></tr>
     <tr><td width="400px">Actually, most people get at least one false start call</td></tr>
     <tr><td width="400px">Alors, je me dors maintenant
 
-Beaux reves et bom chance avec votre sang au matin ❤️</td></tr>
+Beaux reves et bom chance avec votre sang au matin <3</td></tr>
     <tr><td width="400px">Aww so sweet! Good morning!</td></tr>
     <tr><td width="400px">Good morning to you too!</td></tr>
     <tr><td width="400px">I've done my SANGuin deed for the day</td></tr>
@@ -1068,7 +1068,7 @@ Girl you are so fine </td></tr>
     <tr><td width="400px">Soon</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Ohh dolly so pretty</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">He says you have to fight him for me</td></tr>
     <tr><td width="400px">Aww what a guy! </td></tr>
@@ -1078,7 +1078,7 @@ Girl you are so fine </td></tr>
     <tr><td width="400px">Any board games? Drinking games?</td></tr>
     <tr><td width="400px">I never really played anything like that</td></tr>
     <tr><td width="400px">Maybe we'll change that</td></tr>
-    <tr><td width="400px">I'm game lol🤣</td></tr>
+    <tr><td width="400px">I'm game lol:)</td></tr>
     <tr><td width="400px">Lol i see what you did there</td></tr>
     <tr><td width="400px">I just didn't come with a yen for competition</td></tr>
     <tr><td width="400px">That's not the point of games!</td></tr>
@@ -1093,7 +1093,7 @@ Girl you are so fine </td></tr>
     <tr><td width="400px">I find things in the wild and don't neceaaarily have a need or pirpose dor them but they're beautiful and need rescuing, so i bring them home and hold on to them until i find someone i deem deserving</td></tr>
     <tr><td width="400px">Aren't you sweet? !</td></tr>
     <tr><td width="400px">I tend towards the utilitarian, much because there's room for little else around here lol</td></tr>
-    <tr><td width="400px">But nice things are nice 😊</td></tr>
+    <tr><td width="400px">But nice things are nice :)</td></tr>
     <tr><td width="400px">Yes, nice things ARE nice</td></tr>
     <tr><td width="400px">Well here we are... Another work week. Let's make it a good one!</td></tr>
     <tr><td width="400px">For sure! I only work most of it, lol. Lots of friday off for me</td></tr>
@@ -1190,16 +1190,16 @@ So should i take that as a yes or no for this evening? Just asking so i can deci
     <tr><td width="400px">Ummmmm you packed your things in separate zip topped baggies</td></tr>
     <tr><td width="400px">You saw my office</td></tr>
     <tr><td width="400px">Ok lol in fairness I gathered that stuff from 10 different places because I didn't put any of it away properly</td></tr>
-    <tr><td width="400px">😂</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">I did not see your office!</td></tr>
-    <tr><td width="400px">💋 </td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">The pic I sent Friday morning? Me doing it with a highlighter? Was it just a yellow dream?</td></tr>
     <tr><td width="400px">Anyway the chaos increases exponentially as you move to the floor. Some say there are buried treasures down there but all I ever find is car hair</td></tr>
     <tr><td width="400px">Lol car hair </td></tr>
     <tr><td width="400px">I happen to love cleaning</td></tr>
     <tr><td width="400px">Just sayin</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">It will be appreciated. Truth is, the only thing I would have a problem with is wallowing in cat hair. I would almost definitely break out in hives
 
 Or car hair. Nothing worse than car hair in your teeth</td></tr>
@@ -1307,7 +1307,7 @@ I also need to be somewhat discreet, so you know, keep that in mind</td></tr>
     <tr><td width="400px">Black and neutral. How delightfully enjoyable</td></tr>
     <tr><td width="400px">No no not like that 
 Nothing permanent</td></tr>
-    <tr><td width="400px">Speaking of that, I found a picture of the crop top I want, but it's not available here 😭</td></tr>
+    <tr><td width="400px">Speaking of that, I found a picture of the crop top I want, but it's not available here </td></tr>
     <tr><td width="400px">Show meee</td></tr>
     <tr><td width="400px">Wish me luck!</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -1328,7 +1328,7 @@ Glucose 112 -- this is after 16 hour fast. Actually this is pretty average for m
     <tr><td width="400px">Brain scan: none detected</td></tr>
     <tr><td width="400px">Ty Dr Becca!</td></tr>
     <tr><td width="400px">Check the other head?</td></tr>
-    <tr><td width="400px">🤪</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Nope</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Jeeeeeeeesus</td></tr>
@@ -1444,8 +1444,8 @@ YAY! TO THAT
     <tr><td width="400px">You're correct</td></tr>
     <tr><td width="400px">Welp we just have to keep trying I'm afraid</td></tr>
     <tr><td width="400px">If you say so</td></tr>
-    <tr><td width="400px">😘</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px"></td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Lol seriously though, please don't let your questions go unanswered. Hard to track for me bc booooomer</td></tr>
     <tr><td width="400px">Gen exxxxxxxxx</td></tr>
     <tr><td width="400px">Do you want to know why it's hard for me to believe the your pleasure is mine thing?</td></tr>
@@ -1484,12 +1484,12 @@ It's not something I've ever been able to feel</td></tr>
     <tr><td width="400px">It is very reasonable, I assure you</td></tr>
     <tr><td width="400px">Whatever you want</td></tr>
     <tr><td width="400px">Aww it's ok</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Only if we're touching the maighty places ” </td></tr>
+    <tr><td width="400px">  <3  to " Only if we're touching the maighty places " </td></tr>
     <tr><td width="400px">Wait a sec-- I unconsciously parsed that as "let's dismiss this issue"
 
 But idk if that's what you meant</td></tr>
     <tr><td width="400px">Your interpretagion was incorrect</td></tr>
-    <tr><td width="400px">I have a lot of streams of thought that are like ping pong balls. If they get knocked off the table it's nothing. You can tell me if I should change the subject 🙂</td></tr>
+    <tr><td width="400px">I have a lot of streams of thought that are like ping pong balls. If they get knocked off the table it's nothing. You can tell me if I should change the subject :)</td></tr>
     <tr><td width="400px">Lol same
 
 If I'm honest, all i want to hear is you talk sex. Anything and everything</td></tr>
@@ -1538,7 +1538,7 @@ Plz don't ask me to rank "enough?" Because I don't even understand this yet. But
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">We should fuck more often, you know?</td></tr>
     <tr><td width="400px">I agree </td></tr>
-    <tr><td width="400px">😈</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Find some seclusion and I'll def shake our worlds up</td></tr>
     <tr><td width="400px">I'm going to be a mess by the end of the week </td></tr>
     <tr><td width="400px">I hope you make me one too</td></tr>
@@ -1557,7 +1557,7 @@ I really do. I have no other way to want</td></tr>
     <tr><td width="400px">You are too
 
 An overwhelming amount</td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">I like telling you, and I like showing you. It's not all for the man. You fucking send me to the moon when you cum on me</td></tr>
     <tr><td width="400px">And I appreciate we want this for each other. It really is fantastic</td></tr>
     <tr><td width="400px">I have so much more to share with you. Things i font even know i don't know
@@ -1596,14 +1596,14 @@ Fffffuck</td></tr>
 Lust, good. Anything else? I know what was in my mind</td></tr>
     <tr><td width="400px">I'm crafting & thrifting tomorrow. Suggestions? Ideas? Desires?</td></tr>
     <tr><td width="400px">Cute cat things?</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I'm crafting & thrifting tomorrow. Suggestions? Ideas? Desires? ” </td></tr>
+    <tr><td width="400px">  <3  to " I'm crafting & thrifting tomorrow. Suggestions? Ideas? Desires? " </td></tr>
     <tr><td width="400px">Para te?</td></tr>
     <tr><td width="400px">PAR-TAY?</td></tr>
     <tr><td width="400px">Lol close </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Day going well?
 
 Caught me a baby Stitch!</td></tr>
@@ -1616,7 +1616,7 @@ It's going fine...I do not have a lot to do. My dept is doing a hackathon on a f
     <tr><td width="400px">Today is everyone's due date so it's nonstop. Shopping + drinking for me later for sure!</td></tr>
     <tr><td width="400px">But more about my face.... you tell me more and I'll tell you something you'll like and may or may not know</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">I saw lust, passion, and determination. And maybe surprise?</td></tr>
     <tr><td width="400px">And you were fucking cute af</td></tr>
     <tr><td width="400px">Surprise, yes
@@ -1650,7 +1650,7 @@ I'm almost positive you would have had to have fingered me before that but i dig
     <tr><td width="400px">Silly vain rebecca always wants to be the tightest anyone's had, and i try not to overexaggerate how ive heard i am</td></tr>
     <tr><td width="400px">But i honest to deity didnt think you'd fit</td></tr>
     <tr><td width="400px">Anyway, comical commentary: if i can't angle right, is me reaching for you and putting you where you need to be with hand placement what I'm supposed to do? Does that make sense?</td></tr>
-    <tr><td width="400px">Oh you're just so wonderful 🥰
+    <tr><td width="400px">Oh you're just so wonderful  
 
 You are absolutely welcome to guide me, and I actually will need your help, at least while we're still "new" with each other
 
@@ -1658,7 +1658,7 @@ I will get better with additional study and a lot of practice</td></tr>
     <tr><td width="400px">So it's a relatively normal thing to do?</td></tr>
     <tr><td width="400px">Where did you look while i was on top of you?</td></tr>
     <tr><td width="400px">Can you see without glasses?</td></tr>
-    <tr><td width="400px">Normal? Lol it's better than me randomly poking you 🤣 
+    <tr><td width="400px">Normal? Lol it's better than me randomly poking you :) 
 
 I was looking at you. I love everything about that position... I can play with your tits, I can grab your ass, I can change my angle so you get the best pressure, and I can watch you enjoy yourself</td></tr>
     <tr><td width="400px">Yes I can see fine. I just can't read lol</td></tr>
@@ -1700,7 +1700,7 @@ I dont want you broken though
 
 But i feel like these should be told to you, and it's my core feeling to have to know them. That you deserve them,kind of</td></tr>
     <tr><td width="400px">I'm ok with that. Also, if you just want to get something off your chest, or just need to rant, or just need to cry, or just need a hug, I got you</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Because i dont know if this is clear, my father's actions were just that once, or at least not more than that week. It was 7 more years of my brother and it only stopped then for really shitty reasons 
 
 But remember how i say i was born an adult and raised myself? Yeah. My mom became an on call firefighter and emt when i was 8 and i have no recollection of my father's familial involvement other than mandated holiday pictures. Like, no idea when he came home from work or any of that. So she would get paged to a fire call and that would always be a minimum of an hour and change of us being at the house alone. Because it was a completely on call department, she worked as she pleased, 24/7/365. And she had insane pride at her 100% response records</td></tr>
@@ -1730,7 +1730,7 @@ What else would you like to know? That's a legit question</td></tr>
     <tr><td width="400px">I think I'm actually making a lot of assumption there. If I'm way off base lmk</td></tr>
     <tr><td width="400px">And maybe it's super obvious what I'm looking for here.... Explanations and justice. I know this is all ground you've already treaded. And maybe the perverse answer is there is no reason and no justice in it. Idk. I am sorry these things happened to you. </td></tr>
     <tr><td width="400px">Your statements are correct. I don't know how much she knew about what my father did - i can tell you more later (decided i needed to wscape the house for a sec) but i/we (brother) were walked in on more than once and her/their responses there were abysmal at best</td></tr>
-    <tr><td width="400px">Ok thanks. I need to process this for a bit. Thank you for telling me. (♥️) For you</td></tr>
+    <tr><td width="400px">Ok thanks. I need to process this for a bit. Thank you for telling me. (<3) For you</td></tr>
     <tr><td width="400px"> If you processing this means you dont want to be physical anymore then you'll need to tell me that very specifically</td></tr>
     <tr><td width="400px">But i would not blame you</td></tr>
     <tr><td width="400px">No babe that's not it at all. 
@@ -1758,7 +1758,7 @@ Okay Charlotte </td></tr>
     <tr><td width="400px">And cute af</td></tr>
     <tr><td width="400px">Haha, thanks</td></tr>
     <tr><td width="400px">Ditto to you as well, from the department of redundancy department </td></tr>
-    <tr><td width="400px">🤣</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">We open at 6am in the morning</td></tr>
     <tr><td width="400px">Dammit!</td></tr>
     <tr><td width="400px">EST RIGHT?</td></tr>
@@ -1931,7 +1931,7 @@ Tammy</td></tr>
 One of many spreadsheets</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">I have more questions (always will), but would you like to say or ask anything right now?</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">I know where linden is</td></tr>
     <tr><td width="400px">Went there a few dozen times</td></tr>
     <tr><td width="400px">Lol we might be talking about a different Linden. I only lived more than 5 miles from where I am sitting right now, very literally, before I was 5, ever</td></tr>
@@ -1962,7 +1962,7 @@ Now I understand. I am so sorry I feel like I really wooshed</td></tr>
 I started 3/20/2017
 
 Same day as Daniel Teuma, if you happen to know him</td></tr>
-    <tr><td width="400px">♥️ Daniel </td></tr>
+    <tr><td width="400px"><3 Daniel </td></tr>
     <tr><td width="400px">Samesies</td></tr>
     <tr><td width="400px">He and my neighbors are friends</td></tr>
     <tr><td width="400px">They're cameroonian</td></tr>
@@ -2004,7 +2004,7 @@ I wish I could hold you a lot more!</td></tr>
     <tr><td width="400px">There are so, so many more stories. And i know there are more that i do not remember right now at all but suddenly I'll </td></tr>
     <tr><td width="400px">Have that random memory</td></tr>
     <tr><td width="400px">Being held by you is nice</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Being held by you is nice ” </td></tr>
+    <tr><td width="400px">  <3  to " Being held by you is nice " </td></tr>
     <tr><td width="400px">I will probably get weird abiut ut at points </td></tr>
     <tr><td width="400px">I dont typically do well with touch even though i crave it</td></tr>
     <tr><td width="400px">Tell me what you want lol
@@ -2107,7 +2107,7 @@ It's cool </td></tr>
     <tr><td width="400px">No it isnt</td></tr>
     <tr><td width="400px">For now it is</td></tr>
     <tr><td width="400px">Then that means I'll let you know the second you can be here Friday and you can stay till i sort if have to kixk you out</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Then that means I'll let you know the second you can be here Friday and you can stay till i sort if have to kixk you out ” </td></tr>
+    <tr><td width="400px">  <3  to " Then that means I'll let you know the second you can be here Friday and you can stay till i sort if have to kixk you out " </td></tr>
     <tr><td width="400px">I know the exact mechanism here but it's too long to put on these margins
 
 I get this to a level. These are her kids</td></tr>
@@ -2206,7 +2206,7 @@ Your body and your face both told me, in perfect unison </td></tr>
     <tr><td width="400px">So perfect in my hands and in my eyes</td></tr>
     <tr><td width="400px">What objection could I have?</td></tr>
     <tr><td width="400px">Fucking use me you tart </td></tr>
-    <tr><td width="400px">😈</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Come and get it if you want me</td></tr>
     <tr><td width="400px">Sound familiar?</td></tr>
     <tr><td width="400px">Mmmm</td></tr>
@@ -2273,7 +2273,7 @@ One is cake, the other is cat
 
 Ew45 says they eat pets in Springfield Ohio </td></tr>
     <tr><td width="400px">Fml lol ewwww</td></tr>
-    <tr><td width="400px">🤣</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">How are you unaware of his quasi-latest blunder?</td></tr>
     <tr><td width="400px">Oh yes I do know this one, I was just slow to draw the inference 
 
@@ -2314,7 +2314,7 @@ I love you too</td></tr>
     <tr><td width="400px">It's good</td></tr>
     <tr><td width="400px">Like, really good feeling</td></tr>
     <tr><td width="400px">And i audibly gasped</td></tr>
-    <tr><td width="400px">(♥️)</td></tr>
+    <tr><td width="400px">(<3)</td></tr>
     <tr><td width="400px">Friday will be so unbelievably good</td></tr>
     <tr><td width="400px">This is weird but i feel really calmish now
 
@@ -2331,7 +2331,7 @@ We'll talk au matin, as you wish</td></tr>
     <tr><td width="400px">Haha I was kinda like one of those heavy blankets?</td></tr>
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">But a person is way better</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ But a person is way better ” </td></tr>
+    <tr><td width="400px">  <3  to " But a person is way better " </td></tr>
     <tr><td width="400px">Connected - that's another word</td></tr>
     <tr><td width="400px">Undissociated?</td></tr>
     <tr><td width="400px">I'm glad</td></tr>
@@ -2377,7 +2377,7 @@ It's a "me" issue and it was sensible and needed to be done, i should have asked
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Like.... i sit on the floor now </td></tr>
     <tr><td width="400px">Much more comfortable</td></tr>
-    <tr><td width="400px">😂</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">good on ya lol</td></tr>
     <tr><td width="400px">About friday....</td></tr>
     <tr><td width="400px">Yes about that</td></tr>
@@ -2400,7 +2400,7 @@ It's a "me" issue and it was sensible and needed to be done, i should have asked
     <tr><td width="400px">I gotta go in to a bunch of meetings ttyl</td></tr>
     <tr><td width="400px">Okay, good luck</td></tr>
     <tr><td width="400px">Im off to an appt then doing what i feel like</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Im off to an appt then doing what i feel like ” </td></tr>
+    <tr><td width="400px">  <3  to " Im off to an appt then doing what i feel like " </td></tr>
     <tr><td width="400px">I did a thing. Be proud. It always sucks</td></tr>
     <tr><td width="400px">Good job!</td></tr>
     <tr><td width="400px">:/</td></tr>
@@ -2618,7 +2618,7 @@ I don't actually need this
     <tr><td width="400px">If you are willing</td></tr>
     <tr><td width="400px">Okay, i can do that, I'm happy to</td></tr>
     <tr><td width="400px">I actually dont drink exceot like once or twice a year</td></tr>
-    <tr><td width="400px">☺️</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I'm not worried about that--i mean I am, because you are bit more fragile than most</td></tr>
     <tr><td width="400px">I will not be jealous or whatever</td></tr>
     <tr><td width="400px">I can abstain </td></tr>
@@ -2734,10 +2734,10 @@ You</td></tr>
     <tr><td width="400px">I will tell you something very sad but very true tomorrow
 
 Love you too</td></tr>
-    <tr><td width="400px">Okay 👍</td></tr>
+    <tr><td width="400px">Okay  </td></tr>
     <tr><td width="400px">Good morning to my favorite flavor</td></tr>
     <tr><td width="400px">O hai!</td></tr>
-    <tr><td width="400px">How are you? 🙂</td></tr>
+    <tr><td width="400px">How are you? :)</td></tr>
     <tr><td width="400px">Sleepy lol </td></tr>
     <tr><td width="400px">For sure. You dont start work for a while though so you could resleep</td></tr>
     <tr><td width="400px">There might be a 20 minute power nap in my future</td></tr>
@@ -2887,7 +2887,7 @@ So freaking cool</td></tr>
 Lol predictive text suggested "tits" several times </td></tr>
     <tr><td width="400px">Lol
 You've had this phone for like a week and it knows you!</td></tr>
-    <tr><td width="400px">😅</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I was going to ask the latest you'd want to come over/latest you'd want to stay til</td></tr>
     <tr><td width="400px">My intention is to make a swift exit at noon. And I should probably leave by five</td></tr>
     <tr><td width="400px">Sounds good</td></tr>
@@ -2930,7 +2930,7 @@ Bookstore eh? Not so much</td></tr>
     <tr><td width="400px">Not even the record lounge?</td></tr>
     <tr><td width="400px">I should go there sometime</td></tr>
     <tr><td width="400px">Yes! And allllll the thrift stores lol</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Cute!</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -3193,22 +3193,22 @@ Are you talking about my terse text?</td></tr>
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">I'm literally just trying to be efficient and address your concerns quickly</td></tr>
     <tr><td width="400px">Ok cool thanks</td></tr>
-    <tr><td width="400px">😊</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Hypersensitive to environmental changes</td></tr>
     <tr><td width="400px">Imma vibe you Missy</td></tr>
     <tr><td width="400px">It's a thing</td></tr>
     <tr><td width="400px">Lol maybe</td></tr>
     <tr><td width="400px">With my mouth</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Watch me</td></tr>
     <tr><td width="400px">Cant. My eyes roll back too far</td></tr>
-    <tr><td width="400px">😈</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">But seriously, too much is lost in text. Please never assume the worst and please don't be afraid to ask for clarification</td></tr>
     <tr><td width="400px">I have another request</td></tr>
     <tr><td width="400px">I've been nothing but 100% honest with you</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Ditto
 
 But i care about you, so i didn't know if there was something else bothering you from the homefront or anything</td></tr>
@@ -3217,7 +3217,7 @@ But i care about you, so i didn't know if there was something else bothering you
     <tr><td width="400px">Cambridge ones lol</td></tr>
     <tr><td width="400px">You have another?</td></tr>
     <tr><td width="400px">Request,  yes</td></tr>
-    <tr><td width="400px"> ​😂​ to “ Cambridge ones lol ” </td></tr>
+    <tr><td width="400px">  :)  to " Cambridge ones lol " </td></tr>
     <tr><td width="400px">I want you to do what feels best for you, and whatever i can do to help that magical release, please let me know
 
 Really. If you're in a groove and need to pound the fuck out of me til ny head bangs the wall then I'm cool with it. I have tylenol llol</td></tr>
@@ -3257,7 +3257,7 @@ Fucking word</td></tr>
     <tr><td width="400px">And i forget, "daddy" or never?</td></tr>
     <tr><td width="400px">Don't overthink the violence thing. All I'm really trying to say is I think I've grown comfortable with being vocal
 
-And yes you can call me Daddy if you like 😊</td></tr>
+And yes you can call me Daddy if you like :)</td></tr>
     <tr><td width="400px">Okay
 
 There are 2 things i dont like being called
@@ -3298,7 +3298,7 @@ I can also meet for lunch or coffee somewhere between like one and later if you 
     <tr><td width="400px">*fucks</td></tr>
     <tr><td width="400px">I will be happy to pick you up for a coffee date anyway</td></tr>
     <tr><td width="400px">Sorry, typing really fast and thriugh a lot of fury</td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Know any dark alleys around afternoon time in lansing?</td></tr>
     <tr><td width="400px">I only know them at night</td></tr>
     <tr><td width="400px">Hehheh</td></tr>
@@ -3328,7 +3328,7 @@ I can also meet for lunch or coffee somewhere between like one and later if you 
     <tr><td width="400px">But hey, look at this!</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">They're way improved</td></tr>
-    <tr><td width="400px">Oh my goddess your boo boos! I miss them 😘😘😘😘</td></tr>
+    <tr><td width="400px">Oh my goddess your boo boos! I miss them </td></tr>
     <tr><td width="400px">*KISS</td></tr>
     <tr><td width="400px">fml</td></tr>
     <tr><td width="400px">I miss you, too</td></tr>
@@ -3384,7 +3384,7 @@ MegaMall
 Somewhere else of your choosing</td></tr>
     <tr><td width="400px">Hey mega mall!I haven't been there in ages</td></tr>
     <tr><td width="400px">Does that work?</td></tr>
-    <tr><td width="400px">Yes 👍</td></tr>
+    <tr><td width="400px">Yes  </td></tr>
     <tr><td width="400px">But apparently no one here has any time management skills</td></tr>
     <tr><td width="400px">I'll  be there... eventially</td></tr>
     <tr><td width="400px">Ok just let me know where to find you</td></tr>
@@ -3398,7 +3398,7 @@ Somewhere else of your choosing</td></tr>
     <tr><td width="400px">Yep! 
 
 </td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Thank you for a very enjoyable to if not a lascivious once</td></tr>
     <tr><td width="400px">Word: day</td></tr>
     <tr><td width="400px">Thank YOU! See? I can be fun outside of sheets too
@@ -3663,7 +3663,7 @@ Anyway, someone i actually slept with thought it would be nice for me to get wax
 Thought Master Smith hisself migjt want to remain Modest</td></tr>
     <tr><td width="400px">*Mouster Smiths</td></tr>
     <tr><td width="400px">Lol</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">I long for your passion</td></tr>
     <tr><td width="400px">Ditto</td></tr>
     <tr><td width="400px">Hey, ever see Ghost.?</td></tr>
@@ -3888,7 +3888,7 @@ I am sooooo done with this body</td></tr>
     <tr><td width="400px">I know everyone's name too. First and last.</td></tr>
     <tr><td width="400px">Whew</td></tr>
     <tr><td width="400px">Sorry</td></tr>
-    <tr><td width="400px">It's okay 🙂</td></tr>
+    <tr><td width="400px">It's okay :)</td></tr>
     <tr><td width="400px">There is a lot here</td></tr>
     <tr><td width="400px">And I want to know it all</td></tr>
     <tr><td width="400px">Not all at once</td></tr>
@@ -3926,7 +3926,7 @@ Because they use the smallest one but i am.l permanently set to hypervigilance  
     <tr><td width="400px">What part?</td></tr>
     <tr><td width="400px">Also, it is, to me, the most humiliating thing in the world to have people and even strangers know really ultra intimate details of what must have happened based on literal physical presentation and evidence especially when you yourself dont know or remember or you didnt want them to know but they ask anyway</td></tr>
     <tr><td width="400px">That ceeling is the epitome of wanting to shrink down into yourself and die</td></tr>
-    <tr><td width="400px">First, hugs for you ((♥️))</td></tr>
+    <tr><td width="400px">First, hugs for you ((<3))</td></tr>
     <tr><td width="400px">There is nothing in my life experience that helps me understand this--the why part 
 
 I understand what you are saying but it's not adjacent to any thing I know
@@ -3947,7 +3947,7 @@ We have so, so much work to do</td></tr>
     <tr><td width="400px">I don't understand how you trust anyone...?</td></tr>
     <tr><td width="400px">Fml I hate to complain about me but I just got accused of the lamest middle school shit by my wife.  Already written off </td></tr>
     <tr><td width="400px">Swas=service with a smile. Quick Fab for her and I am out of this room</td></tr>
-    <tr><td width="400px">Please let me know if you're ok when you are able. ♥️</td></tr>
+    <tr><td width="400px">Please let me know if you're ok when you are able. <3</td></tr>
     <tr><td width="400px">You are the only time, ever, that anything or any part or anyone has not had me hurt after having been in me
 
 
@@ -4047,7 +4047,7 @@ What are you doing now? Take me through your day!</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">It's adorable!</td></tr>
     <tr><td width="400px">So then?</td></tr>
-    <tr><td width="400px">😂</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">You have like 10 things to which to respond!</td></tr>
     <tr><td width="400px">Gosh</td></tr>
     <tr><td width="400px">I actually got out of bed around half ten. 
@@ -4193,7 +4193,7 @@ That's what i can think of right now that i have that maybe will help and maybe 
     <tr><td width="400px">If any of that helps</td></tr>
     <tr><td width="400px">Honestly i want to chew a few mummies and lay back and have you hold me and fall asleep to very soft kisses in perfect warm arms</td></tr>
     <tr><td width="400px">You deserve this option</td></tr>
-    <tr><td width="400px">Put your teddies around you they love you too ♥️</td></tr>
+    <tr><td width="400px">Put your teddies around you they love you too <3</td></tr>
     <tr><td width="400px">You think i have teddies?</td></tr>
     <tr><td width="400px">Stuffies I mean!</td></tr>
     <tr><td width="400px">Teddys</td></tr>
@@ -4525,7 +4525,7 @@ But neither one of us had it</td></tr>
 Serious</td></tr>
     <tr><td width="400px">U r sooo hawt</td></tr>
     <tr><td width="400px">Problem statement no. 2</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ U r sooo hawt ” </td></tr>
+    <tr><td width="400px">  <3  to " U r sooo hawt " </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Camera equipment stays</td></tr>
     <tr><td width="400px">Albums stay </td></tr>
@@ -4585,7 +4585,7 @@ But I bet I get one in Waverly. They have 3</td></tr>
     <tr><td width="400px">Love it! Amazing!
 
 What do you look for at records? Like... is the rule for me never to acquire them for you if i see them in the wild?</td></tr>
-    <tr><td width="400px">Lol prepping food, quickie visit 🤪
+    <tr><td width="400px">Lol prepping food, quickie visit 
 All will be revealed 
 (It's actually boring)</td></tr>
     <tr><td width="400px">Alley will be revealed 
@@ -4679,12 +4679,12 @@ I really just don't know what you remember or notice or know or suspect </td></t
     <tr><td width="400px">I am sorry
 
 I do not, did not follow this lead</td></tr>
-    <tr><td width="400px">It's okay 🙂</td></tr>
+    <tr><td width="400px">It's okay :)</td></tr>
     <tr><td width="400px">Would an example help?</td></tr>
     <tr><td width="400px">Always riddleses with this one </td></tr>
     <tr><td width="400px">Okay golly</td></tr>
     <tr><td width="400px">Teeses</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">So for an example, you know that there have been chunks of my life where i just stopped eating or drinking. At all. Got me an official anorexia diagnosis once upon a time (it's kind of like a psycho contest with yourself to "earn" that title). I still have a hard time on occasion</td></tr>
     <tr><td width="400px">Make sense?</td></tr>
     <tr><td width="400px">Yes it does </td></tr>
@@ -4797,7 +4797,7 @@ I will be damned if you end up like my less fortunate friends </td></tr>
 
 Thank you for all of that
 
-Good morning, love ❤️ </td></tr>
+Good morning, love <3 </td></tr>
     <tr><td width="400px">Guess what i just found out?? There really IS a funtgelllin F off ville today,  lol</td></tr>
     <tr><td width="400px">If i go anywhere, would you like to be my date? Kol.</td></tr>
     <tr><td width="400px">Function, btw</td></tr>
@@ -4840,7 +4840,7 @@ Idk</td></tr>
     <tr><td width="400px">I feel seirdly related to bananas too. Maybe that's why you have the aversion? They taste too much like peoples?</td></tr>
     <tr><td width="400px">Lol I wouldn't know</td></tr>
     <tr><td width="400px">LIESSSSSSS</td></tr>
-    <tr><td width="400px">🤪</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">I do like banana bread</td></tr>
     <tr><td width="400px">Speaking of</td></tr>
     <tr><td width="400px">It's about time for my neighbor to bring zucchini bread</td></tr>
@@ -5120,8 +5120,8 @@ I think I have a couple of your records too </td></tr>
     <tr><td width="400px">Those sounds dont make words to me lol</td></tr>
     <tr><td width="400px">You ain't a kidding</td></tr>
     <tr><td width="400px">I think she said "have you seen my snorkel?"</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Scarf, gloves, mittens, kmit headband  ” </td></tr>
-    <tr><td width="400px"> Removed ‌❤️‌ from “ Scarf, gloves, mittens, kmit headband  ” </td></tr>
+    <tr><td width="400px">  <3  to " Scarf, gloves, mittens, kmit headband  " </td></tr>
+    <tr><td width="400px"> Removed ‌<3‌ from " Scarf, gloves, mittens, kmit headband  " </td></tr>
     <tr><td width="400px">Here's a question i know the answer to</td></tr>
     <tr><td width="400px">OMG I am a giggling idiot over here </td></tr>
     <tr><td width="400px">If you're going at me and it feels amazing but it might feel orgasmic-er, can i grind hard against your face? Like, whiplash hard mayhe?</td></tr>
@@ -5213,7 +5213,7 @@ Culver Indiana is in a part of the state that did not observe daylight time unti
     <tr><td width="400px">and weird stuff like China is all same tz</td></tr>
     <tr><td width="400px">Yes!</td></tr>
     <tr><td width="400px">I do not have the fortitude for that subtopics branching rn lol</td></tr>
-    <tr><td width="400px">☺️</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">If and when you feel like it, my letters for you are C-PTSD
 
 I havent ever actually looked it up. I think not knowimg helps me work things through with more of a natural finding things out kind of process</td></tr>
@@ -5251,7 +5251,7 @@ I rather think this is one of those slow and steady wins the race things, but id
 
 Keep winning! I want to see you win </td></tr>
     <tr><td width="400px">Thanks!</td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">You're aware of the already brick removal, yes?</td></tr>
     <tr><td width="400px">You told me a few things that sounded really positive and involved me. I'm not sure which one qualifies though</td></tr>
     <tr><td width="400px">Honestly probably all of them. My mind went for the kost obvious ones to me
@@ -5288,16 +5288,16 @@ I know there are more but they're not jumping to mind</td></tr>
 
 I like zoning in. I'm pretty sure you've seen that one. Or maybe you couldnt based on what else you were looking at lol</td></tr>
     <tr><td width="400px">I'm pretty sure I've seen you zone in. I like it</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Zoning out to me is bad. I can tell you how to tell if i do it
+    <tr><td width="400px">  <3  to " Zoning out to me is bad. I can tell you how to tell if i do it
 
-I like zoning in. I'm pretty sure you've seen that one. Or maybe you couldnt based on what else you were looking at lol ” </td></tr>
+I like zoning in. I'm pretty sure you've seen that one. Or maybe you couldnt based on what else you were looking at lol " </td></tr>
     <tr><td width="400px">Haha it's a good thing my accidental taps are legit</td></tr>
     <tr><td width="400px">Hahahahaha</td></tr>
     <tr><td width="400px">I'm going to get a quick shower</td></tr>
     <tr><td width="400px">Back in 20 or so, ok?</td></tr>
     <tr><td width="400px">Sounds good</td></tr>
-    <tr><td width="400px">😘</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"></td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Then they work on you lol</td></tr>
     <tr><td width="400px">Did you try a mouth and finger combination roughly 2 weeks ago?</td></tr>
@@ -5493,7 +5493,7 @@ Stationary or wheels?</td></tr>
     <tr><td width="400px">Might be the same?? Didnt look that closely</td></tr>
     <tr><td width="400px">But it's half the cowt</td></tr>
     <tr><td width="400px">Get 2 lol</td></tr>
-    <tr><td width="400px">It's also half the size 😊</td></tr>
+    <tr><td width="400px">It's also half the size :)</td></tr>
     <tr><td width="400px">I'm looking for 48 wide, 72 high</td></tr>
     <tr><td width="400px">Pshhhht</td></tr>
     <tr><td width="400px">Depth is flex, prefer at least 16 , no more than 24</td></tr>
@@ -5503,7 +5503,7 @@ Stationary or wheels?</td></tr>
     <tr><td width="400px">Well hot damn
 
 Thank you!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I dont think they're in stock right now but free ship to store is always an option</td></tr>
     <tr><td width="400px">Thank you
 
@@ -5562,13 +5562,13 @@ I have to actually brush my hair for these people</td></tr>
     <tr><td width="400px">I'll show you soon</td></tr>
     <tr><td width="400px">Oh, wild night? 
 
-😘</td></tr>
+</td></tr>
     <tr><td width="400px">Actually i have no idea what my hair looked like after you, come to think of it..... input?</td></tr>
     <tr><td width="400px">I don't remember tbh</td></tr>
     <tr><td width="400px">Like I'd be worried about that lol</td></tr>
     <tr><td width="400px">Just curious </td></tr>
     <tr><td width="400px">Take it as a badge of honor, lol</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Take it as a badge of honor, lol ” </td></tr>
+    <tr><td width="400px">  <3  to " Take it as a badge of honor, lol " </td></tr>
     <tr><td width="400px">I am really looking forward to the next time I see you with messed up hair, make up running, and looking for your other sock. </td></tr>
     <tr><td width="400px">{you can keep the one on if you need to}</td></tr>
     <tr><td width="400px">Lol. Both feet are terrible </td></tr>
@@ -5612,7 +5612,7 @@ Fuck that nonsense</td></tr>
 What you got?</td></tr>
     <tr><td width="400px">Lol not really joking but it's fine</td></tr>
     <tr><td width="400px">Anyway, hunting season</td></tr>
-    <tr><td width="400px">😂</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Oh fuck me silly</td></tr>
     <tr><td width="400px">That's the plan</td></tr>
     <tr><td width="400px">Right on queue!</td></tr>
@@ -5662,7 +5662,7 @@ What you got?</td></tr>
     <tr><td width="400px">Right?</td></tr>
     <tr><td width="400px">Oh good, new garbage news for us today</td></tr>
     <tr><td width="400px">Lol my manager told me to put my PTO in Oracle last week. I guess I caused "some issues"</td></tr>
-    <tr><td width="400px">Haha 😂</td></tr>
+    <tr><td width="400px">Haha :)</td></tr>
     <tr><td width="400px">Hope I get paid this week</td></tr>
     <tr><td width="400px">Is there real potential for you not to?</td></tr>
     <tr><td width="400px">I don't it</td></tr>
@@ -5757,7 +5757,7 @@ Did you have one situation in mind?</td></tr>
     <tr><td width="400px">Piling</td></tr>
     <tr><td width="400px">Makes more sense</td></tr>
     <tr><td width="400px">I want to tell you more things lol</td></tr>
-    <tr><td width="400px">Okay 👍</td></tr>
+    <tr><td width="400px">Okay  </td></tr>
     <tr><td width="400px">Anything you want to know right now?</td></tr>
     <tr><td width="400px">First thing that comes to your mind </td></tr>
     <tr><td width="400px">How did you meet the hubs</td></tr>
@@ -6223,7 +6223,7 @@ So.</td></tr>
     <tr><td width="400px">Yes! And here you are</td></tr>
     <tr><td width="400px">Indeed</td></tr>
     <tr><td width="400px">I am glad you are here</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I'm glad you're here</td></tr>
     <tr><td width="400px">Idk why you thought picking me was a good idea, but I am glad you did</td></tr>
     <tr><td width="400px">Me too</td></tr>
@@ -6382,7 +6382,7 @@ But yes</td></tr>
     <tr><td width="400px">That starts in the past</td></tr>
     <tr><td width="400px">Your reason, i think</td></tr>
     <tr><td width="400px">And mine, i just labelled it differently</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I think i might be getting better with my panic attacks</td></tr>
     <tr><td width="400px">Just as an aside</td></tr>
     <tr><td width="400px">Yay! Let's keep working on that.  Get you some nice endorphin releases</td></tr>
@@ -6553,7 +6553,7 @@ But to me i havent told you too much and so then i get mixed up</td></tr>
     <tr><td width="400px">I'm sorry</td></tr>
     <tr><td width="400px">Dont be. It made me happy</td></tr>
     <tr><td width="400px">Oh okay I'm glad</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">You accepted my offer</td></tr>
     <tr><td width="400px">I did</td></tr>
     <tr><td width="400px">So I'm happy
@@ -6590,8 +6590,8 @@ And can't wait to see you</td></tr>
 I love you babe</td></tr>
     <tr><td width="400px">I love you too</td></tr>
     <tr><td width="400px">More now than before too</td></tr>
-    <tr><td width="400px">Excellent ♥️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">Excellent <3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">💓</td></tr>
@@ -6643,7 +6643,7 @@ We can also do the suck test</td></tr>
     <tr><td width="400px">Oh yes! They are quite versatile</td></tr>
     <tr><td width="400px">Better try</td></tr>
     <tr><td width="400px">For science, ofc</td></tr>
-    <tr><td width="400px">For science ♥️</td></tr>
+    <tr><td width="400px">For science <3</td></tr>
     <tr><td width="400px">I like the new word btw</td></tr>
     <tr><td width="400px">Dang it why does 800 get here so early</td></tr>
     <tr><td width="400px">No kidding </td></tr>
@@ -6676,7 +6676,7 @@ Also why i won't shop satan store crafts and havent ever tasted chix for jesus</
     <tr><td width="400px">Yes. And yes. Forgot about the owner thing for a hot second
 
 Also why i won't shop satan store crafts and havent ever tasted chix for jesus</td></tr>
-    <tr><td width="400px">Chix for Jesus 😂</td></tr>
+    <tr><td width="400px">Chix for Jesus :)</td></tr>
     <tr><td width="400px">Sent twice. Weird</td></tr>
     <tr><td width="400px">Sent twice. Weird </td></tr>
     <tr><td width="400px">Which one is Satan store?</td></tr>
@@ -6718,13 +6718,13 @@ Nose</td></tr>
     <tr><td width="400px">Fuckkkkkking hot</td></tr>
     <tr><td width="400px">Speak nerdy to me anytime you want my panties moist and dropping to the floor</td></tr>
     <tr><td width="400px">I'd still rather you take them off me though</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Just you wait</td></tr>
     <tr><td width="400px">That act in itself is fucking fire</td></tr>
     <tr><td width="400px">We are going to have a little labial training</td></tr>
     <tr><td width="400px">Bbbbbbbbbbb</td></tr>
     <tr><td width="400px">Now, with extra tongue!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Bbbbby the way
 
 Ddddddo you have a button-up shirt? Preferably white?</td></tr>
@@ -6800,7 +6800,7 @@ I meant international veg day</td></tr>
     <tr><td width="400px">Hmm. Curious</td></tr>
     <tr><td width="400px">Ready for a question/request that's a little bit pensive for you?</td></tr>
     <tr><td width="400px">Is it? Is it thinking time</td></tr>
-    <tr><td width="400px">It is 👍</td></tr>
+    <tr><td width="400px">It is  </td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">I have an unspeakable need to make and procure something(s) for you
 
@@ -6848,7 +6848,7 @@ I'm really sorry</td></tr>
     <tr><td width="400px">Ok no apology needed </td></tr>
     <tr><td width="400px">Cold towel for your face? Would that help</td></tr>
     <tr><td width="400px">Hey how are you?</td></tr>
-    <tr><td width="400px">I hope you are napping. Lmk what's up when you can ♥️</td></tr>
+    <tr><td width="400px">I hope you are napping. Lmk what's up when you can <3</td></tr>
     <tr><td width="400px">Hey</td></tr>
     <tr><td width="400px">Really sorru about that</td></tr>
     <tr><td width="400px">You're back!</td></tr>
@@ -7255,7 +7255,7 @@ Where does your cum go if I'm on top? Just a giant bucket back out of me and ont
 I really had to idea what to expect 
 
 I don't know how to use lube with another person  so knowing how to do stuff if i want it was an awkward thought </td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">And i didn't have a plan if i couldn't get you in. I always need a plan</td></tr>
     <tr><td width="400px">What can you say in response?</td></tr>
     <tr><td width="400px">Everything, I'm just not sure where to start :)</td></tr>
@@ -7339,7 +7339,7 @@ Another is if I cant or dont get wet enough for you</td></tr>
     <tr><td width="400px">There isnt</td></tr>
     <tr><td width="400px">I think i do; i have no way of telling </td></tr>
     <tr><td width="400px">Ok! </td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Imma do my damn best to handle it with all the care it should have</td></tr>
     <tr><td width="400px">You deserve that</td></tr>
     <tr><td width="400px">You can kind of think of it with me as a borderline consensual virgin. Almost every experience with you is new</td></tr>
@@ -7360,7 +7360,7 @@ That was a first time - you basically broke me in to the concept of relaxing</td
     <tr><td width="400px">It really is</td></tr>
     <tr><td width="400px">Let's do that more often</td></tr>
     <tr><td width="400px">Okay!</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">I am fading fast here
 
@@ -7402,8 +7402,8 @@ Holy fuck. I know exactly where and what i want that finger to do stuff</td></tr
     <tr><td width="400px">I feel pathetic begging you to love me like that</td></tr>
     <tr><td width="400px">I havent ever wanted anything more</td></tr>
     <tr><td width="400px">It's how I want to, so no worries there</td></tr>
-    <tr><td width="400px">❤</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I think i am faded now</td></tr>
     <tr><td width="400px">Backatcha</td></tr>
     <tr><td width="400px">Me too baby</td></tr>
@@ -7412,7 +7412,7 @@ I love you!</td></tr>
     <tr><td width="400px">I love you too
 
 So fucking much</td></tr>
-    <tr><td width="400px">Hieeee! 😘😘😘</td></tr>
+    <tr><td width="400px">Hieeee! </td></tr>
     <tr><td width="400px">It's earlyyyyyy</td></tr>
     <tr><td width="400px">How are you?</td></tr>
     <tr><td width="400px">What are you up to after work?</td></tr>
@@ -7424,7 +7424,7 @@ It was actually delivered to the store the same day! I did not expect it until t
     <tr><td width="400px">That's good!</td></tr>
     <tr><td width="400px">How are you feeling?</td></tr>
     <tr><td width="400px">Sleepy but okay thanks</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">And you?</td></tr>
     <tr><td width="400px">Pretty good! Catching up on some financial tracking lol</td></tr>
     <tr><td width="400px">Nice</td></tr>
@@ -7441,7 +7441,7 @@ It was actually delivered to the store the same day! I did not expect it until t
     <tr><td width="400px">I need to wash milk bottles..  today is milk day</td></tr>
     <tr><td width="400px">Back in 10</td></tr>
     <tr><td width="400px">Enjoy!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Did you say you have to go in to the office today?</td></tr>
     <tr><td width="400px">And tomorrow</td></tr>
     <tr><td width="400px">Ick</td></tr>
@@ -7529,7 +7529,7 @@ I think he might be paper maché (?). He's very light and I think he's hollow</t
 
 I feel like you might not have known that</td></tr>
     <tr><td width="400px">Fair! </td></tr>
-    <tr><td width="400px">We tried a buzzy cock ring once. It was kinda fun for a minute. Then it broke 😁</td></tr>
+    <tr><td width="400px">We tried a buzzy cock ring once. It was kinda fun for a minute. Then it broke :)</td></tr>
     <tr><td width="400px">I have at least one lol</td></tr>
     <tr><td width="400px">How does one start that? Who puts it on and when and stuff?</td></tr>
     <tr><td width="400px">I don't remember how it works. A little twist or something. It can be a team effort. Best to get me hard first</td></tr>
@@ -7583,7 +7583,7 @@ I feel like you might not have known that</td></tr>
     <tr><td width="400px">Brat </td></tr>
     <tr><td width="400px">Got my boxers wet </td></tr>
     <tr><td width="400px">Awww so sorrrrrrry</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Just the precum? Shame to waste it. Maybe you imagine me getting tighter and tighter before my inner walls clench down on you and release a waterfall so you can have a happier day at work</td></tr>
     <tr><td width="400px">It was just the pre </td></tr>
     <tr><td width="400px">Fuuuuuuuck </td></tr>
@@ -7603,7 +7603,7 @@ I feel like you might not have known that</td></tr>
 On second thought, maybe don't whisper it</td></tr>
     <tr><td width="400px">I want to share something with you...  something positive
 
-Since we spent the night together, I feel like my depression has backed off. I feel like I have something I can look forward to. Even though it's kind of frustrating we can't go full tilt here, it's exciting. And I love knowing it's just a matter of time before we can be together again. And that makes me happy. So thank you ☺️</td></tr>
+Since we spent the night together, I feel like my depression has backed off. I feel like I have something I can look forward to. Even though it's kind of frustrating we can't go full tilt here, it's exciting. And I love knowing it's just a matter of time before we can be together again. And that makes me happy. So thank you :)</td></tr>
     <tr><td width="400px">That makes me happy! And.... same 
 
 I have some similar revelations i would like to share if youre good with that</td></tr>
@@ -7615,7 +7615,7 @@ I have some similar revelations i would like to share if youre good with that</t
     <tr><td width="400px">In all seriousness, if you had not said it, I would still be worried that it's true without knowing so, and that is pretty painful for me to carry around. 
 
 So I appreciate you telling me that, in all seriousness. It's much easier to know the truth than be anxious about what might be. </td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I got this babe. </td></tr>
     <tr><td width="400px">You dont have to. It's not your responsibility, ever. But thank you</td></tr>
     <tr><td width="400px">And i thought it was pretty plainly obvious but know it's touchy, or i would have told you sooner</td></tr>
@@ -7676,7 +7676,7 @@ With my nail</td></tr>
     <tr><td width="400px">I are word good huh?</td></tr>
     <tr><td width="400px">I do it because i dont know what else to do with too much or too little feeling</td></tr>
     <tr><td width="400px">You verb noun adverb!</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ You verb noun adverb! ” </td></tr>
+    <tr><td width="400px">  <3  to " You verb noun adverb! " </td></tr>
     <tr><td width="400px">What else?</td></tr>
     <tr><td width="400px">Thanks that does put perspective on it. Can't say I've never been inclined to be.... Mean to myself before</td></tr>
     <tr><td width="400px">I've got a meeting with David in a couple minutes so I'll probably be quiet for a while</td></tr>
@@ -7705,11 +7705,11 @@ Could use some internal warming maybe</td></tr>
     <tr><td width="400px">Could you do me a favor?</td></tr>
     <tr><td width="400px">What's up?</td></tr>
     <tr><td width="400px">Can you call the waaambulance for me ?</td></tr>
-    <tr><td width="400px">Sure 🙂</td></tr>
+    <tr><td width="400px">Sure :)</td></tr>
     <tr><td width="400px">Better ham it up</td></tr>
     <tr><td width="400px">Waaaaaaaaaah</td></tr>
     <tr><td width="400px">WAAAAAAAAAAAH</td></tr>
-    <tr><td width="400px">Yep 👍</td></tr>
+    <tr><td width="400px">Yep  </td></tr>
     <tr><td width="400px">AM I doing it right? 
 </td></tr>
     <tr><td width="400px">Yes!</td></tr>
@@ -7775,7 +7775,7 @@ I want you to know that i want to give you all tge attention and more for what y
     <tr><td width="400px">Be selfish!</td></tr>
     <tr><td width="400px">Say it with me..... WAAAAAAAAAAH!</td></tr>
     <tr><td width="400px">But seriously</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Still working :)</td></tr>
     <tr><td width="400px">Jsyk, my post-us depressive episode was actually kind of a good thing</td></tr>
     <tr><td width="400px">Just complicated</td></tr>
@@ -7888,7 +7888,7 @@ I think you will find out well enough what I like, and I will find out well enou
 
 You're just not used to it</td></tr>
     <tr><td width="400px">Nbd</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I dont want you to feel bad</td></tr>
     <tr><td width="400px">And why would I?</td></tr>
     <tr><td width="400px">If you feel like you're not doing well enough or if you're doing something i don't love having done</td></tr>
@@ -7906,7 +7906,7 @@ Don't overthink it :)</td></tr>
 
 I'm be back soon!</td></tr>
     <tr><td width="400px">Me talk good er then tooo</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Alrighty then!</td></tr>
     <tr><td width="400px">So, what's up?</td></tr>
     <tr><td width="400px">So .. question for you: did you have any idea how old I am when you lured me to your office?</td></tr>
@@ -7972,7 +7972,7 @@ Too</td></tr>
 
 I would welcome any and all that came my way now</td></tr>
     <tr><td width="400px">Lol you're not really missing much but ok :)</td></tr>
-    <tr><td width="400px">I had this idea that we could do a Google chat or something with video and make our own own 🤪</td></tr>
+    <tr><td width="400px">I had this idea that we could do a Google chat or something with video and make our own own </td></tr>
     <tr><td width="400px">Own *porn</td></tr>
     <tr><td width="400px">You figure it out and I'll probably be on board  ;)</td></tr>
     <tr><td width="400px">I'll see what I can figure out
@@ -8106,7 +8106,7 @@ I hope that's making sense</td></tr>
     <tr><td width="400px">Bonjour mon amore!</td></tr>
     <tr><td width="400px">C'est un peut tot, non?</td></tr>
     <tr><td width="400px">Peut etre</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Did you fall asleep at the keyboard?</td></tr>
     <tr><td width="400px">Kind of
 
@@ -8239,7 +8239,7 @@ Fuck me that is so hot</td></tr>
     <tr><td width="400px">I know i do. My legs are even shaking</td></tr>
     <tr><td width="400px">Again</td></tr>
     <tr><td width="400px">Oh i was sitting on your dick and a tiny lake for sure</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">This reminds me of something i was going to ask</td></tr>
     <tr><td width="400px">Anything</td></tr>
     <tr><td width="400px">It felt like i had random minigasms almost the whole rest of the night. I would twitch and shudder and have this fantastic whole body shiver type thing but in an amazing way</td></tr>
@@ -8268,7 +8268,7 @@ So much of this</td></tr>
     <tr><td width="400px">Yes. And very foreign </td></tr>
     <tr><td width="400px">I believe you but i dont think I've really believed someone ever before </td></tr>
     <tr><td width="400px">I cant explain this, but i actually feel that you love me</td></tr>
-    <tr><td width="400px">I want all good things for you. Yes I do love you ♥️</td></tr>
+    <tr><td width="400px">I want all good things for you. Yes I do love you <3</td></tr>
     <tr><td width="400px">I'm sure you've heard these lyrics
 
 Was she good? Just what you liked?
@@ -8310,7 +8310,7 @@ It's already obvious
 And you deserve to know. Literally life changing</td></tr>
     <tr><td width="400px">Yay! 
 
-I am so happy for you! 🥰</td></tr>
+I am so happy for you!  </td></tr>
     <tr><td width="400px">And I want to give you more and more and more</td></tr>
     <tr><td width="400px">OMG </td></tr>
     <tr><td width="400px">I just figured something out</td></tr>
@@ -8421,7 +8421,7 @@ I'm open to experiments</td></tr>
     <tr><td width="400px">And incompetent coworkers</td></tr>
     <tr><td width="400px">Aargh! I say!</td></tr>
     <tr><td width="400px">I am ovvvvvver today.  Home, work, otherwise</td></tr>
-    <tr><td width="400px">((♥️))</td></tr>
+    <tr><td width="400px">((<3))</td></tr>
     <tr><td width="400px">Wanna see our "2 week communication"?
 
 Honestly made me mad</td></tr>
@@ -8510,7 +8510,7 @@ I'll make an apron to hang off it</td></tr>
     <tr><td width="400px">I never did. I think that was a little dated when I was a kid</td></tr>
     <tr><td width="400px">And I actually don't know what's next lol</td></tr>
     <tr><td width="400px">Your message seemed genuinely concerned with rescuaged?</td></tr>
-    <tr><td width="400px">I just want you to know I'm there if you need me. ☺️</td></tr>
+    <tr><td width="400px">I just want you to know I'm there if you need me. :)</td></tr>
     <tr><td width="400px">You're the best!</td></tr>
     <tr><td width="400px">Managed to clean some even after our my early morning rising.  And framed some stuff</td></tr>
     <tr><td width="400px">Good job</td></tr>
@@ -8533,7 +8533,7 @@ Can I see the ingredients?</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Alright cool! The vegans will hate but that's what they do lol</td></tr>
     <tr><td width="400px">For every vegan who doesn't eat cheese, i have 3x as much</td></tr>
-    <tr><td width="400px">Me too lol 🤣</td></tr>
+    <tr><td width="400px">Me too lol :)</td></tr>
     <tr><td width="400px">So the shelves in the basement are also enabling rehab of the shelves in my office so I can actually see the things I have and have a place to put my camera stuff. That extra tripod really threw off the chi</td></tr>
     <tr><td width="400px">Do you need a dehumidifier?</td></tr>
     <tr><td width="400px">Unsure, but you and i live in an identical climate. You dislike it?</td></tr>
@@ -8543,7 +8543,7 @@ Can I see the ingredients?</td></tr>
     <tr><td width="400px">Like $16k</td></tr>
     <tr><td width="400px">That's a lot of playdates lol</td></tr>
     <tr><td width="400px">Ikr?</td></tr>
-    <tr><td width="400px">But only a couple months o electric bills 😂</td></tr>
+    <tr><td width="400px">But only a couple months o electric bills :)</td></tr>
     <tr><td width="400px">Oiye</td></tr>
     <tr><td width="400px">I've also got a bunch of hydroponic stuff. I grew some decent veg a few years ago. Then depression showed up and told me to stop paying attention. The dead remains are still all over the place</td></tr>
     <tr><td width="400px">Maybe you and i can both get our residences clean lol</td></tr>
@@ -8578,7 +8578,7 @@ I just dont know how to do this</td></tr>
     <tr><td width="400px">Bon chance a vous aussi ce weekend </td></tr>
     <tr><td width="400px">Arrived</td></tr>
     <tr><td width="400px">I love you, sweet dreams and whatnot</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Allo!</td></tr>
     <tr><td width="400px">How are you?</td></tr>
     <tr><td width="400px">I woke up and started cleaning lol
@@ -8592,7 +8592,7 @@ How was your night?</td></tr>
     <tr><td width="400px">Ok. I was a little cold. I don't always realize it until I wake up tensed. I did some stretches. Better now
 
 Went to bed at 2000 lol</td></tr>
-    <tr><td width="400px">Woke up thinking of you🥰</td></tr>
+    <tr><td width="400px">Woke up thinking of you </td></tr>
     <tr><td width="400px">Omg twins!!!</td></tr>
     <tr><td width="400px">Yay! </td></tr>
     <tr><td width="400px">I bet you didn't have a hard-on tho</td></tr>
@@ -8636,7 +8636,7 @@ Something Michigan themed!</td></tr>
 3729 US Highway 23
 Greenbush, MI</td></tr>
     <tr><td width="400px">Ty</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Send the bat signal if you need rescuing!</td></tr>
     <tr><td width="400px">Will do thanks</td></tr>
     <tr><td width="400px">I actually do kinda like Michigan stuff. I'm a michigoon through and through</td></tr>
@@ -8783,11 +8783,11 @@ With work hours?</td></tr>
     <tr><td width="400px">Hmm very good!</td></tr>
     <tr><td width="400px">I also run a tight ship, take direction and feedback well, and sometimes suck up to the man in charge</td></tr>
     <tr><td width="400px">I'm not just lip service</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">How ya doin?</td></tr>
     <tr><td width="400px">I have 2 things for you to look up later</td></tr>
     <tr><td width="400px">90 minutes to go!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Then?</td></tr>
     <tr><td width="400px">Groceries </td></tr>
     <tr><td width="400px">What are you getting me?
@@ -8948,7 +8948,7 @@ Just song to me baby</td></tr>
     <tr><td width="400px">Ohhhh</td></tr>
     <tr><td width="400px">I am kinda doofy</td></tr>
     <tr><td width="400px">Good i like it</td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I am a good boy</td></tr>
     <tr><td width="400px">The goodest</td></tr>
     <tr><td width="400px">Thank you</td></tr>
@@ -9178,7 +9178,7 @@ Fairy tale?</td></tr>
     <tr><td width="400px">I always liked the story of the crow and the pitcher</td></tr>
     <tr><td width="400px">https://aesopsfables.org/F69_The-Crow-and-the-Pitcher.html</td></tr>
     <tr><td width="400px">So how YOU doin?</td></tr>
-    <tr><td width="400px">Pretty good 😁</td></tr>
+    <tr><td width="400px">Pretty good :)</td></tr>
     <tr><td width="400px">Organized?</td></tr>
     <tr><td width="400px">Slightly more than before
 Only slightly</td></tr>
@@ -9215,7 +9215,7 @@ I've never been to Alpena. Looks like fun geology!</td></tr>
 
 It all sounds great!</td></tr>
     <tr><td width="400px">I might fall asleep for a quick sec but would love to hear every thought you had today</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Scoff! Denying me!? You know i love for the details
 
 How cruel. Very well</td></tr>
@@ -9575,7 +9575,7 @@ I wouldn't even pretend to know</td></tr>
     <tr><td width="400px">Such a shame</td></tr>
     <tr><td width="400px">What can you tell me of such things?</td></tr>
     <tr><td width="400px">Havent had the experiences i thought might be prudent to gain such sweet, carnal knowledge between two similarly subby sluts</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Did you triumph at thrifting?</td></tr>
     <tr><td width="400px">Obviously!
 
@@ -9593,7 +9593,7 @@ Found you some possibilities. If you dont want them I'll use them</td></tr>
     <tr><td width="400px">How's the week ahead looking?</td></tr>
     <tr><td width="400px">Hope it's been an okay evening for you</td></tr>
     <tr><td width="400px">It has
-You made it so 😊</td></tr>
+You made it so :)</td></tr>
     <tr><td width="400px">You sure?
 
 You were very quiet</td></tr>
@@ -9619,7 +9619,7 @@ The coffee was lovely. I get beans from Fresh Thyme and mix them. Grind to order
     <tr><td width="400px">Nice</td></tr>
     <tr><td width="400px">That was me today </td></tr>
     <tr><td width="400px">Yay!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Are you happy to be coming home?</td></tr>
     <tr><td width="400px">Yes mostly
 
@@ -9657,7 +9657,7 @@ But there's you at home too!</td></tr>
     <tr><td width="400px">Oh sure lol. I have two "tentative placeholder for interview" today. HR masterminds at their finest lol</td></tr>
     <tr><td width="400px">Ofc!</td></tr>
     <tr><td width="400px">And now i depart :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">You having a day?</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -9788,12 +9788,12 @@ And no I don't understand </td></tr>
     <tr><td width="400px">Because i never wabt you to think I'm taking too much and i feel greedy a lot of the time </td></tr>
     <tr><td width="400px">I can assure you I am  nowhere in the realm of such thoughts </td></tr>
     <tr><td width="400px">Okay :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Okay </td></tr>
     <tr><td width="400px">Besides, you've been very generous to me :)</td></tr>
     <tr><td width="400px">I dont really think so (from my perspective) but thank you </td></tr>
     <tr><td width="400px">Well you have been in my opinion. In any case, we agreed! We will say something before icky feelings get the better of us. As best as we can. </td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">I tried to smile in an emojibut chonky thumbs lol</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Almost have a kitchen corner done!</td></tr>
@@ -9971,8 +9971,8 @@ I love you! Maybe see you early in the morn!</td></tr>
 
 Actual sighting?</td></tr>
     <tr><td width="400px">On the intertext lol</td></tr>
-    <tr><td width="400px">😊</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Good morning my sweetest one!</td></tr>
     <tr><td width="400px">And to you as well!</td></tr>
@@ -10036,7 +10036,7 @@ Have you ever been to April's Antiques or Dicker & Deal? On kalamazoo.  Walking 
 Just felt likecomplaining lol
 
 Come get what they're feeding us and hang out with me. My customer service voice & persona are hilarious</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">What are they feeding you?</td></tr>
     <tr><td width="400px">Tacos e mas is what the email said</td></tr>
     <tr><td width="400px">It's always fucking Mexican food</td></tr>
@@ -10432,7 +10432,7 @@ If you've never fucked on your side, it's a wonderful way to wake up. </td></tr>
     <tr><td width="400px">Hurray!!!</td></tr>
     <tr><td width="400px">Sweet baby:)</td></tr>
     <tr><td width="400px">Sweet daddy :)</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">You getting ready for work?</td></tr>
     <tr><td width="400px">Indeed</td></tr>
     <tr><td width="400px">Puffy eyes and all but I'm very clean and soft!</td></tr>
@@ -10465,7 +10465,7 @@ Where might i find two, 3 or 4 tiered wood/mdf shelving things for not very much
     <tr><td width="400px">The girl wants sauce lol</td></tr>
     <tr><td width="400px">Matching, but color doesnt matter</td></tr>
     <tr><td width="400px">I want to be overfilled and dripping with sauce for dayssssss</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I want to be overfilled and dripping with sauce for dayssssss ” </td></tr>
+    <tr><td width="400px">  <3  to " I want to be overfilled and dripping with sauce for dayssssss " </td></tr>
     <tr><td width="400px">I knew it lol</td></tr>
     <tr><td width="400px">Well duh ive told you</td></tr>
     <tr><td width="400px">Bottomless sauce refills guaranteed for life. How does that sound?</td></tr>
@@ -10633,7 +10633,7 @@ I did kinda want to play with your plug..  on you</td></tr>
 You have consent to start what you want there
 
 I think maybe you could slip a finger or a toy or something up while you're already in the front door knocking away ;)</td></tr>
-    <tr><td width="400px">Thank you ❤️ </td></tr>
+    <tr><td width="400px">Thank you <3 </td></tr>
     <tr><td width="400px">Ok I'm back. Had to walk home. I've a screw in me tyre!</td></tr>
     <tr><td width="400px">Thank you for the guidance there. I am willing to play this way but will confirm and consent in the moment. Deal?</td></tr>
     <tr><td width="400px">Yes 
@@ -10847,7 +10847,7 @@ I accept your offer under at least one condition - please let me try to do the s
     <tr><td width="400px">Yay! I had a decent sleep, 7/10 I'd say. That's good enough! Feeling good this morning</td></tr>
     <tr><td width="400px">I accept your counteroffer:)</td></tr>
     <tr><td width="400px">Thanks!</td></tr>
-    <tr><td width="400px">You're the best 😊</td></tr>
+    <tr><td width="400px">You're the best :)</td></tr>
     <tr><td width="400px">We can both be each other's best then</td></tr>
     <tr><td width="400px">That is perfect!</td></tr>
     <tr><td width="400px">Ugh. I need my head and face and whole damn body rubbed down. Hard.</td></tr>
@@ -10901,7 +10901,7 @@ We get service center emails from Amy as "friendly reminders" about scents every
     <tr><td width="400px">So then what does she do?</td></tr>
     <tr><td width="400px">I'll tell you in a few -- gotta go get my car</td></tr>
     <tr><td width="400px">Bundle up!</td></tr>
-    <tr><td width="400px">Lol I grabbed a Lime scooter. Wiped out on my first turn. I'm ok-a little scrape, but mostly hurt pride because I did it in front of people 😂</td></tr>
+    <tr><td width="400px">Lol I grabbed a Lime scooter. Wiped out on my first turn. I'm ok-a little scrape, but mostly hurt pride because I did it in front of people :)</td></tr>
     <tr><td width="400px">Glad I wore my Carhartt hoodie!</td></tr>
     <tr><td width="400px">So anyway, she sits on the back porch, which is completely isolated from the house but is insulated and heated. And watches streaming stuff and smokes. </td></tr>
     <tr><td width="400px">And buys things from bald guy zon </td></tr>
@@ -10924,7 +10924,7 @@ Thanks</td></tr>
     <tr><td width="400px">I also stopped reminding her that her dreams are contingent on us being able to save money lol</td></tr>
     <tr><td width="400px">Ain't happening</td></tr>
     <tr><td width="400px">And this year, I stopped trying as well lol</td></tr>
-    <tr><td width="400px">So 🤷🤷</td></tr>
+    <tr><td width="400px">So \/\/</td></tr>
     <tr><td width="400px">What are your dreams?</td></tr>
     <tr><td width="400px">Side note: what are you doing tonight?</td></tr>
     <tr><td width="400px">She wants a bigger house. Idgaf</td></tr>
@@ -10952,7 +10952,7 @@ Or all intensive porpoises if you prefer </td></tr>
     <tr><td width="400px">Shallot bees and bone apple teeth
 
 What a world!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Omg so helpful</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -11031,9 +11031,9 @@ Ie rough, animalistic, romantic, average, adventurous, etc?</td></tr>
     <tr><td width="400px">I can't wait! 
 
 I'm going into a meeting with video so I will be radio silent for a bit</td></tr>
-    <tr><td width="400px"> ​😢​ to “ I can't wait! 
+    <tr><td width="400px">  😢  to " I can't wait! 
 
-I'm going into a meeting with video so I will be radio silent for a bit ” </td></tr>
+I'm going into a meeting with video so I will be radio silent for a bit " </td></tr>
     <tr><td width="400px">Back! Thank goodness at least for efficient meetings that break early. </td></tr>
     <tr><td width="400px">Never heard of em</td></tr>
     <tr><td width="400px">They are a rarity</td></tr>
@@ -11331,7 +11331,7 @@ If she balks at that, repeat what you already said. Same tone. Same cadence. Sam
 I can't thank you enough</td></tr>
     <tr><td width="400px">Hey babe I am fading fast
 
-Thanks again for the wisdoms! And helping me in my time of need. You are awesome and I love you ❤️ 
+Thanks again for the wisdoms! And helping me in my time of need. You are awesome and I love you <3 
 </td></tr>
     <tr><td width="400px">Good morning sugar lumps!</td></tr>
     <tr><td width="400px">Good morning baby 
@@ -11575,7 +11575,7 @@ Snek is friend</td></tr>
 
 Must've been a wicked cool person with PhanTol</td></tr>
     <tr><td width="400px">Wanna know my immediate impression?</td></tr>
-    <tr><td width="400px">Sure 🙂</td></tr>
+    <tr><td width="400px">Sure :)</td></tr>
     <tr><td width="400px">I usually get more booka than that shelf in one trip, lol</td></tr>
     <tr><td width="400px">Lolol</td></tr>
     <tr><td width="400px">I know it. I just don't book much</td></tr>
@@ -11652,7 +11652,7 @@ This should be a pretty short trip </td></tr>
     <tr><td width="400px">Pas mal, merci
 
 Comment etait le supermarche? Vous avez acheter quoi?</td></tr>
-    <tr><td width="400px">I sure wish I spoke French as pretty as you do ❤️</td></tr>
+    <tr><td width="400px">I sure wish I spoke French as pretty as you do <3</td></tr>
     <tr><td width="400px">Sorry adverb!</td></tr>
     <tr><td width="400px">C'est facile!</td></tr>
     <tr><td width="400px">What did you get at Kroger?</td></tr>
@@ -11803,7 +11803,7 @@ She is sitting on the back porch doing what she does there</td></tr>
     <tr><td width="400px">Lay back with music and a face mask</td></tr>
     <tr><td width="400px">Hey i love you</td></tr>
     <tr><td width="400px">Hey I love you too babe!
-Thanks 😊</td></tr>
+Thanks :)</td></tr>
     <tr><td width="400px">When these symptoms die back I will be able to deal with a little bit at least</td></tr>
     <tr><td width="400px">Or not 
 
@@ -11888,7 +11888,7 @@ Hosted fea!? That's so cool!
 
 How was your apres midi?</td></tr>
     <tr><td width="400px">I hope you had a restful sleep! 
-😘
+
 It's been good. I can barely nose, but it's been good. I've been repairing/servicing things instead of cleaning. </td></tr>
     <tr><td width="400px">No nose. I have no nose.  I only have this thing on my face that runs like a faucet sometimes </td></tr>
     <tr><td width="400px">Poor baby!
@@ -11899,7 +11899,7 @@ What have you been able to repair?</td></tr>
 
 Pretty satisfying all in all</td></tr>
     <tr><td width="400px">Now I'm making semi-permanent light installs, tacking up the cordage with hot glue lol</td></tr>
-    <tr><td width="400px">Probably ruining another hoodie 😅</td></tr>
+    <tr><td width="400px">Probably ruining another hoodie :)</td></tr>
     <tr><td width="400px">Noooooo!!!!! Hoodies are THE BEST
 
 I have yet to see you in one though</td></tr>
@@ -11909,9 +11909,9 @@ I have yet to see you in one though</td></tr>
     <tr><td width="400px">I have a very excessive amount
 
 Actually, maybe I'll fold some!</td></tr>
-    <tr><td width="400px">♥️ that!
+    <tr><td width="400px"><3 that!
 
-No material damage to today's hoodie 🙂</td></tr>
+No material damage to today's hoodie :)</td></tr>
     <tr><td width="400px">Hurray!</td></tr>
     <tr><td width="400px">I'm curious what you think of Beach Bunny. Whenever you're in the mood , or if it's a hard no. </td></tr>
     <tr><td width="400px">Which should i listen to first?</td></tr>
@@ -11940,8 +11940,8 @@ Feeling is up in the air rn, I'm at a precipice</td></tr>
 
 House</td></tr>
     <tr><td width="400px">https://open.spotify.com/track/2SDswD3RdceDWthkgCrCCU?si=K9CrCd3DSjS13DyqXpRbQg</td></tr>
-    <tr><td width="400px">Just for you ❤️ </td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">Just for you <3 </td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Thank you </td></tr>
     <tr><td width="400px">Any time</td></tr>
     <tr><td width="400px">I randomly downloaded RisingSon from a binary repo, rest is my history. I probably missed a tour in Detroit by a year. </td></tr>
@@ -11953,7 +11953,7 @@ Thoughts on Julia Michaels song?</td></tr>
     <tr><td width="400px">Will queue Julia now!
 She did "horns" right?</td></tr>
     <tr><td width="400px">Nope. Different lady</td></tr>
-    <tr><td width="400px">I can relate to this sentiment 😊</td></tr>
+    <tr><td width="400px">I can relate to this sentiment :)</td></tr>
     <tr><td width="400px">Yeah</td></tr>
     <tr><td width="400px">I get that</td></tr>
     <tr><td width="400px">I feel bad saying this but I don't often click with contemporary male vocals</td></tr>
@@ -12041,7 +12041,7 @@ Very very unlikely. And a cardigan over it. I like you salivating while you wait
     <tr><td width="400px">I only wear a bra like half the time I'm outside tge house anyway</td></tr>
     <tr><td width="400px">Oh sweet baby </td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2?si=YyznHaiZSoyTRmffcj2rpQ
 
 
@@ -12051,8 +12051,8 @@ I have a completely different perspective on this all of a sudden</td></tr>
     <tr><td width="400px">Say more </td></tr>
     <tr><td width="400px">Please tell me your current familiarity with the song. This context will help!</td></tr>
     <tr><td width="400px">Read the lyrics. Felt a way. That's about it.</td></tr>
-    <tr><td width="400px">😊</td></tr>
-    <tr><td width="400px">Cool. Ty 😊 
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px">Cool. Ty :) 
 
 Few songs speak to me in the way this does. 
 
@@ -12069,7 +12069,7 @@ My romantic brain wants to be your everything </td></tr>
     <tr><td width="400px">Is there a continuation to that? There doesnt need to be</td></tr>
     <tr><td width="400px">I love and appreciate you for you, yknow</td></tr>
     <tr><td width="400px">I could lounge in that song for hours; You would make it complete for the first time for me</td></tr>
-    <tr><td width="400px">That's one of the closer connections to my heart ❤️</td></tr>
+    <tr><td width="400px">That's one of the closer connections to my heart <3</td></tr>
     <tr><td width="400px">I would live to do that </td></tr>
     <tr><td width="400px">Soooooon sweet baby </td></tr>
     <tr><td width="400px">I have unfortunate news in that I feel the need to stay in tomorrow because I feel like a cesspool after a day of blowing runny nose </td></tr>
@@ -12106,7 +12106,7 @@ The girl in the first pane is the bwsty</td></tr>
     <tr><td width="400px">https://chatgpt.com/share/670b3ad0-10e0-8007-922e-741780859f18
 
 Maybe maybe maybe </td></tr>
-    <tr><td width="400px">Thank you ❤️ </td></tr>
+    <tr><td width="400px">Thank you <3 </td></tr>
     <tr><td width="400px">Please tell me anything you want to say about this</td></tr>
     <tr><td width="400px">I have a lot of thoughts </td></tr>
     <tr><td width="400px">Did you ask it to make the savior also a girl?</td></tr>
@@ -12122,7 +12122,7 @@ Maybe maybe maybe </td></tr>
 
 I love you 
 
-Sweet dreams sweetheart ♥️</td></tr>
+Sweet dreams sweetheart <3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Omg i have some totally awesome stuff for you</td></tr>
     <tr><td width="400px">Hi beebee!</td></tr>
@@ -12208,7 +12208,7 @@ I escaped for a while, left phone at home accidentally</td></tr>
     <tr><td width="400px">Oops lol</td></tr>
     <tr><td width="400px">Yeah it's fine</td></tr>
     <tr><td width="400px">Accidentally bought a stack of books</td></tr>
-    <tr><td width="400px">😅</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">It just happened!</td></tr>
     <tr><td width="400px">They just jumped in my bag!</td></tr>
@@ -12258,7 +12258,7 @@ Tuesday is in office</td></tr>
     <tr><td width="400px">Oh how I'd love that</td></tr>
     <tr><td width="400px">Hallooooo!</td></tr>
     <tr><td width="400px">Bonjour mon amor!</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Hieeee </td></tr>
     <tr><td width="400px">I miss you</td></tr>
     <tr><td width="400px">I am missing you too:)</td></tr>
@@ -12274,7 +12274,7 @@ I've been awake since 0330</td></tr>
 Ummmmm because i actually overslept and it's a work day and after 6am?</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">I finished my word games already </td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Glued some Popsicle sticks lol</td></tr>
     <tr><td width="400px">Ooh nice
 
@@ -12341,7 +12341,7 @@ Tell her you need the lavatory and skip out</td></tr>
     <tr><td width="400px">You.too!</td></tr>
     <tr><td width="400px">Thanks for changing my life</td></tr>
     <tr><td width="400px">Of course</td></tr>
-    <tr><td width="400px">My pleasure ♥️</td></tr>
+    <tr><td width="400px">My pleasure <3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Well great. Your nerddom rubbed off on me</td></tr>
     <tr><td width="400px">I have a misc tech nin now</td></tr>
@@ -12445,7 +12445,7 @@ Being very careful of course of the delicate right arm</td></tr>
     <tr><td width="400px">Omg please restrain me</td></tr>
     <tr><td width="400px">I have ribbons that can help</td></tr>
     <tr><td width="400px">Like 3 feet each. 8 of them</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">Can you tell me what turns you on about this new possibility? I'm stoked - i didn't think you'd do it</td></tr>
     <tr><td width="400px">I guess I've long thought a little restraint would be fun</td></tr>
@@ -12471,7 +12471,7 @@ I can do things with my tongue on your neck</td></tr>
     <tr><td width="400px">Ohh fuckkkk</td></tr>
     <tr><td width="400px">You got that right lol</td></tr>
     <tr><td width="400px">Maybe I'll get so into it i break your face lol</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">I kind of really want to do something similar</td></tr>
     <tr><td width="400px">Omg anxiety or something is killing me rn</td></tr>
     <tr><td width="400px">Oh noes!</td></tr>
@@ -12698,7 +12698,7 @@ How drole</td></tr>
     <tr><td width="400px">https://www.shopeastwoodtownecenter.com/directory/</td></tr>
     <tr><td width="400px">There might be no less than 2 places i was thinking of going in there tomorrow</td></tr>
     <tr><td width="400px">I forgot how you taste already and so maybe you should come back??</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Anyway, 2 places there. I was going to go to one last week and that fell through 
 
@@ -12778,7 +12778,7 @@ Still up for both?</td></tr>
     <tr><td width="400px">What do you want me to have for you?</td></tr>
     <tr><td width="400px">And i cant decide on what i should do thursday night. You need to decide for me</td></tr>
     <tr><td width="400px">I would so love for you to be awake right now</td></tr>
-    <tr><td width="400px">And a very good morning to you whenever you wake up ❤️ 
+    <tr><td width="400px">And a very good morning to you whenever you wake up <3 
 
 Kinda been thinking about you all night. I'm unbelievably greedy-feeling now in the best way
 
@@ -12944,7 +12944,7 @@ I can lighten up now!</td></tr>
     <tr><td width="400px">Do you know why i think you're admirable?</td></tr>
     <tr><td width="400px">Because of your relentless pursuit of rising above your challenges, bettering yourself because you can. You are intelligent, you are quick, you are funny, and on top of all that you are cute as a button and extremely hot</td></tr>
     <tr><td width="400px">You are too much</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Lol YW </td></tr>
     <tr><td width="400px">What was your "plan" if there was an open pull off?</td></tr>
     <tr><td width="400px">Why havent i had any kisses in 32+ hours?</td></tr>
@@ -12986,7 +12986,7 @@ I kiss back better when i feel confident i dont smell or taste icky</td></tr>
 Walking up to boobies in my face is one of the very best things in life!</td></tr>
     <tr><td width="400px">Privyet!</td></tr>
     <tr><td width="400px">Kak dela?</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">How are you?</td></tr>
     <tr><td width="400px">Feeling good!
 
@@ -13007,7 +13007,7 @@ TLDR: I want to be out of my head, you know how to sex better, i ike being contr
     <tr><td width="400px">Have you been up all night lol</td></tr>
     <tr><td width="400px">Nope</td></tr>
     <tr><td width="400px">Woke up like 34 seconds before i texted you this morning </td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Do you need shopping ideas?</td></tr>
     <tr><td width="400px">I'd love them!</td></tr>
     <tr><td width="400px">I currently have 3 destinatiojs as priority</td></tr>
@@ -13046,7 +13046,7 @@ I was thinking lens is your best bet to locate those things. I probably still ha
     <tr><td width="400px">Im perfectly olay not gettjng completely naked too</td></tr>
     <tr><td width="400px">Thats just a good point of information </td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​😂​ to a photo </td></tr>
+    <tr><td width="400px">  :)  to a photo </td></tr>
     <tr><td width="400px">Thoughts?</td></tr>
     <tr><td width="400px">That is hilarious </td></tr>
     <tr><td width="400px">I meant the partially clothed thing but sure</td></tr>
@@ -13069,7 +13069,7 @@ I like your room, it's cozy</td></tr>
     <tr><td width="400px">Okay! 👌</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Woke up to scowlcat</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">1. Room scent?
@@ -13117,7 +13117,7 @@ But a plan is coming together!</td></tr>
     <tr><td width="400px">1730 at latest</td></tr>
     <tr><td width="400px">Enjoy the Cluck!</td></tr>
     <tr><td width="400px">You will have my undivided attention soon</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">What are your questions so I ponder</td></tr>
     <tr><td width="400px">Last minute attire requests
 
@@ -13368,7 +13368,7 @@ I can't wait to see you and to be with you again, alone, so we can love each oth
     <tr><td width="400px">Every night</td></tr>
     <tr><td width="400px">Really?</td></tr>
     <tr><td width="400px">And I am so excited to see what you've done</td></tr>
-    <tr><td width="400px">YES!! ♥️♥️♥️</td></tr>
+    <tr><td width="400px">YES!! <3<3<3</td></tr>
     <tr><td width="400px">it makes me shiver with delight when I see you</td></tr>
     <tr><td width="400px">I just want to grab and hug and squeeze you</td></tr>
     <tr><td width="400px">And roll around with you and kiss you</td></tr>
@@ -13408,7 +13408,7 @@ I can't wait to see you and to be with you again, alone, so we can love each oth
     <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">Will it upset you if i have a drink?</td></tr>
     <tr><td width="400px">No not at all!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Ever look up nsfw lightning bolt position?</td></tr>
     <tr><td width="400px">I have a position logic question too</td></tr>
     <tr><td width="400px">Sure go ahead! 
@@ -13445,7 +13445,7 @@ Reengaging is fun!
     <tr><td width="400px">Ofc you got it!</td></tr>
     <tr><td width="400px">And if i want something different, i can tell you? Guide you in the moment?</td></tr>
     <tr><td width="400px">Yes yes, you sure can</td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">I'm fading out babe</td></tr>
     <tr><td width="400px">Good night sweetness</td></tr>
@@ -13454,14 +13454,14 @@ Reengaging is fun!
     <tr><td width="400px">Less than 15 hours </td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">Good night!</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">Good morning babe!
 Guess what day it is?</td></tr>
     <tr><td width="400px">OMG lightning bolt position... I have only seen in pornos. It looks so damn hot. I love being so close to you 😍</td></tr>
     <tr><td width="400px">Today is today!</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Today is today! ” </td></tr>
+    <tr><td width="400px">  <3  to " Today is today! " </td></tr>
     <tr><td width="400px">I didnt clean any more  (got sleepy lol) but the bed is clear and I'll be freshly showered so there's that!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I can't wait to mess up your makeup </td></tr>
     <tr><td width="400px">Maybe my hair </td></tr>
     <tr><td width="400px">Done with my appt :)</td></tr>
@@ -13484,7 +13484,7 @@ I feel MUCH better now</td></tr>
     <tr><td width="400px">I think I'm good thanks!</td></tr>
     <tr><td width="400px">Oh, green grapes?</td></tr>
     <tr><td width="400px">Seedless</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Oh for the love of hades</td></tr>
     <tr><td width="400px">Have something to tell you</td></tr>
     <tr><td width="400px">Oh noes</td></tr>
@@ -13592,14 +13592,14 @@ I heard that on the Internet lol</td></tr>
     <tr><td width="400px">Choice?</td></tr>
     <tr><td width="400px">Can I come over and play?</td></tr>
     <tr><td width="400px">Yes</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Sexy or lazy</td></tr>
     <tr><td width="400px">Choice?</td></tr>
     <tr><td width="400px">Lazy</td></tr>
     <tr><td width="400px">Does it work?</td></tr>
     <tr><td width="400px">Yep</td></tr>
     <tr><td width="400px">Lmk when you pull in</td></tr>
-    <tr><td width="400px">Okay 👍</td></tr>
+    <tr><td width="400px">Okay  </td></tr>
     <tr><td width="400px">I'm heeeere!</td></tr>
     <tr><td width="400px">Ysy! One sec</td></tr>
     <tr><td width="400px">Come on up to the porch whenever </td></tr>
@@ -13623,7 +13623,7 @@ I heard that on the Internet lol</td></tr>
     <tr><td width="400px">You should be proud of me... I just bought eye drops and dosed them in the car </td></tr>
     <tr><td width="400px">Wonderful!!!! I have them in every room lol</td></tr>
     <tr><td width="400px">I think this makes the third time in my life I've ever done that, and you saw the second</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">How are you doing?</td></tr>
     <tr><td width="400px">Very well. Seamless transition to the abode. The boys will be staying another night , which is actually perfect because it means the distractions create themselves and I dont have to</td></tr>
     <tr><td width="400px">That's great!</td></tr>
@@ -13669,7 +13669,7 @@ Guess all the complaining made him tired hence the sleep. Again. More. Still.</t
     <tr><td width="400px">I mean I'm a good tradwife</td></tr>
     <tr><td width="400px">Maybe. You're a better tradslut for me though lol</td></tr>
     <tr><td width="400px">Too far? Im sorry</td></tr>
-    <tr><td width="400px">A better compliment I have yet to hear. Thank you from the bottom of my dirty soul 😘😘😘</td></tr>
+    <tr><td width="400px">A better compliment I have yet to hear. Thank you from the bottom of my dirty soul </td></tr>
     <tr><td width="400px">Of course</td></tr>
     <tr><td width="400px">Hehe no not too far I love the hat</td></tr>
     <tr><td width="400px">The hat
@@ -13796,14 +13796,14 @@ One, i just laid out</td></tr>
     <tr><td width="400px">I will tell you, but I want to know what you think it was</td></tr>
     <tr><td width="400px">Is it something like "still alive"?</td></tr>
     <tr><td width="400px">That is part of it, yes! And I am so glad</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">What's the other part?</td></tr>
     <tr><td width="400px">Lol that's all?</td></tr>
     <tr><td width="400px">Umm</td></tr>
     <tr><td width="400px">Ok I will bail you out</td></tr>
     <tr><td width="400px">,</td></tr>
     <tr><td width="400px">That's a comma</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">You lick commas?</td></tr>
     <tr><td width="400px">You hesh lol</td></tr>
     <tr><td width="400px">I didn't read them before i sent those</td></tr>
@@ -13845,7 +13845,7 @@ I don't know how to explain that the abuse part is and is not clear to me</td></
 </td></tr>
     <tr><td width="400px">You have told me enough to know already, and it's ok</td></tr>
     <tr><td width="400px">You can tell me this one if you want to though!</td></tr>
-    <tr><td width="400px">It's ok 😊</td></tr>
+    <tr><td width="400px">It's ok :)</td></tr>
     <tr><td width="400px">What i read in that is that i said too much and you hurt because of it and you'd rather i not share more</td></tr>
     <tr><td width="400px">No no, you did not hurt me. I worded that badly. Srsly!</td></tr>
     <tr><td width="400px">Please freely share anything </td></tr>
@@ -14375,11 +14375,11 @@ What happened if you licked her perfectly?</td></tr>
     <tr><td width="400px">When I licked in newfound place, it seemed sublime for you </td></tr>
     <tr><td width="400px">Yes, it was</td></tr>
     <tr><td width="400px">Entirely something new</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">I thought i hated her being touched</td></tr>
     <tr><td width="400px">She likes delicate </td></tr>
     <tr><td width="400px">Yes</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Yes ” </td></tr>
+    <tr><td width="400px">  <3  to " Yes " </td></tr>
     <tr><td width="400px">You were so, so gentle with me</td></tr>
     <tr><td width="400px">It's respect for you!</td></tr>
     <tr><td width="400px">But fun and gentle dont have to be the same at all</td></tr>
@@ -14390,7 +14390,7 @@ What happened if you licked her perfectly?</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">I still want to cum again and again</td></tr>
     <tr><td width="400px">Like now</td></tr>
-    <tr><td width="400px">🥰 I love making you come 🥰</td></tr>
+    <tr><td width="400px">  I love making you come  </td></tr>
     <tr><td width="400px">When you touched my clit, could you feel her on your side of things?</td></tr>
     <tr><td width="400px">It was so, so delicate of you</td></tr>
     <tr><td width="400px">She is so delicate </td></tr>
@@ -14444,7 +14444,7 @@ What an insanely hot pic!</td></tr>
 Now</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Holy fuuuuck </td></tr>
-    <tr><td width="400px">Hahaha 🤣</td></tr>
+    <tr><td width="400px">Hahaha :)</td></tr>
     <tr><td width="400px">Your ass is so fine</td></tr>
     <tr><td width="400px">You still want to come over maybe?
 
@@ -14454,8 +14454,8 @@ Thank you!</td></tr>
     <tr><td width="400px">Oh fucccck </td></tr>
     <tr><td width="400px">Maybe you slide a digit or 2 or 3 in and see how much of a waterfall you get</td></tr>
     <tr><td width="400px">Just a casual suggestion</td></tr>
-    <tr><td width="400px">Your butt is heart-shaped! ♥️</td></tr>
-    <tr><td width="400px">For you ❤️ </td></tr>
+    <tr><td width="400px">Your butt is heart-shaped! <3</td></tr>
+    <tr><td width="400px">For you <3 </td></tr>
     <tr><td width="400px">Aww</td></tr>
     <tr><td width="400px">Ty</td></tr>
     <tr><td width="400px">Feel welcome to grab and grip</td></tr>
@@ -14521,7 +14521,7 @@ And I'm sure there's other things i could figure out</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Ohhhhhh fuckkkkkk</td></tr>
     <tr><td width="400px">That's porn hot dick right there</td></tr>
-    <tr><td width="400px">Oh! Thank you 😊</td></tr>
+    <tr><td width="400px">Oh! Thank you :)</td></tr>
     <tr><td width="400px">I'm dead serious</td></tr>
     <tr><td width="400px">You'll top out again</td></tr>
     <tr><td width="400px">And i lovvvvvvvvve that</td></tr>
@@ -14602,7 +14602,7 @@ Straight upstairs again?</td></tr>
     <tr><td width="400px">What size shoe do you wear?</td></tr>
     <tr><td width="400px">1230 would help me calm down a touch if that's ok?</td></tr>
     <tr><td width="400px">Sure!</td></tr>
-    <tr><td width="400px">Thanks! 🙂</td></tr>
+    <tr><td width="400px">Thanks! :)</td></tr>
     <tr><td width="400px">I wear a men's 9.5</td></tr>
     <tr><td width="400px">Thanks!</td></tr>
     <tr><td width="400px">If you're out somewhere I can meet you if you want </td></tr>
@@ -14643,19 +14643,19 @@ And you too Bear </td></tr>
     <tr><td width="400px">Ty</td></tr>
     <tr><td width="400px">Ty a thousand times for today!</td></tr>
     <tr><td width="400px">Nopenopenope the thanks is all for you</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Nopenopenope the thanks is all for you ” </td></tr>
+    <tr><td width="400px">  <3  to " Nopenopenope the thanks is all for you " </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">You're missing the lovefest!</td></tr>
     <tr><td width="400px">And I'm sorry for falling asleep. I dont recall much immediately before then. Or how i got to the other side of the bed</td></tr>
     <tr><td width="400px">Might need a play by play</td></tr>
     <tr><td width="400px">For realsies</td></tr>
-    <tr><td width="400px">You are nothing short of amazing 🥰</td></tr>
+    <tr><td width="400px">You are nothing short of amazing  </td></tr>
     <tr><td width="400px">Thank you, but i do not understand. I didnt do anything today</td></tr>
     <tr><td width="400px">Not being humble, just how i actually feel</td></tr>
     <tr><td width="400px">Nope. I love the way you love me</td></tr>
     <tr><td width="400px">I do love you. A thousand ways and more</td></tr>
     <tr><td width="400px">But i dont feel like I've shown it enough</td></tr>
-    <tr><td width="400px">My little pleaser 🥰
+    <tr><td width="400px">My little pleaser  
 
 You please me so much. And there is more to come! </td></tr>
     <tr><td width="400px">I so, so, so hope so!</td></tr>
@@ -14739,7 +14739,7 @@ Because i never ever want to hirt you</td></tr>
     <tr><td width="400px">I feel 80% like I got laid, and that is fab! I want everything of course!</td></tr>
     <tr><td width="400px">I think that's good? I mean..... you DID, right?</td></tr>
     <tr><td width="400px">What else is everything?</td></tr>
-    <tr><td width="400px">When I get to come with youuuu ♥️♥️♥️</td></tr>
+    <tr><td width="400px">When I get to come with youuuu <3<3<3</td></tr>
     <tr><td width="400px">Am i correct that you haven't finished your marathon with me yet?
 
 I feel so stupid asking but dont know how else i would make a determination rn</td></tr>
@@ -14853,8 +14853,8 @@ I stop hearing real noise. I can't make sense of my eyes. I feel reverberations 
     <tr><td width="400px">I am thinking of you</td></tr>
     <tr><td width="400px">It's an axolotl</td></tr>
     <tr><td width="400px">^^^ Your butt looks like</td></tr>
-    <tr><td width="400px">♥️</td></tr>
-    <tr><td width="400px">I♥️ axolotl </td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px">I<3 axolotl </td></tr>
     <tr><td width="400px">Mmmmmmm ofc</td></tr>
     <tr><td width="400px">I love you</td></tr>
     <tr><td width="400px">I love you too beebee! </td></tr>
@@ -14865,9 +14865,9 @@ I stop hearing real noise. I can't make sense of my eyes. I feel reverberations 
 
 Chonskypup for scale </td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">🥰🥰🥰good morning 🥰🥰🥰</td></tr>
+    <tr><td width="400px">   good morning    </td></tr>
     <tr><td width="400px">I slept in a bit!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">How ya doin?</td></tr>
     <tr><td width="400px">I'm still waking up lol</td></tr>
     <tr><td width="400px">So far so good </td></tr>
@@ -15010,7 +15010,7 @@ https://open.spotify.com/track/1CqxOjuPOhhocpgdfFsdMx?si=cLBV4hAmSK6PK0YPGZZe4Q<
 Twins?? 
 
 Again</td></tr>
-    <tr><td width="400px">♥️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">But anyway </td></tr>
     <tr><td width="400px">Food</td></tr>
@@ -15041,7 +15041,7 @@ How bout you?</td></tr>
     <tr><td width="400px">May i have the glass things? Please. Whatever condition.
 
 Tea lights? Like little wedding centerpiece ones?</td></tr>
-    <tr><td width="400px">Yes 👍</td></tr>
+    <tr><td width="400px">Yes  </td></tr>
     <tr><td width="400px">For tools as what?</td></tr>
     <tr><td width="400px">Sure if I come across them. I think there's one in the bedroom actually </td></tr>
     <tr><td width="400px">Going forward etc </td></tr>
@@ -15253,7 +15253,7 @@ Very odd</td></tr>
     <tr><td width="400px">Ty</td></tr>
     <tr><td width="400px">I wipe down every bag every time</td></tr>
     <tr><td width="400px">You are a better woman than I am </td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">I know I should </td></tr>
     <tr><td width="400px">Well, kinda no immune system</td></tr>
     <tr><td width="400px">But again,  you owing me??</td></tr>
@@ -15376,7 +15376,7 @@ It's me too</td></tr>
 
 But you already knew this </td></tr>
     <tr><td width="400px">Well
-♥️♥️♥️
+<3<3<3
 I am yours </td></tr>
     <tr><td width="400px">Well that's weird, because i am yours</td></tr>
     <tr><td width="400px">I'll be fading soon, but can we char about one more thing first?</td></tr>
@@ -15410,7 +15410,7 @@ Not doubting, just trying to understand
 
 
 </td></tr>
-    <tr><td width="400px">Nvm 🥰</td></tr>
+    <tr><td width="400px">Nvm  </td></tr>
     <tr><td width="400px">Sweetest dreams for now!
 Ttyl</td></tr>
     <tr><td width="400px">Sweetest </td></tr>
@@ -15557,7 +15557,7 @@ Oh wait. Damn. Lol</td></tr>
     <tr><td width="400px">In the moment though? I really dont think i even breathe</td></tr>
     <tr><td width="400px">There is some of that too</td></tr>
     <tr><td width="400px">It's intense! And cool af </td></tr>
-    <tr><td width="400px">Okay 👍</td></tr>
+    <tr><td width="400px">Okay  </td></tr>
     <tr><td width="400px">Can you tell when you find THE SPOT if i dont say it?</td></tr>
     <tr><td width="400px">I think I could now. We have some repeatable evidence </td></tr>
     <tr><td width="400px">Plus now I know better how your clit plays into the scene. She's quite juicy</td></tr>
@@ -15576,7 +15576,7 @@ Oh wait. Damn. Lol</td></tr>
     <tr><td width="400px">100% thrifted</td></tr>
     <tr><td width="400px">Put pieced together par moi</td></tr>
     <tr><td width="400px">I like it!</td></tr>
-    <tr><td width="400px">Thanks! 🙂</td></tr>
+    <tr><td width="400px">Thanks! :)</td></tr>
     <tr><td width="400px">It's roughly 16 by 20</td></tr>
     <tr><td width="400px">Very nice!</td></tr>
     <tr><td width="400px">What did you have for lunch?</td></tr>
@@ -15678,7 +15678,7 @@ You get the same to your knee?
 Which i will still be smothering in kisses btw </td></tr>
     <tr><td width="400px">No my knee is fine, albeit lacking some fascia. But the joint is all good</td></tr>
     <tr><td width="400px">Thankfully!</td></tr>
-    <tr><td width="400px">Good 👍</td></tr>
+    <tr><td width="400px">Good  </td></tr>
     <tr><td width="400px">I will gladly accept kisses regardless </td></tr>
     <tr><td width="400px">Definitely</td></tr>
     <tr><td width="400px">Some of the area is numb, while some is hypersensitive lol</td></tr>
@@ -15978,7 +15978,7 @@ That was all before I even knew ASMR had a name. Like 2002 or something. </td></
     <tr><td width="400px">I know. I've been pretty disappointed by YT efforts so I kinda fell out of love with the idea of watching it. Haven't bothered with Spotify. I still catch posts on Reddit from time to time and the story is always the same... "Why did ____ mess up her schtick?"</td></tr>
     <tr><td width="400px">One 36 minute phone call later and I'm outta here</td></tr>
     <tr><td width="400px">Crikey!</td></tr>
-    <tr><td width="400px">Yep 👍</td></tr>
+    <tr><td width="400px">Yep  </td></tr>
     <tr><td width="400px">Super busy this evening?</td></tr>
     <tr><td width="400px">Nah</td></tr>
     <tr><td width="400px">What are you up to?</td></tr>
@@ -16041,7 +16041,7 @@ Turned out i needed sleep. Who knew!?</td></tr>
 Very comfy
 
 How aboit you?</td></tr>
-    <tr><td width="400px">Same! I woke up last night thinking I was with you 🥰</td></tr>
+    <tr><td width="400px">Same! I woke up last night thinking I was with you  </td></tr>
     <tr><td width="400px">It was wonderful </td></tr>
     <tr><td width="400px">Awwww!</td></tr>
     <tr><td width="400px">What's on docket today?</td></tr>
@@ -16101,7 +16101,7 @@ I'm sorry</td></tr>
 You can have your way on top of me at next earliest convenience </td></tr>
     <tr><td width="400px">Hahahahaha</td></tr>
     <tr><td width="400px">I like you on top so, so much though!</td></tr>
-    <tr><td width="400px">Ok. Just for you 😘</td></tr>
+    <tr><td width="400px">Ok. Just for you </td></tr>
     <tr><td width="400px">You still didnt tell me if you understand whyyyy i like you that way</td></tr>
     <tr><td width="400px">I think I did? Idk. It's for comfort, like a heavy blanket</td></tr>
     <tr><td width="400px">On top in a more active way.... why i like you being the more dominant of us subbies</td></tr>
@@ -16149,7 +16149,7 @@ This subbie likes fucking you that way just fine 😚</td></tr>
     <tr><td width="400px">You can make it a candle display</td></tr>
     <tr><td width="400px">Or anything, really </td></tr>
     <tr><td width="400px">Wanna see something cool?</td></tr>
-    <tr><td width="400px">Yeah! 👍</td></tr>
+    <tr><td width="400px">Yeah!  </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Complete set.basically perfect</td></tr>
@@ -16222,7 +16222,7 @@ Will those aren't all that common in these parts</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Yeah, kimd of!</td></tr>
     <tr><td width="400px">Would you like it?</td></tr>
-    <tr><td width="400px">Unless you have plans for it. I think it's neat 😁</td></tr>
+    <tr><td width="400px">Unless you have plans for it. I think it's neat :)</td></tr>
     <tr><td width="400px">I get things i think are neat 
 
 I hope to find people i love to whom they can be gifted</td></tr>
@@ -16514,10 +16514,10 @@ And fantastic idea</td></tr>
     <tr><td width="400px">I can get behind that, but suggest heavy abbr like FZ</td></tr>
     <tr><td width="400px">Im good with that too</td></tr>
     <tr><td width="400px">I'm not trying to sound crazy lol just want to be prepared </td></tr>
-    <tr><td width="400px">Agreed 👍</td></tr>
+    <tr><td width="400px">Agreed  </td></tr>
     <tr><td width="400px">Have you rested?</td></tr>
     <tr><td width="400px">Xxxoxooozzxxxoxxx</td></tr>
-    <tr><td width="400px">😘😘😘😘😘😘😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">You may also want to consider deleting this convo and /or saving me under a very nonplussed name</td></tr>
     <tr><td width="400px">I did rest
 
@@ -16557,7 +16557,7 @@ And very cold</td></tr>
     <tr><td width="400px">Omg yes please</td></tr>
     <tr><td width="400px">But at least i am not phones today</td></tr>
     <tr><td width="400px">On the plus side,  i finally threw on some make up</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Did you want to make any plans for sunday?</td></tr>
     <tr><td width="400px">Ooh! What are you thinking? I guess I thought you were going to be in Brighton all day </td></tr>
@@ -16575,16 +16575,16 @@ How are you?</td></tr>
     <tr><td width="400px">You should tell me about last night</td></tr>
     <tr><td width="400px">Not much to tell. I was just focused on cleaning some tools, listening to music, and drinking beer </td></tr>
     <tr><td width="400px">Are you in a not good mood?</td></tr>
-    <tr><td width="400px">Good enough Id say? I don't feel spectacular... Sore throat since I woke up, a bit dragged out from beer and allergy meds. But my mood is good. I am happy to hear from you 🙂</td></tr>
+    <tr><td width="400px">Good enough Id say? I don't feel spectacular... Sore throat since I woke up, a bit dragged out from beer and allergy meds. But my mood is good. I am happy to hear from you :)</td></tr>
     <tr><td width="400px">That's good :)
 
 I didnt know I'd been super quiet, aside from last night. I'm sorry!</td></tr>
-    <tr><td width="400px">It's ok😊</td></tr>
+    <tr><td width="400px">It's ok:)</td></tr>
     <tr><td width="400px">You didnt say anything, meanwhile i thought you were upset or didnt want to chat, so i didnt.... again, i am very common sense dumb. It's directly connected to ky booksmartness</td></tr>
     <tr><td width="400px">Text pause for a few... spouse fixing phone glass</td></tr>
     <tr><td width="400px">Thaw :)</td></tr>
     <tr><td width="400px">Lol shiny new?</td></tr>
-    <tr><td width="400px">Yep 👍</td></tr>
+    <tr><td width="400px">Yep  </td></tr>
     <tr><td width="400px">I put screen protector on this phone a couple days after I got it. It's now cracked in at least 3 places (the protector!)</td></tr>
     <tr><td width="400px">My basement floor is unforgiving </td></tr>
     <tr><td width="400px">Lol. I put a protector on mine the day i got it. Cracked it the same day lol
@@ -16735,7 +16735,7 @@ https://1drv.ms/o/s!BBmaJsW-JN1whPRrZUP6zHWG6-4SAA?e=GSKpee</td></tr>
     <tr><td width="400px">I dont know any of those artists, save Massive attack</td></tr>
     <tr><td width="400px">Too vibratey to listen right now but i have finally arrived chez mere in brighton</td></tr>
     <tr><td width="400px">I am dying now</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">No no, I need you to come back</td></tr>
     <tr><td width="400px">Feel free to add or delete as you feel</td></tr>
     <tr><td width="400px">Is needed</td></tr>
@@ -17286,7 +17286,7 @@ Wait--she does swim on the floor at times</td></tr>
     <tr><td width="400px">I will be in office Monday. PTO Wednesday 
 
 Hey, you too!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">And I will find a way to find you tomorrow!</td></tr>
     <tr><td width="400px">Haha okay</td></tr>
     <tr><td width="400px">Where are you atm?</td></tr>
@@ -17335,7 +17335,7 @@ Hey, you too!</td></tr>
     <tr><td width="400px">Short answer is she is no longer my mother</td></tr>
     <tr><td width="400px">Please explain this to me </td></tr>
     <tr><td width="400px">I will..... apouse. Rn</td></tr>
-    <tr><td width="400px"> ​👍​ to “ I will..... apouse. Rn ” </td></tr>
+    <tr><td width="400px">     to " I will..... apouse. Rn " </td></tr>
     <tr><td width="400px">Je retoure!</td></tr>
     <tr><td width="400px">Oh hello! I'm sure how are you</td></tr>
     <tr><td width="400px">Rephrase that? Lol</td></tr>
@@ -17564,7 +17564,7 @@ I know exactly where i have always hurt and there's nothing at all to indicate y
     <tr><td width="400px">And I'm surrounded by cat noses!</td></tr>
     <tr><td width="400px">You're adorable</td></tr>
     <tr><td width="400px">Nah, that's you</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Would you wear a quarter zip fleece?</td></tr>
     <tr><td width="400px">Probably 
 I have one somewhere
@@ -17758,16 +17758,16 @@ And the other?</td></tr>
     <tr><td width="400px">Same.
 
 You have No. Idea. How. Much.</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Same.
+    <tr><td width="400px">  <3  to " Same.
 
-You have No. Idea. How. Much. ” </td></tr>
+You have No. Idea. How. Much. " </td></tr>
     <tr><td width="400px">Sweet dreams</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Good morning babe!</td></tr>
     <tr><td width="400px">Hey babe</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Hella cute, amiright?</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">Hella cute yeah!</td></tr>
     <tr><td width="400px">Hahaha</td></tr>
     <tr><td width="400px">How are you?</td></tr>
@@ -17823,8 +17823,8 @@ I hear about a lot of good stuff in downtown EL</td></tr>
     <tr><td width="400px">It was lol</td></tr>
     <tr><td width="400px">Can I plug anything in while I'm down there?</td></tr>
     <tr><td width="400px">Yes, please!</td></tr>
-    <tr><td width="400px">😘</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"></td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Fave chips/crisps?</td></tr>
     <tr><td width="400px">Probably Ruffles sour cream & cheddar. Better Made any flavor is a fave too</td></tr>
     <tr><td width="400px">Sour cream and cheddar is correct! Lol</td></tr>
@@ -18057,7 +18057,7 @@ Once you're more stable have protein and add in fat and soke more carbs. You won
     <tr><td width="400px">Wait until you feel better, then time at least 10 or 15 mins from that point to start to drive</td></tr>
     <tr><td width="400px">How are you doing?</td></tr>
     <tr><td width="400px">Much better </td></tr>
-    <tr><td width="400px">Good 👍</td></tr>
+    <tr><td width="400px">Good  </td></tr>
     <tr><td width="400px">I was already driving when I saw your advice
 
 Oops </td></tr>
@@ -18199,21 +18199,21 @@ I just need to rest </td></tr>
     <tr><td width="400px">Believe it or not I'm getting a bit fadey already</td></tr>
     <tr><td width="400px">So xoxox for you!</td></tr>
     <tr><td width="400px">And I hope you have a good night</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Very sorry to ask, but... do you realize you're not saying it?</td></tr>
     <tr><td width="400px">I love you babe!</td></tr>
     <tr><td width="400px">I love you too</td></tr>
     <tr><td width="400px">❣️</td></tr>
     <tr><td width="400px">It that what you meant?</td></tr>
     <tr><td width="400px">Indeed</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Ok </td></tr>
     <tr><td width="400px">I love you deeply 
 Can't wait to be with you again!</td></tr>
     <tr><td width="400px">Me too</td></tr>
     <tr><td width="400px">Beaux reves (de moi)!</td></tr>
-    <tr><td width="400px">🥰</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"> </td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Okayokayokay sorry that I'm really unhinged as i type this but I'm a little bit super rx hiandisj and omg i want you and i want you to be here and i want to try all the things. And I regret to inform you that you've transformed me into some kind of greedy little monster of a slut because all i ever want to do now is have loads and loads of sex and snogging because i know what's waiting and why do people ever get out of bed if they can have orgasms?
 
 Really though, i was trying to tell you this absurdly ridiculous thing i realized earlier - it's that my body and especially my pussy and perhaps that incredibly sensitive bean baby clit of mine is madly swollen. My body has never insisted on craving and needing something like this before. Well, maybe, but not in this these places. Pardon the crude colloquialist who's been lurking here all along - is this "horny"?! It's mad wicked!
@@ -18287,7 +18287,7 @@ Other than passion</td></tr>
 
 More often you reveal things in measured and calculated doses. I noticed this the day I met you</td></tr>
     <tr><td width="400px">It's very hot!</td></tr>
-    <tr><td width="400px">Okay, thanks 👍</td></tr>
+    <tr><td width="400px">Okay, thanks  </td></tr>
     <tr><td width="400px">You seem to describe yourself as "crazy" when you wrote that. Can you tell me more? Why is it crazy? Or Why were you crazy?</td></tr>
     <tr><td width="400px">I dont think normal people think or feel that way
 
@@ -18392,7 +18392,7 @@ Please let me know if you ever do, even in the slightest</td></tr>
     <tr><td width="400px">Mine is on my kirchen passthru lol</td></tr>
     <tr><td width="400px">Better get that ballot in Missy! The courts are to trying to fuck around with early and remote voting. </td></tr>
     <tr><td width="400px">I planned on taking it to the ELPL</td></tr>
-    <tr><td width="400px">Good 😊</td></tr>
+    <tr><td width="400px">Good :)</td></tr>
     <tr><td width="400px">Omggggggggg</td></tr>
     <tr><td width="400px">Wassup?</td></tr>
     <tr><td width="400px">What are your actual plans after work today? Assume i can do mostly what i want</td></tr>
@@ -18454,8 +18454,8 @@ I mean, i do but i dont know how to trust that 100% even though i do with you? V
 
 If you do then maybe we talk about it (for a lot of reasons) and i luterally do kot comprehend someone not having that in their mind</td></tr>
     <tr><td width="400px">I hope this didn't flip a switch that I'm too weird now</td></tr>
-    <tr><td width="400px">No, you're every bit as weird as I thought you were and I absolutely love you for it still. 😘</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">No, you're every bit as weird as I thought you were and I absolutely love you for it still. </td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">When you met me, did i give off "totally fucked by lifetimes of intense trauma" vibes?</td></tr>
     <tr><td width="400px">Not right away</td></tr>
     <tr><td width="400px">Tell me more</td></tr>
@@ -18483,7 +18483,7 @@ And I wanted to listen, because you are so smart and witty and I wondered if thi
     <tr><td width="400px">Lol. That's a thousand percent true</td></tr>
     <tr><td width="400px">Lol she says. Day 2, my guess</td></tr>
     <tr><td width="400px">Yeah kinda </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">So, what's up?</td></tr>
     <tr><td width="400px">I just about fell asleep at my desk lol</td></tr>
     <tr><td width="400px">I Need some tea!</td></tr>
@@ -18500,7 +18500,7 @@ There really IS another tea box in there without tea</td></tr>
     <tr><td width="400px">https://bad-world.co.uk/products/the1975?fbclid=IwY2xjawGOA2ZleHRuA2FlbQIxMQABHX2ktTqLBEP0UpozL7l-ckzm_eqNdKgnShSkETlVPkbSI8mvyJW0chaTbQ_aem_jPWFvK9wfqdTpTDSUs8WOQ</td></tr>
     <tr><td width="400px">Coolest vinyl ever</td></tr>
     <tr><td width="400px">That is sweet!</td></tr>
-    <tr><td width="400px">My guys ❤️ </td></tr>
+    <tr><td width="400px">My guys <3 </td></tr>
     <tr><td width="400px">Aww! </td></tr>
     <tr><td width="400px">Massive help.desk headache. Well that was fun</td></tr>
     <tr><td width="400px">Oh ya</td></tr>
@@ -18640,7 +18640,7 @@ Then you will believe me, I hope!</td></tr>
     <tr><td width="400px">And you're still getting a hug too</td></tr>
     <tr><td width="400px">FYI dont panic! If I do not respond promptly for a while</td></tr>
     <tr><td width="400px">Okay</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">So..... ALL your plans and intentions for tomorrow would be the same?</td></tr>
     <tr><td width="400px">And are the same rn</td></tr>
     <tr><td width="400px">So my new dx doesnt deter you?</td></tr>
@@ -18919,7 +18919,7 @@ Make love</td></tr>
     <tr><td width="400px">One sec, spouse</td></tr>
     <tr><td width="400px">Am back</td></tr>
     <tr><td width="400px">O hai!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I would like to engage in those activities as well. And possibly assemble shelves or tidy this house or resale adventure. Maybe cook</td></tr>
     <tr><td width="400px">Ok I'm going to take a shower :)</td></tr>
     <tr><td width="400px">Same
@@ -18931,7 +18931,7 @@ Lmk when it's ok to come around </td></tr>
 
 Less than an hour til I'm ready. Will be sooner</td></tr>
     <tr><td width="400px">Getting dressed and putting on mascara now </td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">So I'd say 15ish is fair</td></tr>
     <tr><td width="400px">Just lmk when you're here</td></tr>
     <tr><td width="400px">Fair warning i am not as ready as usual</td></tr>
@@ -18965,7 +18965,7 @@ Had a pretty fantastic day jist wish it could have been longer</td></tr>
     <tr><td width="400px">I became aware of that lol</td></tr>
     <tr><td width="400px">Was not my intention</td></tr>
     <tr><td width="400px">I was selfish and wanted my neck kissed</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">Eat yet?</td></tr>
     <tr><td width="400px">Just snacked on some peanuts until I can figure out for real what's good. </td></tr>
     <tr><td width="400px">I am at a loss for what to eat here</td></tr>
@@ -18983,7 +18983,7 @@ I dont like indebtedness</td></tr>
     <tr><td width="400px">It insanely hot</td></tr>
     <tr><td width="400px">And I liked it when you called me Daddy </td></tr>
     <tr><td width="400px">What about when i tell you i had to shuffle my feet sometimes today because i felt you drip out?</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Iirc you said you like this?</td></tr>
     <tr><td width="400px">Yes!</td></tr>
     <tr><td width="400px">Well, in most cases</td></tr>
@@ -18992,7 +18992,7 @@ I dont like indebtedness</td></tr>
     <tr><td width="400px">What can you tell me about it?</td></tr>
     <tr><td width="400px">Sorry, got delayed</td></tr>
     <tr><td width="400px">What would you like to know?</td></tr>
-    <tr><td width="400px">Tell me why you like cum dripping out of you. Plz 🥰</td></tr>
+    <tr><td width="400px">Tell me why you like cum dripping out of you. Plz  </td></tr>
     <tr><td width="400px">It reminds me i helped get you off, that you enjoyed me, and in general I'm back to being relaxed. You were dripping out at a remarkable speed..... not too quick (which would mean my body disnt want you in all the way in the first place) and not too slow (if i wasnt relaxing back to a good place)
 
 It's physical and chemical and psychological
@@ -19025,7 +19025,7 @@ And i agree, maybe, but i was chuffed</td></tr>
 
 You make the most joyful precious sounds</td></tr>
     <tr><td width="400px">It makes me want you more</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">It's magical </td></tr>
     <tr><td width="400px">So are you</td></tr>
     <tr><td width="400px">Do I understand correctly, there are periods where you have conscious memory lapses?</td></tr>
@@ -19056,7 +19056,7 @@ Not mad </td></tr>
     <tr><td width="400px">But also yes to the other </td></tr>
     <tr><td width="400px">I have gaps in my memory a lot. More than i should</td></tr>
     <tr><td width="400px">So i cant even tell you how thrilled and amazed i am that you keep talking things over and explaining them and reminding with me</td></tr>
-    <tr><td width="400px">Ok ty babe 😘😘😘</td></tr>
+    <tr><td width="400px">Ok ty babe </td></tr>
     <tr><td width="400px">What else? Or do you need quiet?</td></tr>
     <tr><td width="400px">I don't know what else, but I'm not quiet lol
 
@@ -19122,7 +19122,7 @@ Hot </td></tr>
     <tr><td width="400px">You're quite involved </td></tr>
     <tr><td width="400px">It's fab</td></tr>
     <tr><td width="400px">I am the best of the pillow princesses</td></tr>
-    <tr><td width="400px">😘😘😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Where do you think those 2 prime places are?</td></tr>
     <tr><td width="400px">One is inside, one outside </td></tr>
     <tr><td width="400px">The inside one is a bit more than 2/3 of my finger deep</td></tr>
@@ -19131,7 +19131,7 @@ Hot </td></tr>
     <tr><td width="400px">Questions on that one?</td></tr>
     <tr><td width="400px">Kind of</td></tr>
     <tr><td width="400px">Mostly I'm floored and impressed</td></tr>
-    <tr><td width="400px">I think there's a sympathetic connection as well, in that the other parts of my hand make contact easily at that depth as well. 🥰</td></tr>
+    <tr><td width="400px">I think there's a sympathetic connection as well, in that the other parts of my hand make contact easily at that depth as well.  </td></tr>
     <tr><td width="400px">So much fun! For me</td></tr>
     <tr><td width="400px">Really? Why?</td></tr>
     <tr><td width="400px">I like your pussy </td></tr>
@@ -19350,7 +19350,7 @@ Kirby is Snow White
 
 This sucks</td></tr>
     <tr><td width="400px">Im sorry</td></tr>
-    <tr><td width="400px">((♥️))</td></tr>
+    <tr><td width="400px">((<3))</td></tr>
     <tr><td width="400px">Just found out there isnt a timeline for bcr1 because they need to deploy it first but cant figure that out</td></tr>
     <tr><td width="400px">I need allllllll of those drugs</td></tr>
     <tr><td width="400px">You just missed me straight up ugly crying here. It was great</td></tr>
@@ -19387,7 +19387,7 @@ When i was crying earlier it was waterfalls of tears and a lot of expletives but
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Very cute and very crafty!</td></tr>
     <tr><td width="400px">Where'd everyone go? </td></tr>
     <tr><td width="400px">Not a clue, no one has been here all day in my wing</td></tr>
@@ -19418,7 +19418,7 @@ Pity</td></tr>
     <tr><td width="400px">Yeah if they hadn't just gone and rented a place a month ago I'd definitely consider it</td></tr>
     <tr><td width="400px">Well that was fun too lol</td></tr>
     <tr><td width="400px">When you blanketed - intentional because you kmew I'd wanted it or not?</td></tr>
-    <tr><td width="400px">At least once I asked if you were cold, but maybe I was just being nice :). You look very cute cuddling with your blankets 🥰</td></tr>
+    <tr><td width="400px">At least once I asked if you were cold, but maybe I was just being nice :). You look very cute cuddling with your blankets  </td></tr>
     <tr><td width="400px">Lol thanks</td></tr>
     <tr><td width="400px">BUT</td></tr>
     <tr><td width="400px">I wanted to have sex under a blanket, if you'll recall</td></tr>
@@ -19466,8 +19466,8 @@ You can ask me if youd like. I cant guarantee I'll tell you
 
 There is Nothing to do with you though </td></tr>
     <tr><td width="400px">I might be faded if you respond but I'll fade back in soon enough</td></tr>
-    <tr><td width="400px">Ok babe. ♥️ Take care of yourself as you see fit. </td></tr>
-    <tr><td width="400px">Love you! ❤️❤️❤️</td></tr>
+    <tr><td width="400px">Ok babe. <3 Take care of yourself as you see fit. </td></tr>
+    <tr><td width="400px">Love you! <3<3<3</td></tr>
     <tr><td width="400px">I love you too</td></tr>
     <tr><td width="400px">I am calming down</td></tr>
     <tr><td width="400px">How was your work day?</td></tr>
@@ -19522,7 +19522,7 @@ But i appreciate that </td></tr>
     <tr><td width="400px">Je taime aussi</td></tr>
     <tr><td width="400px">Omg sorry about that first one</td></tr>
     <tr><td width="400px">It was an autoreply</td></tr>
-    <tr><td width="400px">Sweet baby 🥰</td></tr>
+    <tr><td width="400px">Sweet baby  </td></tr>
     <tr><td width="400px">Good morning!</td></tr>
     <tr><td width="400px">Hi babe!</td></tr>
     <tr><td width="400px">How are you? How was your samhain?</td></tr>
@@ -19551,7 +19551,7 @@ Samhain is the original Celtic</td></tr>
     <tr><td width="400px">Other big adventures planned?</td></tr>
     <tr><td width="400px">Today, tomorrow, this weekend...?</td></tr>
     <tr><td width="400px">Setting the clocks back an hour lol!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Are you habing lunch or late donner or anything today or this weekend that i may companion with you?</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Could be a thing this weekend!</td></tr>
@@ -19711,7 +19711,7 @@ Sour candies no go for you?</td></tr>
     <tr><td width="400px">Either for you?</td></tr>
     <tr><td width="400px">Already in my possession</td></tr>
     <tr><td width="400px">Def the JW telescope! Probably the anatomy too :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Which ntl parks have you been to?</td></tr>
     <tr><td width="400px">Geez idk. Not many</td></tr>
     <tr><td width="400px">Olympic</td></tr>
@@ -19853,7 +19853,7 @@ Quite grungy
 Who would you be? Who would you think I'd like to be? Who am i most closely akin to and in what regard? Same for you</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Steaming off lol</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Hey it's a joke </td></tr>
     <tr><td width="400px">Lol
 
@@ -19890,14 +19890,14 @@ Youre very funny</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">That is quite top notch </td></tr>
     <tr><td width="400px">Is this live?</td></tr>
-    <tr><td width="400px">Yep 👍</td></tr>
+    <tr><td width="400px">Yep  </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">I'll be here all night</td></tr>
     <tr><td width="400px">And tomorrow</td></tr>
     <tr><td width="400px">And tomorrow</td></tr>
     <tr><td width="400px">And likely monday</td></tr>
     <tr><td width="400px">Allllllll alone</td></tr>
-    <tr><td width="400px">I will change this if I can 🥰</td></tr>
+    <tr><td width="400px">I will change this if I can  </td></tr>
     <tr><td width="400px">Wanna do somethibg for me right now?</td></tr>
     <tr><td width="400px">You have very fine features. So beautiful!</td></tr>
     <tr><td width="400px">What can I do?</td></tr>
@@ -20079,7 +20079,7 @@ Occasionally i feel it but that's really rare</td></tr>
     <tr><td width="400px">So expressive in all cases</td></tr>
     <tr><td width="400px">So pure </td></tr>
     <tr><td width="400px">Delight!</td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">Pardon the intrusion, but how would sex witb rlh go if there wasnt reciprocation? 
 
 Like.... you're the guy, so....?</td></tr>
@@ -20140,7 +20140,7 @@ I dont think i have otherwise helped</td></tr>
     <tr><td width="400px">Do your worst </td></tr>
     <tr><td width="400px">Want me to unlock the door now?</td></tr>
     <tr><td width="400px">Fml I am locked in</td></tr>
-    <tr><td width="400px">Why? 🤷‍♀️</td></tr>
+    <tr><td width="400px">Why? \/‍♀️</td></tr>
     <tr><td width="400px">Triste</td></tr>
     <tr><td width="400px">Wife in the kitchen?</td></tr>
     <tr><td width="400px">And too not right to drive for real</td></tr>
@@ -20305,7 +20305,7 @@ I will fuck you endlessly so long as you want to return the favor </td></tr>
     <tr><td width="400px">I hope you slept well?</td></tr>
     <tr><td width="400px">Wanna go have breakfast? Coffee?</td></tr>
     <tr><td width="400px">Good morning!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Sooooo how are you?</td></tr>
     <tr><td width="400px">Pretty good! Can't believe I slept so late lol</td></tr>
     <tr><td width="400px">I kind of have that effect on you</td></tr>
@@ -20456,7 +20456,7 @@ It's corny, but effective </td></tr>
     <tr><td width="400px">Anything you want</td></tr>
     <tr><td width="400px">This will help me fine tune</td></tr>
     <tr><td width="400px">NOT THAT WAY </td></tr>
-    <tr><td width="400px">🤪</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Eez joke bebe</td></tr>
     <tr><td width="400px">Btw I can't say how much respect I have for this album cover https://open.spotify.com/track/39iMBFepK3VfesTCF2ENP2?si=G21lDbPyTA2wdl62YNyMTw</td></tr>
     <tr><td width="400px">I may well have been listening to this album--which is to say the original version by The Cure, when I had my Bad Day In Brighton </td></tr>
@@ -20557,7 +20557,7 @@ Wassup princess?</td></tr>
     <tr><td width="400px">Really?</td></tr>
     <tr><td width="400px">I mean you are but lol</td></tr>
     <tr><td width="400px">Kinda</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Any reason?</td></tr>
     <tr><td width="400px">Can't see straight yet lol</td></tr>
     <tr><td width="400px">Pssshhhht</td></tr>
@@ -20598,7 +20598,7 @@ I think those cover the main points</td></tr>
 And maybe we add a gallon or 2 of morphjne or dilauded</td></tr>
     <tr><td width="400px">*please</td></tr>
     <tr><td width="400px">Ok just for you</td></tr>
-    <tr><td width="400px">Thanks 🙂</td></tr>
+    <tr><td width="400px">Thanks :)</td></tr>
     <tr><td width="400px">You procure it, I'll push it</td></tr>
     <tr><td width="400px">Do you have any inclination of an eta?</td></tr>
     <tr><td width="400px">Sounds like a deal</td></tr>
@@ -20636,7 +20636,7 @@ Just looking to do a project on some wood things.  Ot concerned with value</td><
     <tr><td width="400px">Thinner is added to paint or stain to dilute it</td></tr>
     <tr><td width="400px">Stripper is typically gelatinous and applied to a thing to melt paint</td></tr>
     <tr><td width="400px">Ok thanks!</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">How do you feel about soup?</td></tr>
     <tr><td width="400px">I love soup</td></tr>
     <tr><td width="400px">What kind sounds good if i feed it to you today?</td></tr>
@@ -20672,7 +20672,7 @@ Guard pup in place</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Oh noes!</td></tr>
     <tr><td width="400px">Heya</td></tr>
-    <tr><td width="400px">Hey all is well but can't talk now 😘😘😘</td></tr>
+    <tr><td width="400px">Hey all is well but can't talk now </td></tr>
     <tr><td width="400px">Hieee!</td></tr>
     <tr><td width="400px">How are you doing </td></tr>
     <tr><td width="400px">I think good?</td></tr>
@@ -20704,7 +20704,7 @@ And i am so happy now :)</td></tr>
     <tr><td width="400px">My actual memory recall will be sketchy at best</td></tr>
     <tr><td width="400px">My throat is still a little raw feeling</td></tr>
     <tr><td width="400px">But fuck i love you</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">I love you!</td></tr>
     <tr><td width="400px">What did i tell you that was new info?</td></tr>
     <tr><td width="400px">I feel like you gave me veritaserum lol</td></tr>
@@ -20730,7 +20730,7 @@ No</td></tr>
     <tr><td width="400px">The actual in and out sex part was magnificent
 
 I really think it was the best I've had</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">I didnt know that's how we're supposed to feel together</td></tr>
     <tr><td width="400px">Just like lil subby lovers</td></tr>
     <tr><td width="400px">I dont know that we're that
@@ -20746,7 +20746,7 @@ I have 2</td></tr>
     <tr><td width="400px">What signs do you notice (internal, external, visible, tangible, etc) that there's been trauma?
 
 How do you feel about our lovemaking quest?</td></tr>
-    <tr><td width="400px">Second q first: I absolutely love it! 🥰 And hey wow it's getting better!</td></tr>
+    <tr><td width="400px">Second q first: I absolutely love it!   And hey wow it's getting better!</td></tr>
     <tr><td width="400px">I notice much tbh</td></tr>
     <tr><td width="400px">About trauma</td></tr>
     <tr><td width="400px">I kinda assumed your tightness was a product of trauma, but </td></tr>
@@ -20911,7 +20911,7 @@ Things my my body or my face do when reacting or talking about certain things
 
 I love it</td></tr>
     <tr><td width="400px">May i have an example?</td></tr>
-    <tr><td width="400px">Is this a joke?? 🤣🤣🤣</td></tr>
+    <tr><td width="400px">Is this a joke?? :):):)</td></tr>
     <tr><td width="400px">Good sense of humor noted as well</td></tr>
     <tr><td width="400px">Not a joke
 
@@ -20982,7 +20982,7 @@ I have so much respect for you to do and deal with so much </td></tr>
 
 Like.... just someone to play with?</td></tr>
     <tr><td width="400px">I love you in spite of your challenges, not because of them</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Yes I want a plaything 
 
 It's so much more better though when it's a real woman</td></tr>
@@ -21145,7 +21145,7 @@ What else might there have been?</td></tr>
 
 Well thanks - i was saying I'll try harder next time to make that happen</td></tr>
     <tr><td width="400px">But cum literally gets me off when it's someone i like</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">Idk if you understand how sexy that is</td></tr>
     <tr><td width="400px">How sexy what is?
 
@@ -21195,7 +21195,7 @@ I don't want to force you into anything uncomfortable. We can decide later</td><
     <tr><td width="400px">Someone else's  birthday </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">That one lol</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">She'll be SIX</td></tr>
     <tr><td width="400px">No wonder she's so cute</td></tr>
@@ -21418,7 +21418,7 @@ But yes. They're there. You can help. You have helped. I dont know how you can h
 
 That legit makes me happy</td></tr>
     <tr><td width="400px">Here's a tangible example of you and how it's been helpful and different so far: three fingers</td></tr>
-    <tr><td width="400px">Oh Im sure I wouldn't know anything about that 😊</td></tr>
+    <tr><td width="400px">Oh Im sure I wouldn't know anything about that :)</td></tr>
     <tr><td width="400px">Me either</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Aside from sexual achievements (which I think are fantastic), anything else I've helped with?</td></tr>
@@ -21805,7 +21805,7 @@ Esp mom</td></tr>
     <tr><td width="400px">Happy midnight </td></tr>
     <tr><td width="400px">Is there any issue you wonder my standings on?</td></tr>
     <tr><td width="400px">You too</td></tr>
-    <tr><td width="400px">Woo!!! 🎉</td></tr>
+    <tr><td width="400px">Woo!!!  </td></tr>
     <tr><td width="400px">Well I can tell you as a kid growing up in a liberal house </td></tr>
     <tr><td width="400px">I hated it</td></tr>
     <tr><td width="400px">I mean not really really </td></tr>
@@ -21876,10 +21876,10 @@ Do you know what i want?</td></tr>
 Camera
 Bitch
 Smile</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Lights
+    <tr><td width="400px">  <3  to " Lights
 Camera
 Bitch
-Smile ” </td></tr>
+Smile " </td></tr>
     <tr><td width="400px">(From a swift song)</td></tr>
     <tr><td width="400px">Love that </td></tr>
     <tr><td width="400px">null</td></tr>
@@ -21941,7 +21941,7 @@ But there's a moment I'm seeking</td></tr>
     <tr><td width="400px">Slow, eye locking with you above me</td></tr>
     <tr><td width="400px">Yeah I hear you
 
-I suspect you will experience that, and new goals 😘😘😘</td></tr>
+I suspect you will experience that, and new goals </td></tr>
     <tr><td width="400px">Ohh?</td></tr>
     <tr><td width="400px">I mean look at you go!</td></tr>
     <tr><td width="400px">And me</td></tr>
@@ -22145,7 +22145,7 @@ There are so many nerves firing in the moment of orgasm I feel every nuance</td>
     <tr><td width="400px">It'll be your choice tomorrow</td></tr>
     <tr><td width="400px">I HAVVVVVVE to take a nap now though. I will ttyl</td></tr>
     <tr><td width="400px">Think about everything you want for tomorrow</td></tr>
-    <tr><td width="400px">Ok! TTYL ❤️❤️❤️</td></tr>
+    <tr><td width="400px">Ok! TTYL <3<3<3</td></tr>
     <tr><td width="400px">😴</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Je me reve</td></tr>
@@ -22164,7 +22164,7 @@ There are so many nerves firing in the moment of orgasm I feel every nuance</td>
     <tr><td width="400px">I love naps even if I'm a bit weird afterwards </td></tr>
     <tr><td width="400px">It's usually so refreshing </td></tr>
     <tr><td width="400px">I really needed it</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Do you feel better?</td></tr>
     <tr><td width="400px">Mostly yes</td></tr>
     <tr><td width="400px">You make choices yet for tomorrow?</td></tr>
@@ -22219,7 +22219,7 @@ We'll see if i ever try and put meat in my mouth again, hmm? How about that??</t
     <tr><td width="400px">You get that that was innuendo?</td></tr>
     <tr><td width="400px">Oh lol</td></tr>
     <tr><td width="400px">🍆</td></tr>
-    <tr><td width="400px">Haha 😂</td></tr>
+    <tr><td width="400px">Haha :)</td></tr>
     <tr><td width="400px">🐷</td></tr>
     <tr><td width="400px">Je suis cochon </td></tr>
     <tr><td width="400px">Je suis vegetarian</td></tr>
@@ -22318,7 +22318,7 @@ But you can clarify more than that if you think you should</td></tr>
     <tr><td width="400px">Ok I love all that</td></tr>
     <tr><td width="400px">I'm just trying to simplify requirements </td></tr>
     <tr><td width="400px">Bc I am in no way ready to set an agenda</td></tr>
-    <tr><td width="400px">😘😘😘😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">No prob</td></tr>
     <tr><td width="400px">Why did you think i was trying to?</td></tr>
     <tr><td width="400px">Your answer will help me</td></tr>
@@ -22459,7 +22459,7 @@ A bit of shopping, maybe
 If no shopping then maybe tidying or assembling shelves or sorting
 
 Sex with you is always on the agenda too</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Ty</td></tr>
     <tr><td width="400px">Oh. Something else</td></tr>
     <tr><td width="400px">I want to talk</td></tr>
@@ -22493,7 +22493,7 @@ Maybe other things
 
 God im a terrible influence
 </td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Lol a fun subreddit sometimes is r/publicreminders </td></tr>
     <tr><td width="400px">I'll have to check it out</td></tr>
     <tr><td width="400px">Simple premise </td></tr>
@@ -22541,7 +22541,7 @@ And i havent seen pics of anyone else from you</td></tr>
     <tr><td width="400px">About an hour?
 I'm about to get in the shower now </td></tr>
     <tr><td width="400px">Yeah that should be good. Just needed to know :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Hello!</td></tr>
     <tr><td width="400px">May I come in?</td></tr>
     <tr><td width="400px">Are you here?</td></tr>
@@ -22617,7 +22617,7 @@ I have a lot of firsts for you still
 And i love you too and want to be your everything 
 
 We are friends</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">How do you know how many firsts you are yet to have?
 
 This is a very odd sentence for me RN lol</td></tr>
@@ -22977,7 +22977,7 @@ But I did not</td></tr>
     <tr><td width="400px">Happy to take a look at your process when I have my wits together </td></tr>
     <tr><td width="400px">Better get that coffee!</td></tr>
     <tr><td width="400px">Working on it!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">May i have cheer please?</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Lol thanks</td></tr>
@@ -23192,7 +23192,7 @@ Tick</td></tr>
     <tr><td width="400px">Anyway....</td></tr>
     <tr><td width="400px">Think of me naked lately?</td></tr>
     <tr><td width="400px">Allllll the details please</td></tr>
-    <tr><td width="400px">Lol you are too much sometimes 😛</td></tr>
+    <tr><td width="400px">Lol you are too much sometimes :P</td></tr>
     <tr><td width="400px">Yes I thought about you naked not much later (this morning)</td></tr>
     <tr><td width="400px">When I was alone</td></tr>
     <tr><td width="400px">And thinking about giving you the best hard on I can make
@@ -23286,12 +23286,12 @@ Just me and my life's cruel irony</td></tr>
     <tr><td width="400px">The mediterranean one has some cool salads</td></tr>
     <tr><td width="400px">How lovely!</td></tr>
     <tr><td width="400px">It's right up my cranial alley</td></tr>
-    <tr><td width="400px">😘😘😚</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">😚</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I notices there's still a James Webb book and a Grey's Anatomy body atlas here</td></tr>
     <tr><td width="400px">Ohhhhh</td></tr>
     <tr><td width="400px">Beebee</td></tr>
-    <tr><td width="400px">I♥️all things telescope</td></tr>
+    <tr><td width="400px">I<3all things telescope</td></tr>
     <tr><td width="400px">Any other issues?</td></tr>
     <tr><td width="400px">Issues? That wasnt an issue</td></tr>
     <tr><td width="400px">And isk. Probably</td></tr>
@@ -23566,7 +23566,7 @@ He
 Is
 A
 Birch 
-♥️</td></tr>
+<3</td></tr>
     <tr><td width="400px">When he really gets going on that jumper he talks about it to passers by</td></tr>
     <tr><td width="400px">I think he has some sort of emission from time to time</td></tr>
     <tr><td width="400px">I wash the jumper regularly </td></tr>
@@ -23645,8 +23645,8 @@ I get so far that i keep a few on repeat that i know will keep me sad, usually i
     <tr><td width="400px">Of emotions </td></tr>
     <tr><td width="400px">Hormones are a mf </td></tr>
     <tr><td width="400px">Yes</td></tr>
-    <tr><td width="400px">Exactly 👍</td></tr>
-    <tr><td width="400px">YAY!! 🎉</td></tr>
+    <tr><td width="400px">Exactly  </td></tr>
+    <tr><td width="400px">YAY!!  </td></tr>
     <tr><td width="400px">S e e I'm a goth girlet too</td></tr>
     <tr><td width="400px">What is your advice </td></tr>
     <tr><td width="400px">null</td></tr>
@@ -23655,7 +23655,7 @@ Just
 Say
 No</td></tr>
     <tr><td width="400px">Good girl </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Idk how to tempt you now. Sry </td></tr>
     <tr><td width="400px">Whay are you trying to tempt me for or with?</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -23817,7 +23817,7 @@ Ive shielded a lot of it, sometimes had mini breakdowns. She's been more support
     <tr><td width="400px">I love your swamp</td></tr>
     <tr><td width="400px">Lol thanks</td></tr>
     <tr><td width="400px">This is midway through</td></tr>
-    <tr><td width="400px">😘😘😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">Awww</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">This hexagon has opened a portal in my house</td></tr>
@@ -23916,7 +23916,7 @@ Except for the chronic pain that is aggravated rn</td></tr>
     <tr><td width="400px">No
 Why should I?</td></tr>
     <tr><td width="400px">I haven't done so intentionally but ive had more going on in the last little while and havent been able to give you as much time or attention like i wanted</td></tr>
-    <tr><td width="400px">You're fine, lover. I know you've had a lot going on, and I was pretty sure you would benefit from sleep ☺️</td></tr>
+    <tr><td width="400px">You're fine, lover. I know you've had a lot going on, and I was pretty sure you would benefit from sleep :)</td></tr>
     <tr><td width="400px">Yes, but i didnt just mean today either</td></tr>
     <tr><td width="400px">Ok</td></tr>
     <tr><td width="400px">Why you so poopy head mean to me</td></tr>
@@ -23963,20 +23963,20 @@ I think pretty much anywhere is fine with walk-ins. Idk some might take appointm
     <tr><td width="400px">I will accompany you to a dispo if I can!</td></tr>
     <tr><td width="400px">Did you have fun on your painting expedition?</td></tr>
     <tr><td width="400px">It was ok</td></tr>
-    <tr><td width="400px"> ​😡​ to “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
-    <tr><td width="400px"> ​❤️​ to “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
-    <tr><td width="400px"> Removed ‌❤️‌ from “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
-    <tr><td width="400px"> ​❤️​ to “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
-    <tr><td width="400px"> Removed ‌❤️‌ from “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
-    <tr><td width="400px"> Removed ‌❤️‌ from “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
-    <tr><td width="400px"> ​❤️​ to “ That's a good question!
-I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  ” </td></tr>
+    <tr><td width="400px">  😡  to " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
+    <tr><td width="400px">  <3  to " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
+    <tr><td width="400px"> Removed ‌<3‌ from " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
+    <tr><td width="400px">  <3  to " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
+    <tr><td width="400px"> Removed ‌<3‌ from " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
+    <tr><td width="400px"> Removed ‌<3‌ from " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
+    <tr><td width="400px">  <3  to " That's a good question!
+I think pretty much anywhere is fine with walk-ins. Idk some might take appointments too.  " </td></tr>
     <tr><td width="400px">Anyone I know?</td></tr>
     <tr><td width="400px">You know of her</td></tr>
     <tr><td width="400px">I'm really ham fisted with a paintbrush</td></tr>
@@ -24286,7 +24286,7 @@ I am kind</td></tr>
     <tr><td width="400px">I'm totally fine if you want to leave it on</td></tr>
     <tr><td width="400px">It's not a premeditated thought that I have
 
-Maybe I just get ahead of myself 🤣</td></tr>
+Maybe I just get ahead of myself :)</td></tr>
     <tr><td width="400px">Being completely naked still makes me really nervous</td></tr>
     <tr><td width="400px">Ok then</td></tr>
     <tr><td width="400px">But you like it
@@ -24353,7 +24353,7 @@ Skirt/kilt commando</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Rawr lol</td></tr>
-    <tr><td width="400px">Lookit his tail 🤣</td></tr>
+    <tr><td width="400px">Lookit his tail :)</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">So
 
@@ -24445,7 +24445,7 @@ My hair is filthy too</td></tr>
     <tr><td width="400px">Nope, i like seeing you
 
 Just wish there were more hours in the day </td></tr>
-    <tr><td width="400px">Same ☺️</td></tr>
+    <tr><td width="400px">Same :)</td></tr>
     <tr><td width="400px">Will you love me with filthy hair?</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">I will love you with filthy hair under one condition 
@@ -24492,10 +24492,10 @@ Over?</td></tr>
     <tr><td width="400px">Home again. Hooray lol</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Thank you again :)</td></tr>
-    <tr><td width="400px">I had a good time with you today. Thanks for everything 💖❤️💖</td></tr>
+    <tr><td width="400px">I had a good time with you today. Thanks for everything 💖<3💖</td></tr>
     <tr><td width="400px">How's your rolly stool working out?</td></tr>
     <tr><td width="400px">It's fab! I love it</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I feel like I owe you for several thrift trips</td></tr>
     <tr><td width="400px">Idk what you're talking about</td></tr>
     <tr><td width="400px">I can only pay my debts by being a sex slave so I guess you'll be seeing a lot more of me</td></tr>
@@ -24716,7 +24716,7 @@ We didnt eat it</td></tr>
     <tr><td width="400px">...to be a vigorous lover?</td></tr>
     <tr><td width="400px">NEVER bored of that</td></tr>
     <tr><td width="400px">As long as you dont get bored of me not being able to satisfy your needs</td></tr>
-    <tr><td width="400px">It's not a you problem and tyvm  glad to know ❤️</td></tr>
+    <tr><td width="400px">It's not a you problem and tyvm  glad to know <3</td></tr>
     <tr><td width="400px">It HAS to be a me problem</td></tr>
     <tr><td width="400px">I really do feel bad about it</td></tr>
     <tr><td width="400px">You don't have to feel bad about it. It's old guy synapses and brain drugs. I can keep working it though I figured it out a couple times. </td></tr>
@@ -24801,7 +24801,7 @@ Do. You. Mind. </td></tr>
     <tr><td width="400px">Good sir?</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">She's a beaut</td></tr>
-    <tr><td width="400px">🤣</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I'm ded </td></tr>
     <tr><td width="400px">∆∆∆∆ this right here is why I love you </td></tr>
     <tr><td width="400px">Don't judge me plz</td></tr>
@@ -25046,7 +25046,7 @@ You are safe</td></tr>
     <tr><td width="400px">You will be so adorable</td></tr>
     <tr><td width="400px">Why?</td></tr>
     <tr><td width="400px">Because I love you and want to care for you </td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">But really - what if i cover everything in wee or something</td></tr>
     <tr><td width="400px">Lol it'll wash</td></tr>
     <tr><td width="400px">And if all sorts of air that's been trapped by you or me or the universe tries to escape at once,  youll revive mw if i start to die after being beyond mortified?</td></tr>
@@ -25145,7 +25145,7 @@ More like all sorts of twists and turns and hidden surprises</td></tr>
 No cabinet or cool speakers for you then</td></tr>
     <tr><td width="400px">:AP</td></tr>
     <tr><td width="400px">:P</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Did you have a good day finding stuff?</td></tr>
     <tr><td width="400px">Still doing it l9l</td></tr>
     <tr><td width="400px">Hehehe</td></tr>
@@ -25156,7 +25156,7 @@ No cabinet or cool speakers for you then</td></tr>
     <tr><td width="400px">Everything okay?</td></tr>
     <tr><td width="400px">Oh yeah all good</td></tr>
     <tr><td width="400px">On y va
-Now has special significance for me ❤️</td></tr>
+Now has special significance for me <3</td></tr>
     <tr><td width="400px">Oh yeah?</td></tr>
     <tr><td width="400px">My diary for Wednesday 
 
@@ -25194,7 +25194,7 @@ I had to ask ChatGPT to help with that but I like the way it sounds in French </
     <tr><td width="400px">I see</td></tr>
     <tr><td width="400px">Yep</td></tr>
     <tr><td width="400px">And with newly cleaned and sharpened tool, it's almost enjoyable lol</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Mmhmmm
 
@@ -25255,7 +25255,7 @@ But i plan on trying my new salad</td></tr>
     <tr><td width="400px">Pas assez</td></tr>
     <tr><td width="400px">Still awake?</td></tr>
     <tr><td width="400px">Yes!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Hi!</td></tr>
     <tr><td width="400px">Hi
 
@@ -25300,7 +25300,7 @@ It was fast too</td></tr>
     <tr><td width="400px">Sure could have been all talk </td></tr>
     <tr><td width="400px">But oddly specific </td></tr>
     <tr><td width="400px">(insert tongue in cheek)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Do you remember anything specific i said?</td></tr>
     <tr><td width="400px">Something something looks better on the floor 
@@ -25350,7 +25350,7 @@ I can only promise you I will follow my heart</td></tr>
     <tr><td width="400px">I really, really want to get there with you</td></tr>
     <tr><td width="400px">I distrust myself for trusting you so much, if that makes sense</td></tr>
     <tr><td width="400px">Yes it does </td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Aww my love </td></tr>
     <tr><td width="400px">So</td></tr>
     <tr><td width="400px">So</td></tr>
@@ -25400,7 +25400,7 @@ Mouth</td></tr>
 You ask</td></tr>
     <tr><td width="400px">Why yes, that's one question i was wondering </td></tr>
     <tr><td width="400px">But of course!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I still have to suck ears</td></tr>
     <tr><td width="400px">And nipples</td></tr>
     <tr><td width="400px">And bellies</td></tr>
@@ -25488,7 +25488,7 @@ And licking you </td></tr>
     <tr><td width="400px">Is it too bizarre for you to dart your tongue in and out, down into me?</td></tr>
     <tr><td width="400px">Not at all and I am dying to do this </td></tr>
     <tr><td width="400px">You like your tight pussy licked</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ You can bounce on me ” </td></tr>
+    <tr><td width="400px">  <3  to " You can bounce on me " </td></tr>
     <tr><td width="400px">I do</td></tr>
     <tr><td width="400px">Too much </td></tr>
     <tr><td width="400px">Maybe you just do it too well</td></tr>
@@ -25504,7 +25504,7 @@ And licking you </td></tr>
     <tr><td width="400px">You think I'm concentrating?</td></tr>
     <tr><td width="400px">During.... yes </td></tr>
     <tr><td width="400px">I wish i was in my head a lot less</td></tr>
-    <tr><td width="400px">Be anywhere you like😋</td></tr>
+    <tr><td width="400px">Be anywhere you like:P</td></tr>
     <tr><td width="400px"> 🌄 </td></tr>
     <tr><td width="400px">Good morning!</td></tr>
     <tr><td width="400px">Hiee bebe</td></tr>
@@ -25585,9 +25585,9 @@ You're good</td></tr>
     <tr><td width="400px">Yessss</td></tr>
     <tr><td width="400px">Acqui?</td></tr>
     <tr><td width="400px">Y a hora</td></tr>
-    <tr><td width="400px">I know ❤️</td></tr>
+    <tr><td width="400px">I know <3</td></tr>
     <tr><td width="400px">Mopping task complete</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Except for the one I owe you!</td></tr>
     <tr><td width="400px">If I told you the wife and I were going to be somewhere in public at a certain time, wwyd?
 
@@ -25636,7 +25636,7 @@ Have you ever cleaned baseball caps</td></tr>
     <tr><td width="400px">Oh fml</td></tr>
     <tr><td width="400px">?</td></tr>
     <tr><td width="400px">Ofc, my Google profile image is me in a baseball hat</td></tr>
-    <tr><td width="400px">Fun 🎉</td></tr>
+    <tr><td width="400px">Fun  </td></tr>
     <tr><td width="400px">Probably about the last time that ever happened tbh</td></tr>
     <tr><td width="400px">Hahahahaha</td></tr>
     <tr><td width="400px">😆</td></tr>
@@ -25654,7 +25654,7 @@ I dont know how to not ruin the bills - arent they cardboard?</td></tr>
 
 Efficiwnt too</td></tr>
     <tr><td width="400px">On it</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Ok what I'm getting here is be gentle</td></tr>
     <tr><td width="400px">Use mild cleaners</td></tr>
     <tr><td width="400px">Spot clean as needed</td></tr>
@@ -25782,7 +25782,7 @@ And so. Damn. Sexy</td></tr>
     <tr><td width="400px">Mood for you </td></tr>
     <tr><td width="400px">Yesssssssss</td></tr>
     <tr><td width="400px">That's how i wabt to feel with you right fucking now</td></tr>
-    <tr><td width="400px">Pretty chill ,,❤️❤️</td></tr>
+    <tr><td width="400px">Pretty chill ,,<3<3</td></tr>
     <tr><td width="400px">Yes
 
 I want to steal that from you and share it
@@ -25851,9 +25851,9 @@ Not a yes or no, more like when do i sleep</td></tr>
     <tr><td width="400px">For reals though - zero pants</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Yummy!</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">I was so hot earlier I almost disrobed lol</td></tr>
-    <tr><td width="400px">❤️ your chubby pussy</td></tr>
+    <tr><td width="400px"><3 your chubby pussy</td></tr>
     <tr><td width="400px">She's always been puffy</td></tr>
     <tr><td width="400px">Anyway,  what else were you saying about me sleeping? Or when i get off? Or something?
 
@@ -25882,7 +25882,7 @@ I need this information stat</td></tr>
     <tr><td width="400px">"that was a fucking orgasm!"</td></tr>
     <tr><td width="400px">I think that was the first time I actually came in you, and then you came too!</td></tr>
     <tr><td width="400px">Yes </td></tr>
-    <tr><td width="400px">It was awesome ❤️❤️❤️</td></tr>
+    <tr><td width="400px">It was awesome <3<3<3</td></tr>
     <tr><td width="400px">Omg please give me the crying one</td></tr>
     <tr><td width="400px">Let's do it!!!</td></tr>
     <tr><td width="400px">I love to make you come</td></tr>
@@ -26015,7 +26015,7 @@ Anchovies</td></tr>
     <tr><td width="400px">I swear you said you took 3</td></tr>
     <tr><td width="400px">Do you ever feel your heart race when you use cannabis?</td></tr>
     <tr><td width="400px">My other prescriptions are tablets :)</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I take one a day -- effexor  ” </td></tr>
+    <tr><td width="400px">  <3  to " I take one a day -- effexor  " </td></tr>
     <tr><td width="400px">Regarding racing, not really. </td></tr>
     <tr><td width="400px">Ok I didn't know I could love my own message, but that happened when my laptop power cord touched the screen lol</td></tr>
     <tr><td width="400px">Surrrrrrrre it did</td></tr>
@@ -26186,7 +26186,7 @@ There are interesting language and history lessons throughout</td></tr>
     <tr><td width="400px">Love you!</td></tr>
     <tr><td width="400px">Sweet dreams!</td></tr>
     <tr><td width="400px">Love you too</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Good morning! </td></tr>
     <tr><td width="400px">Hey</td></tr>
     <tr><td width="400px">Hi lover how are you </td></tr>
@@ -26194,7 +26194,7 @@ There are interesting language and history lessons throughout</td></tr>
     <tr><td width="400px">Thought that was cute</td></tr>
     <tr><td width="400px">I am meh</td></tr>
     <tr><td width="400px">That is cute, and so are you:)</td></tr>
-    <tr><td width="400px">Thanks 🙂</td></tr>
+    <tr><td width="400px">Thanks :)</td></tr>
     <tr><td width="400px">Anything in particular going on or just a blah day</td></tr>
     <tr><td width="400px">A few things. Some i dont feel like talking about
 
@@ -26303,7 +26303,7 @@ Lmk if you want me to get anything for you</td></tr>
     <tr><td width="400px">Mistress of morphology/morphemes/morphophonetics</td></tr>
     <tr><td width="400px">Nice!</td></tr>
     <tr><td width="400px">Mademoiselle des mots</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Mademoiselle des mots ” </td></tr>
+    <tr><td width="400px">  <3  to " Mademoiselle des mots " </td></tr>
     <tr><td width="400px">My beautiful fairy of bilabial fricatives</td></tr>
     <tr><td width="400px">Witchtress of wordsmithing</td></tr>
     <tr><td width="400px">How was lunch? Home for the rest of the night?</td></tr>
@@ -26696,7 +26696,7 @@ What does your day consist of?</td></tr>
     <tr><td width="400px">Gotcha</td></tr>
     <tr><td width="400px">Hey doll</td></tr>
     <tr><td width="400px">O hai</td></tr>
-    <tr><td width="400px">How are you? 🙂</td></tr>
+    <tr><td width="400px">How are you? :)</td></tr>
     <tr><td width="400px">Meh</td></tr>
     <tr><td width="400px">What's wrong?</td></tr>
     <tr><td width="400px">Just not feeling it today</td></tr>
@@ -27100,7 +27100,7 @@ I will try and explain in a minute</td></tr>
     <tr><td width="400px">Hopefully not because I'm being a dick </td></tr>
     <tr><td width="400px">But maybe</td></tr>
     <tr><td width="400px">I already told you it wasnt you</td></tr>
-    <tr><td width="400px">Well I have zero context then 🤷</td></tr>
+    <tr><td width="400px">Well I have zero context then \/</td></tr>
     <tr><td width="400px">It was starting to set it how much no one has ever cared </td></tr>
     <tr><td width="400px">Dang dude you are hard catch me up</td></tr>
     <tr><td width="400px">I meant with hospitals specifically</td></tr>
@@ -27174,7 +27174,7 @@ But do i what?</td></tr>
 Yay</td></tr>
     <tr><td width="400px">Good morning :)</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">❤️ good morning! ❤️</td></tr>
+    <tr><td width="400px"><3 good morning! <3</td></tr>
     <tr><td width="400px">How are you?</td></tr>
     <tr><td width="400px">Missinf a good hair day and everything </td></tr>
     <tr><td width="400px">null</td></tr>
@@ -27613,7 +27613,7 @@ And low spdium is actually more dangerous than full salt. Will explain later</td
 
 It's not you </td></tr>
     <tr><td width="400px">TTFN </td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Eyy</td></tr>
     <tr><td width="400px">Aeee</td></tr>
     <tr><td width="400px">How are you?</td></tr>
@@ -28017,7 +28017,7 @@ Olive</td></tr>
     <tr><td width="400px">RLH has begun return trip from farewell Michigan, approx 10 minutes ago ETA 1900</td></tr>
     <tr><td width="400px">You can join me chez meijer!</td></tr>
     <tr><td width="400px">Oh no</td></tr>
-    <tr><td width="400px">Why? 🤷‍♀️</td></tr>
+    <tr><td width="400px">Why? \/‍♀️</td></tr>
     <tr><td width="400px">Friday before Thanksgiving </td></tr>
     <tr><td width="400px">Empty</td></tr>
     <tr><td width="400px">What could go wrong </td></tr>
@@ -28720,7 +28720,7 @@ So questions are open. And now that you know, i will answer anything you ever wa
     <tr><td width="400px">Please continue </td></tr>
     <tr><td width="400px">I'd rather understand better what you mean by abusive </td></tr>
     <tr><td width="400px">I dont want to discount what you're trying to tell me</td></tr>
-    <tr><td width="400px">You won't 🙂</td></tr>
+    <tr><td width="400px">You won't :)</td></tr>
     <tr><td width="400px">How do i start? Literal question</td></tr>
     <tr><td width="400px">Abuse takes what form? Physical? Or something else </td></tr>
     <tr><td width="400px">It has taken all forms in the last several years. It is typically not physical </td></tr>
@@ -28920,7 +28920,7 @@ Back in 10</td></tr>
     <tr><td width="400px">Lol yes!</td></tr>
     <tr><td width="400px">I will be free kist of friday afternoon</td></tr>
     <tr><td width="400px">*most</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">This is excellent news!</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Nevertheless, do you like these smol candelita?</td></tr>
@@ -28964,7 +28964,7 @@ Yes please!</td></tr>
     <tr><td width="400px">Ok I keep forgetting those 
 
 I have for you</td></tr>
-    <tr><td width="400px">Thanks 🙂</td></tr>
+    <tr><td width="400px">Thanks :)</td></tr>
     <tr><td width="400px">Fwiw I only use them as lubricant/waterproof coating</td></tr>
     <tr><td width="400px">I found this stash she got oh circa 2008 I keep now</td></tr>
     <tr><td width="400px">Lol</td></tr>
@@ -29017,7 +29017,7 @@ As of right now, the only thing i have an actual recollection of is talking tree
     <tr><td width="400px">And that was wonderful </td></tr>
     <tr><td width="400px">And as I recall you got keen on kissing</td></tr>
     <tr><td width="400px">And so did I </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">What else?</td></tr>
     <tr><td width="400px">Well</td></tr>
     <tr><td width="400px">And I rather enjoyed hugging you and grabbing your ass with more than just hugs In mind </td></tr>
@@ -29056,7 +29056,7 @@ I dont like its base either. Very impractical IMO. And just some other stuff abo
     <tr><td width="400px">Fair</td></tr>
     <tr><td width="400px">Do you think you would prefer firmer mattress or softer?</td></tr>
     <tr><td width="400px">Kind of both. One that's cushier, like maybe one of the newer nectar types?</td></tr>
-    <tr><td width="400px">I'm not familiar. Don't know 🤷</td></tr>
+    <tr><td width="400px">I'm not familiar. Don't know \/</td></tr>
     <tr><td width="400px">Casper? Purple?
 
 Saatva is supposed to be great. Kinda bought one once. Never slept on it</td></tr>
@@ -29322,7 +29322,7 @@ And need to install GFCI device</td></tr>
     <tr><td width="400px">No government involevement thx</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Hahaha!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">We should be chatty </td></tr>
     <tr><td width="400px">What else are you up to?</td></tr>
     <tr><td width="400px">I can be very chatty if you really want </td></tr>
@@ -29388,7 +29388,7 @@ But we've not solved our first quandry!</td></tr>
     <tr><td width="400px">Big difference at 28:35</td></tr>
     <tr><td width="400px">I'm sorry what is 28:35?</td></tr>
     <tr><td width="400px">Happier lol</td></tr>
-    <tr><td width="400px">Ok 😊</td></tr>
+    <tr><td width="400px">Ok :)</td></tr>
     <tr><td width="400px">You have no less than 3 things to figure out still </td></tr>
     <tr><td width="400px">Curses!
 
@@ -29459,7 +29459,7 @@ Pronounced Aruuuuuuuuba </td></tr>
     <tr><td width="400px">I would love that too </td></tr>
     <tr><td width="400px">Focus!</td></tr>
     <tr><td width="400px">Ope sorry! </td></tr>
-    <tr><td width="400px">It's okay 🙂</td></tr>
+    <tr><td width="400px">It's okay :)</td></tr>
     <tr><td width="400px">So who is our cook?</td></tr>
     <tr><td width="400px">Captain Cook!</td></tr>
     <tr><td width="400px">How long have I known this person?</td></tr>
@@ -29507,7 +29507,7 @@ And i maybe have cool "news"</td></tr>
     <tr><td width="400px">Sweet!</td></tr>
     <tr><td width="400px">I do kind of know all the places ad all the sales for this blavk weekend lol</td></tr>
     <tr><td width="400px">Well that makes sense</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">We should do that Saturday!</td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">And what to do today then</td></tr>
@@ -29532,7 +29532,7 @@ Just how it's gotta be today</td></tr>
     <tr><td width="400px">Ok lmk and I will scoot up there if I can!</td></tr>
     <tr><td width="400px">Im chilling around frandor now, just in case you show up and see a late 30s gal with ridiculous things</td></tr>
     <tr><td width="400px">Hehe</td></tr>
-    <tr><td width="400px">What are you up to? 🙂</td></tr>
+    <tr><td width="400px">What are you up to? :)</td></tr>
     <tr><td width="400px">I was playing with the aquarium but I kicked up something and my allergies are wreaking havoc on me rn</td></tr>
     <tr><td width="400px">Aw, I'm sorry</td></tr>
     <tr><td width="400px">:(</td></tr>
@@ -29650,7 +29650,7 @@ Perseus</td></tr>
     <tr><td width="400px">Percibaby</td></tr>
     <tr><td width="400px">Per -sah - bay - bee</td></tr>
     <tr><td width="400px">Love it</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I have heard you call him so! Very cute!</td></tr>
     <tr><td width="400px">Thanks!</td></tr>
     <tr><td width="400px">You'd be so proud - i went mini krogering today</td></tr>
@@ -30223,7 +30223,7 @@ By either unfun party, lol</td></tr>
 Heyyyyyyyy</td></tr>
     <tr><td width="400px">Ok ttys </td></tr>
     <tr><td width="400px">Okay</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">😟</td></tr>
     <tr><td width="400px">Poor baby I'm sorry!</td></tr>
     <tr><td width="400px">How's it going?</td></tr>
@@ -30568,7 +30568,7 @@ I know yoyr sensibility, lol</td></tr>
     <tr><td width="400px">We *have* to watch this porn together</td></tr>
     <tr><td width="400px">Lovey dovey porn lol</td></tr>
     <tr><td width="400px">I hope maybe in less than 12ish hours</td></tr>
-    <tr><td width="400px">Be still my heart! 💞💞💞</td></tr>
+    <tr><td width="400px">Be still my heart!    </td></tr>
     <tr><td width="400px">Still think it's possible?</td></tr>
     <tr><td width="400px">Yes, but too early to know well</td></tr>
     <tr><td width="400px">Sneak over at like 5am instead</td></tr>
@@ -30971,7 +30971,7 @@ Not exactly awake yet ool</td></tr>
     <tr><td width="400px">Joining me?</td></tr>
     <tr><td width="400px">Whee!!</td></tr>
     <tr><td width="400px">Not sure yet--will advise soon!</td></tr>
-    <tr><td width="400px">Haha okay 👍</td></tr>
+    <tr><td width="400px">Haha okay  </td></tr>
     <tr><td width="400px">Can i interest you in some vintage sci fi magazines??</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Camera bag?
@@ -31007,7 +31007,7 @@ Some other time :)</td></tr>
     <tr><td width="400px">Sigh
 
 I'm sorry</td></tr>
-    <tr><td width="400px">It's okay 🙂</td></tr>
+    <tr><td width="400px">It's okay :)</td></tr>
     <tr><td width="400px">You doing ok?</td></tr>
     <tr><td width="400px">Just bummed</td></tr>
     <tr><td width="400px">I know
@@ -31193,7 +31193,7 @@ How do we find out more about your receiving?</td></tr>
     <tr><td width="400px">Are you familiar with The French Laundry?</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​😂​ to a photo </td></tr>
+    <tr><td width="400px">  :)  to a photo </td></tr>
     <tr><td width="400px">French laundry in -- is it Holly? I've been there once</td></tr>
     <tr><td width="400px">In California 
 
@@ -31262,7 +31262,7 @@ What else?</td></tr>
     <tr><td width="400px">Good morning!!!</td></tr>
     <tr><td width="400px"> Thanks!</td></tr>
     <tr><td width="400px">Happy birtheve!</td></tr>
-    <tr><td width="400px">Thanks babe ❤️</td></tr>
+    <tr><td width="400px">Thanks babe <3</td></tr>
     <tr><td width="400px">Do you have any days next week and/or the following week that you'd like to do something together?</td></tr>
     <tr><td width="400px">I need to request off 2 more so thought I'd ask you first </td></tr>
     <tr><td width="400px">ooOoo </td></tr>
@@ -32010,7 +32010,7 @@ I went so far as to "prove" i know things with endless expensive papers to displ
 
 Alllll of you</td></tr>
     <tr><td width="400px">Maybe youd like the same offered to you?</td></tr>
-    <tr><td width="400px">"maybe" ❤️</td></tr>
+    <tr><td width="400px">"maybe" <3</td></tr>
     <tr><td width="400px">There's so much i still want</td></tr>
     <tr><td width="400px">Omg yes please</td></tr>
     <tr><td width="400px">What would you do this evening if you had me?</td></tr>
@@ -32092,7 +32092,7 @@ You've tongue fucked me before without needing it</td></tr>
     <tr><td width="400px">And I was thinking about how sexy you look with a pink plug in your sexy ass</td></tr>
     <tr><td width="400px">But sir - i still need more descriptives, please</td></tr>
     <tr><td width="400px">Maybe first, help me understand how the butt plug works as a toy</td></tr>
-    <tr><td width="400px">I get the mechanics 🙂</td></tr>
+    <tr><td width="400px">I get the mechanics :)</td></tr>
     <tr><td width="400px">How exactly does it become part of the exchange between us?</td></tr>
     <tr><td width="400px">Is it pre inserted and there for display?</td></tr>
     <tr><td width="400px">Do I put it in?</td></tr>
@@ -32203,7 +32203,7 @@ Sagggggg</td></tr>
     <tr><td width="400px">That could be great or.... not lol</td></tr>
     <tr><td width="400px">I'm going with the positive interpretation </td></tr>
     <tr><td width="400px">Awww</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">You know ill ask why</td></tr>
     <tr><td width="400px">I mean you were born in my favorite month of all time so you have to be good</td></tr>
     <tr><td width="400px">Kicked my way out a month early to make that happen </td></tr>
@@ -32418,7 +32418,7 @@ So you remember what happened with your fucking driver's license renewal???</td>
     <tr><td width="400px">Yes please :)</td></tr>
     <tr><td width="400px">Ok I will let you know when I'm at Kroger </td></tr>
     <tr><td width="400px">Okay</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I might stay in my pajamas</td></tr>
     <tr><td width="400px">My hair is crispy</td></tr>
     <tr><td width="400px">And you know what this house looks like</td></tr>
@@ -32663,10 +32663,10 @@ I do try</td></tr>
     <tr><td width="400px">To you</td></tr>
     <tr><td width="400px">You too</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to a GIF </td></tr>
+    <tr><td width="400px">  <3  to a GIF </td></tr>
     <tr><td width="400px">Gnight love</td></tr>
     <tr><td width="400px">Sweet dreams</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Sweet dreams ” </td></tr>
+    <tr><td width="400px">  <3  to " Sweet dreams " </td></tr>
     <tr><td width="400px">Hey</td></tr>
     <tr><td width="400px">Hi babe!</td></tr>
     <tr><td width="400px">How's it going?</td></tr>
@@ -32891,7 +32891,7 @@ There were several winters where I had very little coffee, mostly tea. Now I hav
     <tr><td width="400px">And Saturday could easily be h4h or holiday shopping for you to attend to</td></tr>
     <tr><td width="400px">I am free!</td></tr>
     <tr><td width="400px">At the moment </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I will relieve you of Gray's. Ty!</td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">I am significantly increasing your library btw</td></tr>
@@ -33065,14 +33065,14 @@ I see pleasure I helped you obtain</td></tr>
     <tr><td width="400px">Have you seen me shake?</td></tr>
     <tr><td width="400px">Indeed</td></tr>
     <tr><td width="400px">A few times now </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Unless i tell you otherwise, i like/need your pressure and contact "after". So you on top of me, cuddling me, whatever.  It's a lot of new stimulation and intensity and human touch and pressure helps me be calmer</td></tr>
     <tr><td width="400px">I love that, and I'm glad you told me. I love holding you. It's such a satisfying feeling for me</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I dont usually say anything feedback-wise for what i like and want. It makes me feel selfish and greedy. This is kind of nice though</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">You can be selfish and greedy with me. I like it </td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">You're welcome lover</td></tr>
     <tr><td width="400px">Okay i just used my inhaler and basically got dizzy from how much my lungs let air in
 
@@ -33084,7 +33084,7 @@ Hurray oxygenation!</td></tr>
 Nice looking tray</td></tr>
     <tr><td width="400px">Want it?</td></tr>
     <tr><td width="400px">Is it sturdy? It looks like maybe it is</td></tr>
-    <tr><td width="400px">It is 👍</td></tr>
+    <tr><td width="400px">It is  </td></tr>
     <tr><td width="400px">Is it nominally for cooking do you think, or some other purpoy</td></tr>
     <tr><td width="400px">Purpose</td></tr>
     <tr><td width="400px">I dont really know </td></tr>
@@ -33233,7 +33233,7 @@ I hope you enjoy it</td></tr>
     <tr><td width="400px">No worries
 
 Seriously,  enjoy</td></tr>
-    <tr><td width="400px">Ttys ❤️</td></tr>
+    <tr><td width="400px">Ttys <3</td></tr>
     <tr><td width="400px">Hey</td></tr>
     <tr><td width="400px">Hey, what's up?</td></tr>
     <tr><td width="400px">I'm a bit bewildered by all the ADD</td></tr>
@@ -33283,7 +33283,7 @@ Fret</td></tr>
 4. I hope you're sincere. I can be a little scent obsessive</td></tr>
     <tr><td width="400px">I am sincere 
 
-I like being reminded of being with you ☺️</td></tr>
+I like being reminded of being with you :)</td></tr>
     <tr><td width="400px">Oh yes </td></tr>
     <tr><td width="400px">The yes</td></tr>
     <tr><td width="400px">Right</td></tr>
@@ -33368,7 +33368,7 @@ Drugs and stuff yknow</td></tr>
     <tr><td width="400px">Love you babe sleep well!</td></tr>
     <tr><td width="400px">I love you too</td></tr>
     <tr><td width="400px">You sleep well</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ You sleep well ” </td></tr>
+    <tr><td width="400px">  <3  to " You sleep well " </td></tr>
     <tr><td width="400px">Good morning!</td></tr>
     <tr><td width="400px">Hello!!</td></tr>
     <tr><td width="400px">How goes it?</td></tr>
@@ -33378,7 +33378,7 @@ Drugs and stuff yknow</td></tr>
     <tr><td width="400px">Same. Not what I am going to do </td></tr>
     <tr><td width="400px">Well there are a zillion things to do around town today if you need ideas</td></tr>
     <tr><td width="400px">I'm omw downtown,  you're always welcome to join me shopping, lunch cafe, whatever</td></tr>
-    <tr><td width="400px"> ​👍​ to “ I'm omw downtown,  you're always welcome to join me shopping, lunch cafe, whatever ” </td></tr>
+    <tr><td width="400px">     to " I'm omw downtown,  you're always welcome to join me shopping, lunch cafe, whatever " </td></tr>
     <tr><td width="400px">Hi, my phone is being weird. Wondering if you can see this text and whst time?</td></tr>
     <tr><td width="400px">Yep, got it at 1321</td></tr>
     <tr><td width="400px">Cool thx!</td></tr>
@@ -33508,7 +33508,7 @@ Anyway, i like op 1</td></tr>
     <tr><td width="400px">So much better</td></tr>
     <tr><td width="400px">Excellent</td></tr>
     <tr><td width="400px">Woo!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">How are ya babe?</td></tr>
     <tr><td width="400px">Okay, i think. You?</td></tr>
     <tr><td width="400px">Doing well ty</td></tr>
@@ -33799,7 +33799,7 @@ I told them valid reasons there would be more and they just kept saying "yeah, w
     <tr><td width="400px">:/</td></tr>
     <tr><td width="400px">I am in kitchen duty mode for a little bit</td></tr>
     <tr><td width="400px">Kiss your neck now</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I sleep now</td></tr>
     <tr><td width="400px">https://photos.app.goo.gl/xjiDiq5PVrpGdmiE6</td></tr>
     <tr><td width="400px">Finally, self portraits I don't hate!</td></tr>
@@ -34166,8 +34166,8 @@ In public even</td></tr>
     <tr><td width="400px">I like when you talk to me or ask me things
 
 What?</td></tr>
-    <tr><td width="400px">❤️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Tomorrow is safe day</td></tr>
     <tr><td width="400px">Non judgemental </td></tr>
     <tr><td width="400px">Do as suits you </td></tr>
@@ -34279,7 +34279,7 @@ And i want to help you find new ones</td></tr>
     <tr><td width="400px">Thank you lol</td></tr>
     <tr><td width="400px">You sleep well - i love you too</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ You sleep well - i love you too ” </td></tr>
+    <tr><td width="400px">  <3  to " You sleep well - i love you too " </td></tr>
     <tr><td width="400px">Hiya</td></tr>
     <tr><td width="400px">Hey sweetie </td></tr>
     <tr><td width="400px">How's it going?</td></tr>
@@ -34464,7 +34464,7 @@ I dont really care about values or money or material stuff. I know the things bu
 
 I.e. the live laugh love room</td></tr>
     <tr><td width="400px">That definitely is part of the fun!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Thought of something(s) else</td></tr>
     <tr><td width="400px">Yeah?</td></tr>
     <tr><td width="400px">Yeah</td></tr>
@@ -34563,7 +34563,7 @@ What are YOU wearing?</td></tr>
     <tr><td width="400px">Brave of you babe!</td></tr>
     <tr><td width="400px">I realized that as i sent it</td></tr>
     <tr><td width="400px">Actually kinda was</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Actually kinda was ” </td></tr>
+    <tr><td width="400px">  <3  to " Actually kinda was " </td></tr>
     <tr><td width="400px">Say what you will</td></tr>
     <tr><td width="400px">Dude you got feet pics fo' free</td></tr>
     <tr><td width="400px">Yes! And I am grateful!</td></tr>
@@ -35108,8 +35108,8 @@ When what I really want is to release you from that hell</td></tr>
     <tr><td width="400px">I didn't want to avoid it, but I don't think this is a good way</td></tr>
     <tr><td width="400px">To address it</td></tr>
     <tr><td width="400px">I agree</td></tr>
-    <tr><td width="400px">Ok ❤️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">Ok <3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Fuck</td></tr>
     <tr><td width="400px">Im sorry</td></tr>
     <tr><td width="400px">I'm ok with feels</td></tr>
@@ -35234,7 +35234,7 @@ There's a cheese sandwich in my ass</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">And I will happily donate the excess heat I have</td></tr>
     <tr><td width="400px">Hi BBY!!!</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Aww I hope your crisps are perfect</td></tr>
     <tr><td width="400px">They're decent</td></tr>
     <tr><td width="400px">Oopsie I am slipping off to sleep</td></tr>
@@ -35263,7 +35263,7 @@ I'm my head</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Oops.... lol</td></tr>
     <tr><td width="400px">Oh hi!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">So pretty!</td></tr>
     <tr><td width="400px">Thanks!</td></tr>
     <tr><td width="400px">Such a nice way to wake up :)</td></tr>
@@ -35641,8 +35641,8 @@ Night</td></tr>
     <tr><td width="400px">It's difficult to sneak outta here</td></tr>
     <tr><td width="400px">Or maybe we just need to get our own place </td></tr>
     <tr><td width="400px">Not opposed</td></tr>
-    <tr><td width="400px">❤️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">So much catching up to do</td></tr>
     <tr><td width="400px">Why do you say so now? What are your thoughts?</td></tr>
     <tr><td width="400px">Damn it sucks that I am stuck here</td></tr>
@@ -35680,7 +35680,7 @@ We're supposed to rent a U-Haul van so they can empty their storage unit</td></t
     <tr><td width="400px">Its good?</td></tr>
     <tr><td width="400px">It makes me gooey inside</td></tr>
     <tr><td width="400px">I love it</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Any frevenings coming up?</td></tr>
     <tr><td width="400px">Not really and it's annoying me</td></tr>
     <tr><td width="400px">Maybe tomorrow but idk</td></tr>
@@ -35700,7 +35700,7 @@ We're supposed to rent a U-Haul van so they can empty their storage unit</td></t
 Just poignantly without promise</td></tr>
     <tr><td width="400px">Give me just a few ok babe?</td></tr>
     <tr><td width="400px">Np</td></tr>
-    <tr><td width="400px">👍 </td></tr>
+    <tr><td width="400px">  </td></tr>
     <tr><td width="400px">You need a ride
 </td></tr>
     <tr><td width="400px">A thumb</td></tr>
@@ -35793,8 +35793,8 @@ So I need a layer to keep me sorta dry if that makes sense at all</td></tr>
 Good luck today!
 
 I might be busy til afternoon. Sorry :(</td></tr>
-    <tr><td width="400px">Ty! ❤️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">Ty! <3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Cant chat yet but...</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Uranium glass if you can take a field trip this week. Or i prob can get it for you if you want </td></tr>
@@ -36135,8 +36135,8 @@ The answer os always a book. This one is full of recipes and idk what else</td><
     <tr><td width="400px">That was very sweet of you </td></tr>
     <tr><td width="400px">Pshht</td></tr>
     <tr><td width="400px">But yw</td></tr>
-    <tr><td width="400px">❤</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">So my salad</td></tr>
     <tr><td width="400px">Lol midnight texts</td></tr>
     <tr><td width="400px">Consists of that lovely ingredient, plus dill pickles (two kinds), fake hot dogs (2), and tahini </td></tr>
@@ -36364,7 +36364,7 @@ Orientated, if you're nasty</td></tr>
     <tr><td width="400px">Okay
 
 Let me know if i can help!</td></tr>
-    <tr><td width="400px">Tx 🙂</td></tr>
+    <tr><td width="400px">Tx :)</td></tr>
     <tr><td width="400px">And it's sucky but totes fine to be our own selves today :)</td></tr>
     <tr><td width="400px">Thanks babe
 
@@ -36762,8 +36762,8 @@ I share your frustration </td></tr>
     <tr><td width="400px">Gnight babe</td></tr>
     <tr><td width="400px">Beaux reves, mon amor</td></tr>
     <tr><td width="400px">A toi aussi</td></tr>
-    <tr><td width="400px">❤️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Hey kitten</td></tr>
     <tr><td width="400px">Hiya </td></tr>
     <tr><td width="400px">Good luck today</td></tr>
@@ -36867,7 +36867,7 @@ We've bonded over some shared interest </td></tr>
 Work woes 
 Lame spouses</td></tr>
     <tr><td width="400px">Travel</td></tr>
-    <tr><td width="400px">Mellophones 🤣</td></tr>
+    <tr><td width="400px">Mellophones :)</td></tr>
     <tr><td width="400px">NB I also developed a great respect for your perseverance </td></tr>
     <tr><td width="400px">NB?</td></tr>
     <tr><td width="400px">Nota bene </td></tr>
@@ -37031,7 +37031,7 @@ Dare i ask how it's going there?</td></tr>
 
 TTYL for sure tho </td></tr>
     <tr><td width="400px">Ok</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Ok ” </td></tr>
+    <tr><td width="400px">  <3  to " Ok " </td></tr>
     <tr><td width="400px">Hi beebee</td></tr>
     <tr><td width="400px">Heya </td></tr>
     <tr><td width="400px">Sorry for the cloak and dagger crap</td></tr>
@@ -37222,7 +37222,7 @@ Poor baby needs a bean extract </td></tr>
     <tr><td width="400px">???</td></tr>
     <tr><td width="400px">Legit that is the only reason</td></tr>
     <tr><td width="400px">She uses meijer?</td></tr>
-    <tr><td width="400px">Nvm as of one minute ago, I am also picking up the weed order 🤪</td></tr>
+    <tr><td width="400px">Nvm as of one minute ago, I am also picking up the weed order </td></tr>
     <tr><td width="400px">Dang it!</td></tr>
     <tr><td width="400px">Ikr?</td></tr>
     <tr><td width="400px">So is the renewal team trashed or what</td></tr>
@@ -37269,7 +37269,7 @@ What's been happening there?</td></tr>
 Is that a lot?</td></tr>
     <tr><td width="400px">It's kinda like going to McDonald's and ordering 1 of everything on the menu</td></tr>
     <tr><td width="400px">Ohhhh wow</td></tr>
-    <tr><td width="400px">😅</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Well she actually ordered online, well ahead of time</td></tr>
     <tr><td width="400px">The girl was first making side eye at the backroom for not having that online order filled </td></tr>
     <tr><td width="400px">Such is life at the bud bar I guess</td></tr>
@@ -37284,7 +37284,7 @@ Is that a lot?</td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">Physically.... idk. Weird</td></tr>
     <tr><td width="400px">Happy baby!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Yeah?</td></tr>
     <tr><td width="400px">Yeah</td></tr>
     <tr><td width="400px">I feel like maybe my port is weird now but have no way of knowing bc i dont usually touch it
@@ -37367,7 +37367,7 @@ I enjoy this irl, no sarcasm</td></tr>
     <tr><td width="400px">Ok and you? You are tightsies with SN</td></tr>
     <tr><td width="400px">DAMN MAY BABIES</td></tr>
     <tr><td width="400px">How high did you get, sir?</td></tr>
-    <tr><td width="400px">❤️❤️❤️</td></tr>
+    <tr><td width="400px"><3<3<3</td></tr>
     <tr><td width="400px">Yes you love us</td></tr>
     <tr><td width="400px">And all our flowers</td></tr>
     <tr><td width="400px">The 2 best ones</td></tr>
@@ -37387,7 +37387,7 @@ Ohh</td></tr>
     <tr><td width="400px">Mom was a big wildflower gal</td></tr>
     <tr><td width="400px">Loves to paint them even now</td></tr>
     <tr><td width="400px">Still paints em</td></tr>
-    <tr><td width="400px">Aww 🥰</td></tr>
+    <tr><td width="400px">Aww  </td></tr>
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">Me mum</td></tr>
     <tr><td width="400px">Old Stevie 
@@ -37452,8 +37452,8 @@ Ok ttys</td></tr>
     <tr><td width="400px">Don't worry about me </td></tr>
     <tr><td width="400px">Ty
 Sweet baby</td></tr>
-    <tr><td width="400px">❤</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I love you </td></tr>
     <tr><td width="400px">Ily2</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -37806,7 +37806,7 @@ I'm sorry</td></tr>
     <tr><td width="400px">I hope you have lots of fun today, or that it's at least tolerable</td></tr>
     <tr><td width="400px">Thx! 
 Bon chance!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I feel so awful right now
 
 Cant wait for the good drugs</td></tr>
@@ -38015,7 +38015,7 @@ Don't </td></tr>
     <tr><td width="400px">She needs not be reminded </td></tr>
     <tr><td width="400px">You can totes shop here</td></tr>
     <tr><td width="400px">You are totes delish thank you!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I will gladly pay in whatever form of currency you prefer</td></tr>
     <tr><td width="400px">Or credit</td></tr>
     <tr><td width="400px">Barter?</td></tr>
@@ -38059,13 +38059,13 @@ And you do it SO WELL</td></tr>
 And having you play all over me is fantastic
 
 I always want more but wont actually say so</td></tr>
-    <tr><td width="400px">Ohhh I'm swooning 🥰</td></tr>
+    <tr><td width="400px">Ohhh I'm swooning  </td></tr>
     <tr><td width="400px">You're so sweet to me </td></tr>
     <tr><td width="400px">Nah</td></tr>
     <tr><td width="400px">But i do try</td></tr>
     <tr><td width="400px">The box of things i gave for you is vasically things that are cool or quirky or useful and are almost all pre-owned but i hope you know it helps show a little of how much i think of you. How often.  And i pay attention to little details about you </td></tr>
     <tr><td width="400px">I appreciate that so much! You have shown me several times now your impressive memory for details </td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">It's only for things that matter to me though </td></tr>
     <tr><td width="400px">Like.... non maths lol </td></tr>
     <tr><td width="400px">Lol</td></tr>
@@ -38186,7 +38186,7 @@ Once the gait belt holder git ditracted and i fell. I told them i felt like i sn
     <tr><td width="400px">My poor babygirl how old were you?</td></tr>
     <tr><td width="400px">When i was starting to eat again i got refeeding syndrome. Blood sugars also went crazy. Took 10 juice boxes one night to get me to maintain a glucose of 35</td></tr>
     <tr><td width="400px">Still in the hospital</td></tr>
-    <tr><td width="400px"> ​😮​ to “ When i was starting to eat again i got refeeding syndrome. Blood sugars also went crazy. Took 10 juice boxes one night to get me to maintain a glucose of 35 ” </td></tr>
+    <tr><td width="400px">  😮  to " When i was starting to eat again i got refeeding syndrome. Blood sugars also went crazy. Took 10 juice boxes one night to get me to maintain a glucose of 35 " </td></tr>
     <tr><td width="400px">I was between 16 and 18</td></tr>
     <tr><td width="400px">Ive been this height or a little more since i turned 10, if you need perspective on that weight</td></tr>
     <tr><td width="400px">And i think i told you my mother consented to me undergoing ECT at the tail end of me being 17</td></tr>
@@ -38242,8 +38242,8 @@ What are you doing all day?</td></tr>
     <tr><td width="400px">Just for you!</td></tr>
     <tr><td width="400px">I always deserve presents :)</td></tr>
     <tr><td width="400px">You do!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">How long are you grounded?</td></tr>
     <tr><td width="400px">I don't know</td></tr>
     <tr><td width="400px">Why, whatcha got?</td></tr>
@@ -38263,7 +38263,7 @@ From ye olde Williamston shoppe -- thank you for the ref!</td></tr>
     <tr><td width="400px">Oh yay!</td></tr>
     <tr><td width="400px">Do you need more?</td></tr>
     <tr><td width="400px">The lady behind the counter was the vendor for two of the pieces, she gave me a little discount </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I don't need more now, but I do want to keep tabs on sources</td></tr>
     <tr><td width="400px">There's a booth at Megamall between aisles K & L</td></tr>
     <tr><td width="400px">I got 250 worth today lol</td></tr>
@@ -38313,13 +38313,13 @@ Am in croffice hoping to get some stuff done</td></tr>
     <tr><td width="400px">Poster frames eh? Like how big?</td></tr>
     <tr><td width="400px">22.375 by 34</td></tr>
     <tr><td width="400px">That's poster sized for most,  believe it or not</td></tr>
-    <tr><td width="400px">Gotcha 👍</td></tr>
+    <tr><td width="400px">Gotcha  </td></tr>
     <tr><td width="400px">Meijer?</td></tr>
     <tr><td width="400px">They used to have cheap frames anyway </td></tr>
     <tr><td width="400px">I know meijer, target, wm, michaels, noann, hoblob all have them</td></tr>
     <tr><td width="400px">I was hoping for secret insight</td></tr>
     <tr><td width="400px">Ah, sorry love </td></tr>
-    <tr><td width="400px">No worries 🙂</td></tr>
+    <tr><td width="400px">No worries :)</td></tr>
     <tr><td width="400px">Omgggggg</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Up to mid forearm </td></tr>
@@ -38416,7 +38416,7 @@ It really adds to the authenticity... Um, no actually </td></tr>
     <tr><td width="400px">Baaaaabes help meeeee</td></tr>
     <tr><td width="400px">Step son is drunking my ear off</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">Good night sweet babe if you are sleeping ❤️❤️❤️</td></tr>
+    <tr><td width="400px">Good night sweet babe if you are sleeping <3<3<3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Sorry babes</td></tr>
     <tr><td width="400px">It was a terrible night herw</td></tr>
@@ -38541,7 +38541,7 @@ Owwww!</td></tr>
     <tr><td width="400px">Yep
 
 That's all I've seen so far</td></tr>
-    <tr><td width="400px">I'm glad to hear that you're feeling better ❤️</td></tr>
+    <tr><td width="400px">I'm glad to hear that you're feeling better <3</td></tr>
     <tr><td width="400px">So far anyway </td></tr>
     <tr><td width="400px">I had a lottttttt of drugs in my system too</td></tr>
     <tr><td width="400px">Whatcha doin today?</td></tr>
@@ -38558,7 +38558,7 @@ I got some but I'm questioning whether they are the right ones</td></tr>
     <tr><td width="400px">Are they majing the string art themselves?</td></tr>
     <tr><td width="400px">I guess so? Not sure</td></tr>
     <tr><td width="400px">Want an idea?</td></tr>
-    <tr><td width="400px">Sure 🙂</td></tr>
+    <tr><td width="400px">Sure :)</td></tr>
     <tr><td width="400px">Get rlh or with of them a practice kit
 
 That will also help you decide on nails</td></tr>
@@ -38574,7 +38574,7 @@ That will also help you decide on nails</td></tr>
     <tr><td width="400px">I have time later this week for you</td></tr>
     <tr><td width="400px">Unsure about before the 25th </td></tr>
     <tr><td width="400px">Goody!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Any of those for you?</td></tr>
     <tr><td width="400px">Hey you</td></tr>
@@ -39023,11 +39023,11 @@ Allllll daaaay</td></tr>
 
 Sorry love!</td></tr>
     <tr><td width="400px">Ok BB!</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Minnnnnnnne</td></tr>
     <tr><td width="400px">I need a skirt and a reason to shake it</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Minnnnnnnne ” </td></tr>
+    <tr><td width="400px">  <3  to " Minnnnnnnne " </td></tr>
     <tr><td width="400px">Ill give you yours if you give me mine</td></tr>
     <tr><td width="400px">100%</td></tr>
     <tr><td width="400px">Okay but srsly gotta go for now</td></tr>
@@ -39299,7 +39299,7 @@ Film and processing were too expensive </td></tr>
 Regardless,  i hope you feel better soon</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">I'm back from my nap! </td></tr>
-    <tr><td width="400px"> ​❤️​ to a GIF </td></tr>
+    <tr><td width="400px">  <3  to a GIF </td></tr>
     <tr><td width="400px">Much better now</td></tr>
     <tr><td width="400px">I had my own just now</td></tr>
     <tr><td width="400px">Guess who had a not great blood pressure?</td></tr>
@@ -39593,7 +39593,7 @@ Then in thay case i will not be telling you where we can go and find 2/$1 record
     <tr><td width="400px">Same!</td></tr>
     <tr><td width="400px">Im sock-particular</td></tr>
     <tr><td width="400px">If i legit need quick-ish help in the next few days, may i please ask you?</td></tr>
-    <tr><td width="400px">Sure 🙂</td></tr>
+    <tr><td width="400px">Sure :)</td></tr>
     <tr><td width="400px">Thanks</td></tr>
     <tr><td width="400px">If you could maybe have a fake emergency on hand in the event have a real one, that would be wonderful</td></tr>
     <tr><td width="400px">Actual emergency for me meaning if i need immediate help that isnt 911 worthy but i cant help myself and anyone else is too far</td></tr>
@@ -39652,7 +39652,7 @@ Wasn't ignoring you </td></tr>
 Work
 With
 Me</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">I have zero place for it :(</td></tr>
     <tr><td width="400px">I'm not sure you understand my house lol</td></tr>
     <tr><td width="400px">Mayyyyyybe</td></tr>
@@ -39763,7 +39763,7 @@ We don't encourage this btw</td></tr>
     <tr><td width="400px">I have been making my way through most of a 10 oz bag of nice chocolate chips
 
 Still have a bit left since a week ago ish?</td></tr>
-    <tr><td width="400px">I will likely get summoned to kitchen soon so Cu in 30 ok ❤️</td></tr>
+    <tr><td width="400px">I will likely get summoned to kitchen soon so Cu in 30 ok <3</td></tr>
     <tr><td width="400px">You good?</td></tr>
     <tr><td width="400px">Whew!</td></tr>
     <tr><td width="400px">Yes</td></tr>
@@ -39814,7 +39814,7 @@ Does it work?</td></tr>
     <tr><td width="400px">I did see it</td></tr>
     <tr><td width="400px">Where in woodphase 1?</td></tr>
     <tr><td width="400px">Thank you 1000x for that rec</td></tr>
-    <tr><td width="400px">😁</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Oh, Louis, Domine, whatevs</td></tr>
     <tr><td width="400px">Ummmm</td></tr>
     <tr><td width="400px">I can you know, pick you up, and get wood at same time</td></tr>
@@ -39881,9 +39881,9 @@ Where will you be?</td></tr>
 If you know you will be going towards Okemos or opposite direction will be helpful!</td></tr>
     <tr><td width="400px">Okemos it is :)</td></tr>
     <tr><td width="400px">Awesomeness </td></tr>
-    <tr><td width="400px">😊</td></tr>
-    <tr><td width="400px">💞</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">:)</td></tr>
+    <tr><td width="400px"> </td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">It is not the end of the world to delay, reschedule, or cancel. Or revamp what we do
 
 All you have to do is say something</td></tr>
@@ -40050,7 +40050,7 @@ Where are you?</td></tr>
 Except for being hungry lol</td></tr>
     <tr><td width="400px">But that's fixed!
 Ty by the way!!!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Say more specifics please
 
 Good, bad, indifferent, observations, would rathers  etc </td></tr>
@@ -40179,7 +40179,7 @@ You take a glass cup that fits around your ear, pour boiling waiter into the gla
 
 Those caffenaited beans kick in yet?</td></tr>
     <tr><td width="400px">A bit yeah</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Plans today?</td></tr>
     <tr><td width="400px">Very unsure</td></tr>
     <tr><td width="400px">Wish I could escape today but I don't think I will be able to </td></tr>
@@ -40559,8 +40559,8 @@ Eyesore over there
 Allergies</td></tr>
     <tr><td width="400px">Whatever</td></tr>
     <tr><td width="400px">Yes!</td></tr>
-    <tr><td width="400px">This girl ❤️
-This guy ❤️</td></tr>
+    <tr><td width="400px">This girl <3
+This guy <3</td></tr>
     <tr><td width="400px">And it's bloody chaotic right</td></tr>
     <tr><td width="400px">The noise in my head during sex is soooooo much more for me</td></tr>
     <tr><td width="400px">Tell me more 💖</td></tr>
@@ -40628,7 +40628,7 @@ Typing now</td></tr>
     <tr><td width="400px">And I looked at everything and TYSM!</td></tr>
     <tr><td width="400px">Many awesome!</td></tr>
     <tr><td width="400px">I will find shelf for books</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">You're such a sweetheart </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">This is where I puddle lok</td></tr>
@@ -40672,10 +40672,10 @@ Mas Teeks is a good kitty</td></tr>
 "Price" stuff?</td></tr>
     <tr><td width="400px">Whoa 
 Scrolling </td></tr>
-    <tr><td width="400px"> ​😂​ to a photo </td></tr>
-    <tr><td width="400px">I❤️ your cats </td></tr>
+    <tr><td width="400px">  :)  to a photo </td></tr>
+    <tr><td width="400px">I<3 your cats </td></tr>
     <tr><td width="400px">So good</td></tr>
-    <tr><td width="400px">They all heart ❤️ you too</td></tr>
+    <tr><td width="400px">They all heart <3 you too</td></tr>
     <tr><td width="400px">Price
 Is
 Right</td></tr>
@@ -40880,9 +40880,9 @@ I've stopped counting the loads</td></tr>
     <tr><td width="400px">I love to touch you babe
 And feel your touch 
 Very much touch! Lol </td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px"> ​❤️​ to a GIF </td></tr>
+    <tr><td width="400px">  <3  to a GIF </td></tr>
     <tr><td width="400px">Ba-aaaaaaabe!</td></tr>
     <tr><td width="400px">Heyyy!</td></tr>
     <tr><td width="400px">How you doin?</td></tr>
@@ -41359,7 +41359,7 @@ It's tucked away in the croffice and blends in well with what would look placed 
 
 And i always elect to not view receipts</td></tr>
     <tr><td width="400px">Ok good deal. I wasn't worried about what you you see</td></tr>
-    <tr><td width="400px">Thanks 🙂</td></tr>
+    <tr><td width="400px">Thanks :)</td></tr>
     <tr><td width="400px">I like how we wrapped similarly </td></tr>
     <tr><td width="400px">Right?</td></tr>
     <tr><td width="400px">I need to be more careful though</td></tr>
@@ -41575,7 +41575,7 @@ Intermittent ol</td></tr>
 N
 Y</td></tr>
     <tr><td width="400px">I
-❤️</td></tr>
+<3</td></tr>
     <tr><td width="400px">Youuuuuu </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Waaaaa!</td></tr>
@@ -41637,7 +41637,7 @@ Like, is she extraspicious or more negative than usual?</td></tr>
 
 Well if you somnadrive later cet afternoon youre welcome to come over here </td></tr>
     <tr><td width="400px">Ty ty:)</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">It's giving....... much improved in the tidyness department!</td></tr>
     <tr><td width="400px">Good job!</td></tr>
     <tr><td width="400px">Thanks!</td></tr>
@@ -41645,7 +41645,7 @@ Well if you somnadrive later cet afternoon youre welcome to come over here </td>
 
 It's thay fresh start mentality</td></tr>
     <tr><td width="400px">Need nap</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ Need nap ” </td></tr>
+    <tr><td width="400px">  <3  to " Need nap " </td></tr>
     <tr><td width="400px">Baaaaaabe!!!</td></tr>
     <tr><td width="400px">Yoooooooo!</td></tr>
     <tr><td width="400px">Whatcha doin?</td></tr>
@@ -41657,7 +41657,7 @@ It's thay fresh start mentality</td></tr>
     <tr><td width="400px">Well that's cute? A little outta season, but it'll come around </td></tr>
     <tr><td width="400px">From my mother</td></tr>
     <tr><td width="400px">Reminds me of slutty but that's fine lol</td></tr>
-    <tr><td width="400px">I wasn't going to say it 😋</td></tr>
+    <tr><td width="400px">I wasn't going to say it :P</td></tr>
     <tr><td width="400px">Love the source</td></tr>
     <tr><td width="400px">?</td></tr>
     <tr><td width="400px">It's from my mother </td></tr>
@@ -41783,7 +41783,7 @@ Stellar Magination </td></tr>
     <tr><td width="400px">Submissive mistress?</td></tr>
     <tr><td width="400px">You win </td></tr>
     <tr><td width="400px">Yay!!!</td></tr>
-    <tr><td width="400px">❤️❤️❤️</td></tr>
+    <tr><td width="400px"><3<3<3</td></tr>
     <tr><td width="400px">But it's you who wins the sub</td></tr>
     <tr><td width="400px">(She is me)</td></tr>
     <tr><td width="400px">Yay!</td></tr>
@@ -41795,7 +41795,7 @@ Stellar Magination </td></tr>
     <tr><td width="400px">Im bedding soon too</td></tr>
     <tr><td width="400px">Sweet dreams and ttyt!!</td></tr>
     <tr><td width="400px"> Ty and same for you 
-❤️❤️❤️</td></tr>
+<3<3<3</td></tr>
     <tr><td width="400px">Good morning bebe!</td></tr>
     <tr><td width="400px">You too!
 
@@ -41922,7 +41922,7 @@ Kinda wanna dickerdealdropdollars lol</td></tr>
     <tr><td width="400px">I am salty babelet</td></tr>
     <tr><td width="400px">You're starting to sound like breakfast </td></tr>
     <tr><td width="400px">I dont want you to taste me salty!!!!</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">No!</td></tr>
     <tr><td width="400px">You have any escape capacity ce weekend?</td></tr>
     <tr><td width="400px">The platonic kind, probably</td></tr>
@@ -42058,7 +42058,7 @@ I put one on Reddit and invited the photoshoppers to have a go</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Hm! I'd try that </td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Baaaaaaaaaaabe</td></tr>
     <tr><td width="400px">Are you free at last?</td></tr>
     <tr><td width="400px">Yep!</td></tr>
@@ -42431,7 +42431,7 @@ Shit </td></tr>
     <tr><td width="400px">BOOBIE</td></tr>
     <tr><td width="400px">Nice boobie!</td></tr>
     <tr><td width="400px">My god you have cute tits</td></tr>
-    <tr><td width="400px">Thank you ❤️ </td></tr>
+    <tr><td width="400px">Thank you <3 </td></tr>
     <tr><td width="400px">So. You get to do what you want while i am present, willing, able, and enthusiastic 
 
 What ever will you do? </td></tr>
@@ -42524,7 +42524,7 @@ If I had to answer I would say definitely not. I'm having a really good time and
     <tr><td width="400px">But theni was 19 and it 6 first week on campus and it wasnt a bavk alley stranger</td></tr>
     <tr><td width="400px">Sorry,  having popcorns</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">You are so cute!</td></tr>
     <tr><td width="400px">Haha, thanks</td></tr>
     <tr><td width="400px">Now presenting: Friday afternoon of a holiday week meeting stance rebecca!</td></tr>
@@ -42575,7 +42575,7 @@ Absolutely not a problem</td></tr>
 Two, it feels great
 Three, I think I had more leverage
 Four, your ass is adorable </td></tr>
-    <tr><td width="400px">I thought you were opening presents, not conducting a sexual preference interview 🤣</td></tr>
+    <tr><td width="400px">I thought you were opening presents, not conducting a sexual preference interview :)</td></tr>
     <tr><td width="400px">I'm kidding</td></tr>
     <tr><td width="400px">You can ask whatever you want </td></tr>
     <tr><td width="400px">Science is always research duh</td></tr>
@@ -43230,7 +43230,7 @@ You are NOTTTTTTT</td></tr>
     <tr><td width="400px">Fuck that</td></tr>
     <tr><td width="400px">Take your clothes off lol</td></tr>
     <tr><td width="400px">Lololol</td></tr>
-    <tr><td width="400px"> ​😂​ to “ Fuck that ” </td></tr>
+    <tr><td width="400px">  :)  to " Fuck that " </td></tr>
     <tr><td width="400px">Only if you keep me warm</td></tr>
     <tr><td width="400px">Sooooonn</td></tr>
     <tr><td width="400px">I hope</td></tr>
@@ -43411,7 +43411,7 @@ I agree hard no to pain mosta time! </td></tr>
     <tr><td width="400px">What does 'it' refer to?</td></tr>
     <tr><td width="400px">Omg</td></tr>
     <tr><td width="400px">I want you to give me anal sex</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">We'll do it babe!</td></tr>
     <tr><td width="400px">My size????</td></tr>
     <tr><td width="400px">Was i somehow unclear in that?</td></tr>
@@ -43475,7 +43475,7 @@ Make sense?</td></tr>
     <tr><td width="400px">Why</td></tr>
     <tr><td width="400px">Ear-regardless, if you will </td></tr>
     <tr><td width="400px">Nopenopenope</td></tr>
-    <tr><td width="400px"> ​😂​ to “ Nopenopenope ” </td></tr>
+    <tr><td width="400px">  :)  to " Nopenopenope " </td></tr>
     <tr><td width="400px">Did you want to say more,</td></tr>
     <tr><td width="400px">I'm easily amused sometimes </td></tr>
     <tr><td width="400px">?</td></tr>
@@ -43556,7 +43556,7 @@ Tours with refreshment </td></tr>
     <tr><td width="400px">I had hair longer than this</td></tr>
     <tr><td width="400px">I do not know the guy in your Hub pic</td></tr>
     <tr><td width="400px">Just sayin</td></tr>
-    <tr><td width="400px">Lol! 😂</td></tr>
+    <tr><td width="400px">Lol! :)</td></tr>
     <tr><td width="400px">It's true</td></tr>
     <tr><td width="400px">It's terrible</td></tr>
     <tr><td width="400px">Mine is awfullllll</td></tr>
@@ -43679,7 +43679,7 @@ I. Have. A. Terra!!!!</td></tr>
     <tr><td width="400px">His name is Rama</td></tr>
     <tr><td width="400px">You. Are. Inebriated!</td></tr>
     <tr><td width="400px">You'd like him</td></tr>
-    <tr><td width="400px">😂</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I'm riffin dude</td></tr>
     <tr><td width="400px">I can do this stone sober</td></tr>
     <tr><td width="400px">Ask david</td></tr>
@@ -43782,7 +43782,7 @@ And some postery decor things for your lair</td></tr>
     <tr><td width="400px">Please say more</td></tr>
     <tr><td width="400px">It's supposed to be your turn lol</td></tr>
     <tr><td width="400px">Yours isn't finished</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Ok so when you answer me</td></tr>
     <tr><td width="400px">Then I know you want me </td></tr>
     <tr><td width="400px">Right now</td></tr>
@@ -43906,7 +43906,7 @@ Definitely there is more than just words</td></tr>
     <tr><td width="400px">Yeah? Awesome!</td></tr>
     <tr><td width="400px">Afk for a bit </td></tr>
     <tr><td width="400px">Ayobabe</td></tr>
-    <tr><td width="400px">Yeah 👍</td></tr>
+    <tr><td width="400px">Yeah  </td></tr>
     <tr><td width="400px">Im back to being yours for a while</td></tr>
     <tr><td width="400px">Okay</td></tr>
     <tr><td width="400px">Hiieee</td></tr>
@@ -43936,7 +43936,7 @@ A time zone
     <tr><td width="400px">Sorry 
 Falafel happens</td></tr>
     <tr><td width="400px">Focus</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Ok</td></tr>
     <tr><td width="400px">Right now
 I will only share my water with her
@@ -44010,7 +44010,7 @@ To make sure she's nice and hydrated </td></tr>
     <tr><td width="400px">Not sure I understand </td></tr>
     <tr><td width="400px">Would you jam your if i was cool witn</td></tr>
     <tr><td width="400px">Wait what??</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Yes, yes I will</td></tr>
     <tr><td width="400px">Go like a watermelon eating contest kinda </td></tr>
     <tr><td width="400px">Yes ssess see ssas</td></tr>
@@ -44031,8 +44031,8 @@ All over my face</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Lulz</td></tr>
     <tr><td width="400px">https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos?si=iqLrCQHJRfqb1A8NRmmD7g</td></tr>
-    <tr><td width="400px">Aww ❤️</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">Aww <3</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">How are you? Fill me in on things!</td></tr>
     <tr><td width="400px">Well my cat just puked all over the stairs landing</td></tr>
     <tr><td width="400px">Other than that it's been pretty chill</td></tr>
@@ -44112,7 +44112,7 @@ Haven't thought what I ought to do </td></tr>
     <tr><td width="400px">This week? Or next?</td></tr>
     <tr><td width="400px">I know people lol</td></tr>
     <tr><td width="400px">Both </td></tr>
-    <tr><td width="400px">Sure 🙂</td></tr>
+    <tr><td width="400px">Sure :)</td></tr>
     <tr><td width="400px">We should go buy stuff.  And drink coffee</td></tr>
     <tr><td width="400px">And make out</td></tr>
     <tr><td width="400px">If i wanted to juat make out for a long time sometime,  could we?</td></tr>
@@ -44941,7 +44941,7 @@ https://open.spotify.com/album/04EcpG3qd3bhmugVCsUvPg?si=8q5GvECkTLeKia1UIaF3xw<
 
 Those usually top my list</td></tr>
     <tr><td width="400px">Wonderful selections!</td></tr>
-    <tr><td width="400px">Thanks! 🙂</td></tr>
+    <tr><td width="400px">Thanks! :)</td></tr>
     <tr><td width="400px">Classical was what was on in my house much of the time as a kid</td></tr>
     <tr><td width="400px">I keep a running lost of things ive seen lice. Did you know that?</td></tr>
     <tr><td width="400px">I had a lotttttt of AM radio lol</td></tr>
@@ -45159,7 +45159,7 @@ Drunk driving (a car)</td></tr>
     <tr><td width="400px">Nothing more to tell really</td></tr>
     <tr><td width="400px">Questions?</td></tr>
     <tr><td width="400px">"Goofy" is a stange term to use. Why choose that one?</td></tr>
-    <tr><td width="400px">I want to know what you call it ha ha! 😋</td></tr>
+    <tr><td width="400px">I want to know what you call it ha ha! :P</td></tr>
     <tr><td width="400px">I still don't know or understand the dynamic </td></tr>
     <tr><td width="400px">That's fair</td></tr>
     <tr><td width="400px">Would you like a task?</td></tr>
@@ -45265,7 +45265,7 @@ Straight outta the dirt</td></tr>
     <tr><td width="400px">I like nice on you</td></tr>
     <tr><td width="400px">Idk what that means but thanks :)</td></tr>
     <tr><td width="400px">I thought i was nice. Am nice </td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Anyway, i was kinda high and its the state i want for you to be with me innnnnnnnntinately and all</td></tr>
     <tr><td width="400px">Calm and happy and not in pain and a little swirly and my head was pretty clear and i wanted you sososososo badly</td></tr>
     <tr><td width="400px">But then i felt like things were too good and i realized i couldn't really move or yell or any of that and real life set me back </td></tr>
@@ -45432,7 +45432,7 @@ Feel icky hot cold sweaty</td></tr>
     <tr><td width="400px">But whatever about the work at this point - there's much worse yiu have on your work cellular</td></tr>
     <tr><td width="400px">You mean your old nissan selentra?</td></tr>
     <tr><td width="400px">Sentra, but I love that!!!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I better be prettier than that samn car</td></tr>
     <tr><td width="400px">100% yes you are</td></tr>
     <tr><td width="400px">Aww</td></tr>
@@ -45561,7 +45561,7 @@ I want to see you :(</td></tr>
     <tr><td width="400px">What if i need emergency furniture selection assistance?</td></tr>
     <tr><td width="400px">There's a new preposterous sounding question i have for you too</td></tr>
     <tr><td width="400px">And i may need some moianalysis of you for it</td></tr>
-    <tr><td width="400px">😂</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">This conversation is getting very anal lytical</td></tr>
     <tr><td width="400px">Okay tease</td></tr>
     <tr><td width="400px">EFSA!</td></tr>
@@ -45575,7 +45575,7 @@ I want to see you :(</td></tr>
 
 Get your mind out of the gutter</td></tr>
     <tr><td width="400px">I'm moving this conversation to teams</td></tr>
-    <tr><td width="400px">Hahaha 🤣</td></tr>
+    <tr><td width="400px">Hahaha :)</td></tr>
     <tr><td width="400px">You do you boo</td></tr>
     <tr><td width="400px">Union mandated break here</td></tr>
     <tr><td width="400px">Lol</td></tr>
@@ -46109,7 +46109,7 @@ Afaik they live a wee bit south of Cadillac. </td></tr>
     <tr><td width="400px">Aww</td></tr>
     <tr><td width="400px">Wanted to say goodnight</td></tr>
     <tr><td width="400px">Gnight to you too sweet baby</td></tr>
-    <tr><td width="400px">❤️ you</td></tr>
+    <tr><td width="400px"><3 you</td></tr>
     <tr><td width="400px">You're the best</td></tr>
     <tr><td width="400px">Nah</td></tr>
     <tr><td width="400px">Love you</td></tr>
@@ -46131,7 +46131,7 @@ Afaik they live a wee bit south of Cadillac. </td></tr>
     <tr><td width="400px">And kiss you</td></tr>
     <tr><td width="400px">Good morning :)</td></tr>
     <tr><td width="400px">Good .morning baby!</td></tr>
-    <tr><td width="400px">How are you? 🙂</td></tr>
+    <tr><td width="400px">How are you? :)</td></tr>
     <tr><td width="400px">I feel good! Ty
 How are you doing?</td></tr>
     <tr><td width="400px">Pretty good thanks</td></tr>
@@ -46166,7 +46166,7 @@ How are you doing?</td></tr>
     <tr><td width="400px">He is catsy curious</td></tr>
     <tr><td width="400px">Very very nice baby boy, will lay like a baby in your arms for hours. Does not underatand "stramger danger"</td></tr>
     <tr><td width="400px">Likes water. And soap.</td></tr>
-    <tr><td width="400px">😂</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">As in, our soap bars all have wear down the middle because he has licked them and eroded some away</td></tr>
     <tr><td width="400px">OMG no!!! Lolol</td></tr>
     <tr><td width="400px">It's organic, relaxxxxx</td></tr>
@@ -46243,7 +46243,7 @@ How are you doing?</td></tr>
     <tr><td width="400px">Oh. And my back. It was good today. Had a patch. Patch has since sweated off</td></tr>
     <tr><td width="400px">What kinda patch?</td></tr>
     <tr><td width="400px">Lidocainr</td></tr>
-    <tr><td width="400px">👍</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">They help sometimes</td></tr>
     <tr><td width="400px">I can only use some though. Not if they have menthol or capsaicin </td></tr>
     <tr><td width="400px">If my eyes stay open and you're so inclined, i would love to chat about the stuff from earlier
@@ -46683,9 +46683,9 @@ I take 15 minutes between 1000 and 1130</td></tr>
     <tr><td width="400px">Lol thanks
 
 Yknow, i can be clever sometimes</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Kiss, tease top down, swirl, quick trip in, spread wide,  go slowly back up</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Oh, you think you're sooooooo smart</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">Oh this isn't dance moves?</td></tr>
@@ -46716,9 +46716,9 @@ We have metallic dinos?</td></tr>
 
 Or you can see it when you lay me down on the couch next time. Whatever </td></tr>
     <tr><td width="400px">Got some shopping questions for you</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I mean, i really do have one in my living room. You havent seen it? I'll snap a pic later
+    <tr><td width="400px">  <3  to " I mean, i really do have one in my living room. You havent seen it? I'll snap a pic later
 
-Or you can see it when you lay me down on the couch next time. Whatever  ” </td></tr>
+Or you can see it when you lay me down on the couch next time. Whatever  " </td></tr>
     <tr><td width="400px">Yeah?</td></tr>
     <tr><td width="400px">https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5?si=mWzSVZG3RtaH9vbtNhGTIg</td></tr>
     <tr><td width="400px">Yes</td></tr>
@@ -46730,7 +46730,7 @@ Intentionally typed, l9l</td></tr>
     <tr><td width="400px">Personally I have never t'mu and I avoid search results from there
 
 My family seems to love it</td></tr>
-    <tr><td width="400px"> ​😂​ to a photo </td></tr>
+    <tr><td width="400px">  :)  to a photo </td></tr>
     <tr><td width="400px">Same, but it curiouses me
 
 Also why i didn't type the real name
@@ -46837,7 +46837,7 @@ And now that there's that rabbit hole of gorgeous lamps, still not what I'm afte
     <tr><td width="400px">The light thing i want helps you count breathing and such. It's more of a gadget than anything lamp-y</td></tr>
     <tr><td width="400px">Ok were the Amazon gadgets closer?</td></tr>
     <tr><td width="400px">Yes</td></tr>
-    <tr><td width="400px"> ​👍​ to “ Yes ” </td></tr>
+    <tr><td width="400px">     to " Yes " </td></tr>
     <tr><td width="400px">The ones i showed you</td></tr>
     <tr><td width="400px">Thx </td></tr>
     <tr><td width="400px">They look obnoxious to me though</td></tr>
@@ -47081,7 +47081,7 @@ Thank you!</td></tr>
     <tr><td width="400px">Garden State</td></tr>
     <tr><td width="400px">I don't think I did</td></tr>
     <tr><td width="400px">You should</td></tr>
-    <tr><td width="400px"> ​👍​ to “ You should ” </td></tr>
+    <tr><td width="400px">     to " You should " </td></tr>
     <tr><td width="400px">And maybe imagine the lens kf a coming of age story with some mind altering substances </td></tr>
     <tr><td width="400px">Gracie abrams too. I think you might like her. Or imagine she's me ;)</td></tr>
     <tr><td width="400px">ooOoo </td></tr>
@@ -47093,7 +47093,7 @@ Thank you!</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Cat calls!!!</td></tr>
     <tr><td width="400px">The hair adornment is quite fetching :)</td></tr>
-    <tr><td width="400px">Yes you are very cute 🥰</td></tr>
+    <tr><td width="400px">Yes you are very cute  </td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Lulz</td></tr>
@@ -47360,7 +47360,7 @@ Lol</td></tr>
     <tr><td width="400px">Oh I'm just getting started </td></tr>
     <tr><td width="400px">Your turn </td></tr>
     <tr><td width="400px">Not in a mean way, but i want you to want and need me so hard that your thrust goes hard enough to take my breath away in a sharp, gutteral inhale of a gasp</td></tr>
-    <tr><td width="400px">Ty I will definitely remember this 😊</td></tr>
+    <tr><td width="400px">Ty I will definitely remember this :)</td></tr>
     <tr><td width="400px">Does it appeal to you or not so much?</td></tr>
     <tr><td width="400px">Oh yeah. I will make this a goal</td></tr>
     <tr><td width="400px">Your turn</td></tr>
@@ -47486,13 +47486,13 @@ Skowly</td></tr>
     <tr><td width="400px">Hop on anytime!</td></tr>
     <tr><td width="400px">You plan on making love to me though</td></tr>
     <tr><td width="400px">I just realized I've been smiling for a while and didnt need to take Ativan after all </td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">I would like possible some other things once you finish your train of thought</td></tr>
     <tr><td width="400px">Oh I know!</td></tr>
     <tr><td width="400px">Now you need to flip over on your back and head just over the edge of the </td></tr>
     <tr><td width="400px">Where was this again?</td></tr>
     <tr><td width="400px">Uber backseat?</td></tr>
-    <tr><td width="400px">Maybe 🤷‍♀️</td></tr>
+    <tr><td width="400px">Maybe \/‍♀️</td></tr>
     <tr><td width="400px">Moms living room?</td></tr>
     <tr><td width="400px">What are you asking?</td></tr>
     <tr><td width="400px">Nvm</td></tr>
@@ -47522,7 +47522,7 @@ Skowly</td></tr>
     <tr><td width="400px">Lol</td></tr>
     <tr><td width="400px">You lol</td></tr>
     <tr><td width="400px">But I will show you</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Maybe but this month lol </td></tr>
     <tr><td width="400px">Maybe not</td></tr>
     <tr><td width="400px">When you've been inside of me, have you also used your hand to play with me?</td></tr>
@@ -47883,7 +47883,7 @@ Ok</td></tr>
     <tr><td width="400px">I'm good  :)
 
 How was the birthday party?</td></tr>
-    <tr><td width="400px">It was good 😊</td></tr>
+    <tr><td width="400px">It was good :)</td></tr>
     <tr><td width="400px">Headed home now</td></tr>
     <tr><td width="400px">How about your day?</td></tr>
     <tr><td width="400px">It's been pleasant </td></tr>
@@ -48014,7 +48014,7 @@ Zero patience for other things </td></tr>
     <tr><td width="400px">I just hope everyone has their shit together and GTFO lol</td></tr>
     <tr><td width="400px">They're all going to be dragging ass Saturday because metal show</td></tr>
     <tr><td width="400px">And RLH takes a week to pack and never gets it done </td></tr>
-    <tr><td width="400px">And I think I should get some Arkansas hills points for what I just spun there ... That is totally something I can hear her mom saying 🤣</td></tr>
+    <tr><td width="400px">And I think I should get some Arkansas hills points for what I just spun there ... That is totally something I can hear her mom saying :)</td></tr>
     <tr><td width="400px">Lolz</td></tr>
     <tr><td width="400px">Assuming they do gtfo?</td></tr>
     <tr><td width="400px">On-time departure 10am. Could be late up to 1400 </td></tr>
@@ -48067,7 +48067,7 @@ I don't think so</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Good morning babe!
 I know you're probably about to head out. Just wanted to say 💖</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">How are you?</td></tr>
     <tr><td width="400px">Not too bad
 Are you working today?</td></tr>
@@ -48285,7 +48285,7 @@ No
 I guess </td></tr>
     <tr><td width="400px">I make up for it lol</td></tr>
     <tr><td width="400px">We do</td></tr>
-    <tr><td width="400px">☺️</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Ifff you had some toys in mind for use this weekend?</td></tr>
     <tr><td width="400px">On, in, with, you, me, both?</td></tr>
     <tr><td width="400px">I'd love it</td></tr>
@@ -49128,7 +49128,7 @@ No</td></tr>
     <tr><td width="400px">Aww</td></tr>
     <tr><td width="400px">Love you babes!</td></tr>
     <tr><td width="400px">Love you too</td></tr>
-    <tr><td width="400px">TTYL ❤️</td></tr>
+    <tr><td width="400px">TTYL <3</td></tr>
     <tr><td width="400px">I figured out part of why i felt so poorly. 
 
 Hopefully i have semi-mitigated it. At least for now
@@ -49463,7 +49463,7 @@ Where's the place of an ideal map you'd consider hanging up</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Shadows aren't doing it but damn</td></tr>
     <tr><td width="400px">Nipple is looking great tho</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">I thought about noro earlier </td></tr>
     <tr><td width="400px">The norovirus diet is wicked </td></tr>
     <tr><td width="400px">Yeah i have/had wvery symptom</td></tr>
@@ -49526,7 +49526,7 @@ Please</td></tr>
 
 You were here with me :)</td></tr>
     <tr><td width="400px">Yes, for a while</td></tr>
-    <tr><td width="400px">Yws. Thank you ❤️ </td></tr>
+    <tr><td width="400px">Yws. Thank you <3 </td></tr>
     <tr><td width="400px">Literally the first person I've made physical contact with since you</td></tr>
     <tr><td width="400px">May i please have any impressions you feel or observed or whatever</td></tr>
     <tr><td width="400px">I am also very aorry you saw me in this state of filth</td></tr>
@@ -49562,7 +49562,7 @@ I literally dont know what to do if I'm about to pass out there 😐 </td></tr>
     <tr><td width="400px">Soy aqui</td></tr>
     <tr><td width="400px">Kak dela?</td></tr>
     <tr><td width="400px">Chai masala! Wes to mya bakub!</td></tr>
-    <tr><td width="400px"> ​❤️​ to a photo </td></tr>
+    <tr><td width="400px">  <3  to a photo </td></tr>
     <tr><td width="400px">Portugues?</td></tr>
     <tr><td width="400px">"Chai"</td></tr>
     <tr><td width="400px">Lol I'm making things up</td></tr>
@@ -49696,7 +49696,7 @@ Take a shower</td></tr>
     <tr><td width="400px">Hi</td></tr>
     <tr><td width="400px">What's up?</td></tr>
     <tr><td width="400px">Besides a locative preposition</td></tr>
-    <tr><td width="400px"> ​😂​ to “ Besides a locative preposition ” </td></tr>
+    <tr><td width="400px">  :)  to " Besides a locative preposition " </td></tr>
     <tr><td width="400px">Wish I had something witty for ya lol </td></tr>
     <tr><td width="400px">Just taking a breather before next meeting</td></tr>
     <tr><td width="400px">Look up the original meaning of wit</td></tr>
@@ -49779,7 +49779,7 @@ Very much same!</td></tr>
     <tr><td width="400px">Headed home soon so i may be quieter</td></tr>
     <tr><td width="400px">Chez moi</td></tr>
     <tr><td width="400px">Bon soir!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Lol I'm not sure I clicked that animation, but there it is</td></tr>
     <tr><td width="400px">Oh for real!?</td></tr>
@@ -50351,20 +50351,20 @@ L
 Y
 </td></tr>
     <tr><td width="400px">Do you know all the reasons i dont sleep? Ponder that befire tomorrow</td></tr>
-    <tr><td width="400px">❤️ </td></tr>
+    <tr><td width="400px"><3 </td></tr>
     <tr><td width="400px">Ok I will </td></tr>
     <tr><td width="400px">I
 L
 Y
 T</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Hey you!</td></tr>
     <tr><td width="400px">Hieeeee </td></tr>
     <tr><td width="400px">What's up?</td></tr>
     <tr><td width="400px">Coffee-ing up over here
 With cats lol</td></tr>
-    <tr><td width="400px">Nice 👍</td></tr>
+    <tr><td width="400px">Nice  </td></tr>
     <tr><td width="400px">How was your night?</td></tr>
     <tr><td width="400px">How was your night?</td></tr>
     <tr><td width="400px">Lolz</td></tr>
@@ -50381,7 +50381,7 @@ RL stayed downstairs </td></tr>
     <tr><td width="400px">It's almost sunday</td></tr>
     <tr><td width="400px">Yes, it is</td></tr>
     <tr><td width="400px">Hoping for the best!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">Today will be forever long</td></tr>
     <tr><td width="400px">Oh? 
@@ -50519,7 +50519,7 @@ Who's criticizing you?</td></tr>
     <tr><td width="400px">Ah, wrong one</td></tr>
     <tr><td width="400px">But it's obv a morning of rough realizations </td></tr>
     <tr><td width="400px">https://www.facebook.com/share/r/1BTGHHT8Ai/</td></tr>
-    <tr><td width="400px">((babe❤️))
+    <tr><td width="400px">((babe<3))
 How are you doing</td></tr>
     <tr><td width="400px">Meh
 
@@ -50662,10 +50662,10 @@ It's currant syrup</td></tr>
 I
 L
 Y</td></tr>
-    <tr><td width="400px"> ​😂​ to “ F
+    <tr><td width="400px">  :)  to " F
 I
 L
-Y ” </td></tr>
+Y " </td></tr>
     <tr><td width="400px">Ilyt</td></tr>
     <tr><td width="400px">Lolol</td></tr>
     <tr><td width="400px">You goofball </td></tr>
@@ -50709,7 +50709,7 @@ Rice, banana, and pedialyte for mankidboy. Febreze for the car. Odinspeed to the
     <tr><td width="400px">I need those for a prize, sillyboy</td></tr>
     <tr><td width="400px">You are a prize lol</td></tr>
     <tr><td width="400px">Damn straight </td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Thank you I needed the lift </td></tr>
     <tr><td width="400px">Hey guess what</td></tr>
     <tr><td width="400px">Whhhaaatt</td></tr>
@@ -51486,7 +51486,7 @@ But that slso isn't  where the pain is</td></tr>
     <tr><td width="400px">Less throat/soft palate pain</td></tr>
     <tr><td width="400px">Just waking up. how about you?</td></tr>
     <tr><td width="400px">Kinda same. I was napping until about 15 minutes ago </td></tr>
-    <tr><td width="400px">Aw 😊</td></tr>
+    <tr><td width="400px">Aw :)</td></tr>
     <tr><td width="400px">What are you up to now?</td></tr>
     <tr><td width="400px">Sitting here with cat, debating whether I should do something lol</td></tr>
     <tr><td width="400px">I think you should :)</td></tr>
@@ -51522,7 +51522,7 @@ I think maybe some of that
 I wish it tasted how i want a taste to be</td></tr>
     <tr><td width="400px">Maybe i should take a shower</td></tr>
     <tr><td width="400px">There you go!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Now my nose is bleeding. Fantastic :(</td></tr>
     <tr><td width="400px">Argh!</td></tr>
     <tr><td width="400px">How are you doing?</td></tr>
@@ -51721,7 +51721,7 @@ Or crouching or dipping into it</td></tr>
     <tr><td width="400px">You in the spring fields in your beautiful sun dress</td></tr>
     <tr><td width="400px">https://open.spotify.com/track/08wxu4y4LukTbWywWtxRYz?si=gABeZKtxT1uMFdm8gkGHLg</td></tr>
     <tr><td width="400px">Glasgow heartthrobs</td></tr>
-    <tr><td width="400px">Cute 😊</td></tr>
+    <tr><td width="400px">Cute :)</td></tr>
     <tr><td width="400px">There is much of my musical interest that I owe to HS/college gf's younger brother</td></tr>
     <tr><td width="400px">Also of Chinese/Taiwanese descent</td></tr>
     <tr><td width="400px">Quite artistic fellow</td></tr>
@@ -51803,7 +51803,7 @@ You keep doing such fantastic things</td></tr>
 
 Good morning!</td></tr>
     <tr><td width="400px">So your question.... pressure is a big desire right now, and maybe circling/swirling, I'm inteigued by the idea of your tongue going inside. My best sensitive spots there are riiiiiight at the entrance and a little above, basically along the center line as vlose as you can get to the bone, and just above my opening above her orifice headed toward my clit</td></tr>
-    <tr><td width="400px">I love waking up and reading about your princess parts ❤️</td></tr>
+    <tr><td width="400px">I love waking up and reading about your princess parts <3</td></tr>
     <tr><td width="400px">My princess parts?</td></tr>
     <tr><td width="400px">Nah, theyre yours</td></tr>
     <tr><td width="400px">How are you feeling today babe?</td></tr>
@@ -52181,7 +52181,7 @@ I am not very nice right now</td></tr>
     <tr><td width="400px">Actually,  that might be part of the answer</td></tr>
     <tr><td width="400px">What do you think i need?</td></tr>
     <tr><td width="400px">A safe place and time to heal</td></tr>
-    <tr><td width="400px">Yeah 👍</td></tr>
+    <tr><td width="400px">Yeah  </td></tr>
     <tr><td width="400px">Unsure why the thumbs up is there </td></tr>
     <tr><td width="400px">Do you think any of that is possible?</td></tr>
     <tr><td width="400px">Yes I do</td></tr>
@@ -52234,7 +52234,7 @@ Feel like i was borderline identify crisis last night so thank you for quelling 
 
 If sheeeeeee goes home tonight,  would you like to go on an errand?</td></tr>
     <tr><td width="400px">Sure!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">You need anythingM</td></tr>
     <tr><td width="400px">I do actually</td></tr>
     <tr><td width="400px">Ohh?</td></tr>
@@ -52251,7 +52251,7 @@ Forgot that last night </td></tr>
 Like, i don't know why i wouldnt?</td></tr>
     <tr><td width="400px">I just thought I'd say so</td></tr>
     <tr><td width="400px">I appreciate that, thank you</td></tr>
-    <tr><td width="400px">❤️ </td></tr>
+    <tr><td width="400px"><3 </td></tr>
     <tr><td width="400px">Okay wait - </td></tr>
     <tr><td width="400px">I think my actual thought is more like
 
@@ -52537,7 +52537,7 @@ B. Saying you are okay</td></tr>
     <tr><td width="400px">Right. It was perfect timing. I'm chuffed I can make rice on the stovetop consistently. </td></tr>
     <tr><td width="400px">You're welcome for the timing reminder!!!</td></tr>
     <tr><td width="400px">Ty :)</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">For lack of better phrasing...
 
 Do you kind of always want sex with me?</td></tr>
@@ -52547,7 +52547,7 @@ Do you kind of always want sex with me?</td></tr>
 
 It also helps me frame things</td></tr>
     <tr><td width="400px">For the better</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Yay! 
 Were you unsure that is so?</td></tr>
     <tr><td width="400px">Yes</td></tr>
@@ -52725,7 +52725,7 @@ Well next time?</td></tr>
     <tr><td width="400px">Please and please :)</td></tr>
     <tr><td width="400px">It's just a pretext to slip and slide around on top of you lol</td></tr>
     <tr><td width="400px">I liked it a lot today :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Does your dick feel sex differently at all?</td></tr>
     <tr><td width="400px">Like between times or partners or anything</td></tr>
     <tr><td width="400px">Sometimes yes. This is one instance. Neither good nor bad. In some way I feel like the squeeze is "worn in". Not painful, always temporary </td></tr>
@@ -52895,7 +52895,7 @@ I just physically am not loving the dryness and mouth breathing and dehydration 
     <tr><td width="400px">Ffs yes</td></tr>
     <tr><td width="400px">And the worst that would have happened iw i would have looked really fucking stupid puking on your bed</td></tr>
     <tr><td width="400px">Pressure on the abdomen I have experienced personally lol</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ And the worst that would have happened iw i would have looked really fucking stupid puking on your bed ” </td></tr>
+    <tr><td width="400px">  <3  to " And the worst that would have happened iw i would have looked really fucking stupid puking on your bed " </td></tr>
     <tr><td width="400px">Oh shit I died</td></tr>
     <tr><td width="400px">It would have been from dry coughing lol</td></tr>
     <tr><td width="400px">And I forget no one is here to save me</td></tr>
@@ -52976,7 +52976,7 @@ That says a lot and none of that's good</td></tr>
     <tr><td width="400px">Way to go lol</td></tr>
     <tr><td width="400px">Sorry!</td></tr>
     <tr><td width="400px">:)</td></tr>
-    <tr><td width="400px">😛</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Heyyyy</td></tr>
     <tr><td width="400px">Hey</td></tr>
     <tr><td width="400px">Sorry had a meeting</td></tr>
@@ -52988,16 +52988,16 @@ I occasionally need to focus</td></tr>
 The irony of it being authentic is linguistic,  because romance languages dont use possessives
 
 It would be casa de pablo or something</td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I also really enjoyed Pablo's,  in case i didn't say so
+    <tr><td width="400px">  <3  to " I also really enjoyed Pablo's,  in case i didn't say so
 
 The irony of it being authentic is linguistic,  because romance languages dont use possessives
 
-It would be casa de pablo or something ” </td></tr>
-    <tr><td width="400px"> ​❤️​ to “ I also really enjoyed Pablo's,  in case i didn't say so
+It would be casa de pablo or something " </td></tr>
+    <tr><td width="400px">  <3  to " I also really enjoyed Pablo's,  in case i didn't say so
 
 The irony of it being authentic is linguistic,  because romance languages dont use possessives
 
-It would be casa de pablo or something ” </td></tr>
+It would be casa de pablo or something " </td></tr>
     <tr><td width="400px">Found something noteworthy...</td></tr>
     <tr><td width="400px">https://www.wilx.com/2025/01/21/blue-cross-blue-shield-needs-trim-600-million-budget/?fbclid=IwY2xjawH_SKxleHRuA2FlbQIxMQABHQpjjeBkHOiLQk21ral5xT6El3MCGZ7fpPexDTKPUo-aZAdC4BXK81fOxg_aem_c0TK4mTitw8aytFnaIoffQ</td></tr>
     <tr><td width="400px">And on the zuckerpages...</td></tr>
@@ -53145,7 +53145,7 @@ Plz send cats n cash?</td></tr>
     <tr><td width="400px">Right</td></tr>
     <tr><td width="400px">Well use me as a sounding board or whatever you need </td></tr>
     <tr><td width="400px">I did, thanks</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">HEEEE ISSSSSS AASSSSLLLLLLEEEEPPPPPP</td></tr>
     <tr><td width="400px">fml</td></tr>
     <tr><td width="400px">Oh no</td></tr>
@@ -53194,8 +53194,8 @@ Sweet dreams!</td></tr>
     <tr><td width="400px">Np
 Good night lover</td></tr>
     <tr><td width="400px">You, too!</td></tr>
-    <tr><td width="400px">Fz til later now please ❤️ </td></tr>
-    <tr><td width="400px"> ​👍​ to “ Fz til later now please ❤️  ” </td></tr>
+    <tr><td width="400px">Fz til later now please <3 </td></tr>
+    <tr><td width="400px">     to " Fz til later now please <3  " </td></tr>
     <tr><td width="400px">Happy pre burns day!</td></tr>
     <tr><td width="400px">Yay!
 How are you?</td></tr>
@@ -53306,7 +53306,7 @@ You can say no or pivot to sunday or whatever </td></tr>
     <tr><td width="400px">Whatever works for you 
 
 I should enjoy the time I have with no one else around to question me</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Any word on them yet?</td></tr>
     <tr><td width="400px">Nah</td></tr>
     <tr><td width="400px">I haven't asked either</td></tr>
@@ -53408,7 +53408,7 @@ We should figure out how to access her even more. Better. Continually.</td></tr>
     <tr><td width="400px">Do you know these lyrics lol</td></tr>
     <tr><td width="400px">I dont think so?</td></tr>
     <tr><td width="400px">Sugar cubes "sick for toys". That whole album was about sex basically</td></tr>
-    <tr><td width="400px">Which was hip for mid 80s 👍</td></tr>
+    <tr><td width="400px">Which was hip for mid 80s  </td></tr>
     <tr><td width="400px">You did something beyond remarkable on Wednesday,  you know </td></tr>
     <tr><td width="400px">Did I?</td></tr>
     <tr><td width="400px">Yes, you did</td></tr>
@@ -53952,7 +53952,7 @@ I am otherwise good i guess</td></tr>
     <tr><td width="400px">How are the sniffles and auch</td></tr>
     <tr><td width="400px">Getting rid of lots of mucus lol</td></tr>
     <tr><td width="400px">Ok, good deal</td></tr>
-    <tr><td width="400px">What are you up to? 🙂</td></tr>
+    <tr><td width="400px">What are you up to? :)</td></tr>
     <tr><td width="400px">Setting up some records to clean and play</td></tr>
     <tr><td width="400px">Did you go out today?</td></tr>
     <tr><td width="400px">Which records?</td></tr>
@@ -54028,7 +54028,7 @@ I was going to be for this weekend and some experimenting with you but being sic
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">I clean good lol</td></tr>
     <tr><td width="400px">Lulz!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">You agree </td></tr>
     <tr><td width="400px">Oh for sure yea!</td></tr>
     <tr><td width="400px">Yay!</td></tr>
@@ -54056,7 +54056,7 @@ I need to know your fave place. I E lansing, lake miscellaneous indiana, Scotlan
     <tr><td width="400px">Lemme find it one minute </td></tr>
     <tr><td width="400px">https://maps.app.goo.gl/QXihVPXArjm1bokJ7?g_st=a</td></tr>
     <tr><td width="400px">Thanks!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">A la demain..... i would love to meet up for public, private,  or both
 
 I may likely have to meet you and/or unmeet you somewhere in greater lansing
@@ -54322,7 +54322,7 @@ You good?</td></tr>
     <tr><td width="400px">Yoeie</td></tr>
     <tr><td width="400px">My baaaaabes!</td></tr>
     <tr><td width="400px">Itsa me</td></tr>
-    <tr><td width="400px">❤️❤️❤️</td></tr>
+    <tr><td width="400px"><3<3<3</td></tr>
     <tr><td width="400px">I can do tomorrow afternoon for 3ish hours at Megamall,  plus I'll have a few hours Monday eve if you want to come over or go somewhere 
 
 Eh?</td></tr>
@@ -54336,7 +54336,7 @@ Eh?</td></tr>
     <tr><td width="400px">I'm passing out </td></tr>
     <tr><td width="400px">Have fun!</td></tr>
     <tr><td width="400px">Ok</td></tr>
-    <tr><td width="400px">🥰</td></tr>
+    <tr><td width="400px"> </td></tr>
     <tr><td width="400px">Love you </td></tr>
     <tr><td width="400px">Love you too</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -54511,7 +54511,7 @@ This isn't being grossed out or any judgement, i just know you could use some he
     <tr><td width="400px">D'ac!</td></tr>
     <tr><td width="400px">Yay!</td></tr>
     <tr><td width="400px">Thank you!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">I have some pretty awesome stuffs for you actually</td></tr>
     <tr><td width="400px">Do you happen to have a tiny lamp shade?</td></tr>
     <tr><td width="400px">I'm certain I do not, unless you count the odd cone of shame</td></tr>
@@ -54553,7 +54553,7 @@ Delirium is setting in</td></tr>
     <tr><td width="400px">I will badger you in your dreams</td></tr>
     <tr><td width="400px">You're the best</td></tr>
     <tr><td width="400px">Aww tx</td></tr>
-    <tr><td width="400px">💋</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">See you soon!</td></tr>
     <tr><td width="400px">TTYL!</td></tr>
     <tr><td width="400px">null</td></tr>
@@ -54567,9 +54567,9 @@ Delirium is setting in</td></tr>
     <tr><td width="400px">Good!</td></tr>
     <tr><td width="400px">Still thinking yes for this eve?</td></tr>
     <tr><td width="400px">O yeah!</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Howww do i wake up?</td></tr>
-    <tr><td width="400px">Lol don't ask me 😅</td></tr>
+    <tr><td width="400px">Lol don't ask me :)</td></tr>
     <tr><td width="400px">I think i legit just fell asleep with my eyes open</td></tr>
     <tr><td width="400px">Lol!</td></tr>
     <tr><td width="400px">How was the night?</td></tr>
@@ -54758,9 +54758,9 @@ Am i going to 519 or are y o u venturing to afhq?
 
 What's our semblance of a plan?</td></tr>
     <tr><td width="400px">I'm sitting outside afhq :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Je viens!</td></tr>
-    <tr><td width="400px">Yay! 🎉</td></tr>
+    <tr><td width="400px">Yay!  </td></tr>
     <tr><td width="400px">Hey you</td></tr>
     <tr><td width="400px">Hiya!</td></tr>
     <tr><td width="400px">How's it going?</td></tr>
@@ -54810,12 +54810,12 @@ But yeah.... i want bed</td></tr>
     <tr><td width="400px">It's your countrymen trying to contact you. Tell them now is a bad time. </td></tr>
     <tr><td width="400px">I'm going to try and sleep now </td></tr>
     <tr><td width="400px">Dont forget to wash your face</td></tr>
-    <tr><td width="400px">I will 👍</td></tr>
+    <tr><td width="400px">I will  </td></tr>
     <tr><td width="400px">Goodnight!</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">But Tuesday</td></tr>
-    <tr><td width="400px">❤️</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Lulz!</td></tr>
     <tr><td width="400px">I'm going to stop at daily bagel on my way in. Do you want anything?</td></tr>
     <tr><td width="400px">Ohhhh maybe a bagel with way too much cream cheese? Please?</td></tr>
@@ -54829,7 +54829,7 @@ Wait - YOU are eating breakfast?!</td></tr>
     <tr><td width="400px">Toasted?</td></tr>
     <tr><td width="400px">Yes, please! 🙇‍♀️</td></tr>
     <tr><td width="400px">You got it :)</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">OMG I'm in a bagel coma</td></tr>
     <tr><td width="400px">Mine made me less shaky so thanks!</td></tr>
     <tr><td width="400px">But something is happening with spouse and i have no idea what and idk what to do</td></tr>
@@ -55229,9 +55229,9 @@ And i love you too</td></tr>
     <tr><td width="400px">And i want so much with you</td></tr>
     <tr><td width="400px">And I with you</td></tr>
     <tr><td width="400px">I'm going to fade out soon</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">You can come by any time</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Or if you need me to get you I'm sure I can figure it out</td></tr>
     <tr><td width="400px">Thank you</td></tr>
     <tr><td width="400px">I'll try not to have that ever be tye case</td></tr>
@@ -55254,7 +55254,7 @@ You look so cute</td></tr>
     <tr><td width="400px">I love it</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Xoxox!</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Hey my babes!</td></tr>
     <tr><td width="400px">Hello sweets!</td></tr>
     <tr><td width="400px">How are you? How was your night?</td></tr>
@@ -55267,7 +55267,7 @@ You look so cute</td></tr>
     <tr><td width="400px">He iz babay</td></tr>
     <tr><td width="400px">He sure iz</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">🤣</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">He knows his mommy</td></tr>
     <tr><td width="400px">Ready for the day?</td></tr>
@@ -55471,10 +55471,10 @@ Can you tell me what wouldnt be okay?</td></tr>
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">Goodnight my love</td></tr>
     <tr><td width="400px">Goodnight my sweet </td></tr>
-    <tr><td width="400px">Rest well ❤️‍🩹</td></tr>
-    <tr><td width="400px">Thank you 🙂</td></tr>
+    <tr><td width="400px">Rest well <3‍🩹</td></tr>
+    <tr><td width="400px">Thank you :)</td></tr>
     <tr><td width="400px">Endlessly </td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">And thank you for not making me ferl embarrassed</td></tr>
     <tr><td width="400px">You are welcome love </td></tr>
     <tr><td width="400px">There's nothing to worry about </td></tr>
@@ -55504,7 +55504,7 @@ Sorry if I worked your back a little hard!</td></tr>
     <tr><td width="400px">Mmhmm</td></tr>
     <tr><td width="400px">Any commentary for now?</td></tr>
     <tr><td width="400px">I want to make love to you a lot more </td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Why now?</td></tr>
     <tr><td width="400px">I mean I did already, but yesterday was soooooo good</td></tr>
     <tr><td width="400px">For me, yes
@@ -55545,7 +55545,7 @@ Do you know when you'll be less occupied?</td></tr>
     <tr><td width="400px">No worries</td></tr>
     <tr><td width="400px">Just wondered</td></tr>
     <tr><td width="400px">Please think about how much you want to know about any current and post coital physical sensations i have</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Hi bebee!!!</td></tr>
     <tr><td width="400px">Tell me everything!</td></tr>
@@ -55620,7 +55620,7 @@ I look awwwwful</td></tr>
     <tr><td width="400px">Weak and pain and not thinking great </td></tr>
     <tr><td width="400px">Hmm</td></tr>
     <tr><td width="400px">And shaky</td></tr>
-    <tr><td width="400px">😘</td></tr>
+    <tr><td width="400px"></td></tr>
     <tr><td width="400px">How is it going?</td></tr>
     <tr><td width="400px">Oww
 
@@ -56120,7 +56120,7 @@ Just me saying i want a night away and to myself</td></tr>
     <tr><td width="400px">Yes</td></tr>
     <tr><td width="400px">Just a matter of when and what else i want to do in my time away from here</td></tr>
     <tr><td width="400px">Cool!</td></tr>
-    <tr><td width="400px">😭🤢💔</td></tr>
+    <tr><td width="400px">🤢💔</td></tr>
     <tr><td width="400px">Oh no</td></tr>
     <tr><td width="400px">😢</td></tr>
     <tr><td width="400px">What's wrong?</td></tr>
@@ -56210,8 +56210,8 @@ I'm actually impressed with Segoe. David and I spent 45 minutes looking for an a
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">null</td></tr>
-    <tr><td width="400px">Sleep well pretty baby 😘</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px">Sleep well pretty baby </td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">Heyyy</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Lololol</td></tr>
@@ -56230,7 +56230,7 @@ You?</td></tr>
     <tr><td width="400px">Awwww
 
 I still feel like the worst secret gf partner ever for having to postpone</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">These things happen</td></tr>
     <tr><td width="400px">I forgive you</td></tr>
     <tr><td width="400px">It just means i have to make it up to you ;)</td></tr>
@@ -56318,7 +56318,7 @@ Just don't want you in trouble</td></tr>
     <tr><td width="400px">null</td></tr>
     <tr><td width="400px">Should you check on them?</td></tr>
     <tr><td width="400px">They are 5 hours out</td></tr>
-    <tr><td width="400px">Okay 👍</td></tr>
+    <tr><td width="400px">Okay  </td></tr>
     <tr><td width="400px">Oh that should've been a thumbs down</td></tr>
     <tr><td width="400px">I am so sorry</td></tr>
     <tr><td width="400px">You gonna be ok?</td></tr>
@@ -56340,8 +56340,8 @@ Same here
 Still kinda sick </td></tr>
     <tr><td width="400px">How are you now?</td></tr>
     <tr><td width="400px">Just woke up from a lil nap :)</td></tr>
-    <tr><td width="400px">Aw 😊</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">Aw :)</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px"> How's it going?</td></tr>
     <tr><td width="400px">Pretty good You?</td></tr>
     <tr><td width="400px">Baaaaaaabe</td></tr>
@@ -56367,7 +56367,7 @@ Lol</td></tr>
     <tr><td width="400px">Uh</td></tr>
     <tr><td width="400px">There was a prefab reply sitting there that I thought I somehow tapped</td></tr>
     <tr><td width="400px">Suuuuuure</td></tr>
-    <tr><td width="400px">It said "absolutely nothing 😊"</td></tr>
+    <tr><td width="400px">It said "absolutely nothing :)"</td></tr>
     <tr><td width="400px">And I thought it was already sent</td></tr>
     <tr><td width="400px">But it wasn't, as I discovered when I said wtd</td></tr>
     <tr><td width="400px">Dang it! Lol</td></tr>
@@ -56455,7 +56455,7 @@ You know you pose like a girl? Your legs</td></tr>
     <tr><td width="400px">Hard yet?</td></tr>
     <tr><td width="400px">I'm getting all way over here and my fam is about to walk in</td></tr>
     <tr><td width="400px">*all wet</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Ya crazy!</td></tr>
     <tr><td width="400px">Maybe next time you just take me as soon you kiss me hard and throw me down</td></tr>
     <tr><td width="400px">I'd I like oiling you up that was fing hot</td></tr>
@@ -56485,7 +56485,7 @@ You were the most amazing i could ever imagine
 But also... is a pussy massage a real thing?</td></tr>
     <tr><td width="400px">I'm voting yes</td></tr>
     <tr><td width="400px">Cool</td></tr>
-    <tr><td width="400px">But I got squirted on so all good 😊</td></tr>
+    <tr><td width="400px">But I got squirted on so all good :)</td></tr>
     <tr><td width="400px">Several times</td></tr>
     <tr><td width="400px">Oh yeah</td></tr>
     <tr><td width="400px">If you were unaware</td></tr>
@@ -56507,7 +56507,7 @@ But also... is a pussy massage a real thing?</td></tr>
     <tr><td width="400px">But also... i did not do a fucking thing
 
 That was you</td></tr>
-    <tr><td width="400px">Well lucky me 😈</td></tr>
+    <tr><td width="400px">Well lucky me :)</td></tr>
     <tr><td width="400px">Do it alllllllllllllll again please!</td></tr>
     <tr><td width="400px">Ugh. L alert. 
 
@@ -56879,7 +56879,7 @@ I'm just kind of dumb here</td></tr>
     <tr><td width="400px">Lol really?</td></tr>
     <tr><td width="400px">What did you find?</td></tr>
     <tr><td width="400px">I'm just saying that hypothetically i win the pretty contest</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">At least as of today</td></tr>
     <tr><td width="400px">Oh no what did you find?</td></tr>
     <tr><td width="400px">Side by side,  i think i win</td></tr>
@@ -57019,7 +57019,7 @@ Ty for saving me today!</td></tr>
 
 (Which is also a harry potter reference,  look it up)</td></tr>
     <tr><td width="400px">Good morning :)</td></tr>
-    <tr><td width="400px">😊</td></tr>
+    <tr><td width="400px">:)</td></tr>
     <tr><td width="400px">Hey you</td></tr>
     <tr><td width="400px">How are you, snickerpuff?</td></tr>
     <tr><td width="400px">I'm good :)</td></tr>
@@ -57057,7 +57057,7 @@ I wonder if that's where David hangs out. It seems familiar </td></tr>
     <tr><td width="400px">Et toujour mercredi?</td></tr>
     <tr><td width="400px">My labor is never done lol</td></tr>
     <tr><td width="400px">Yeah.... I'm kinda needy lol</td></tr>
-    <tr><td width="400px">😋</td></tr>
+    <tr><td width="400px">:P</td></tr>
     <tr><td width="400px">Hey! I made it almost 4 hours into the work week before i needed drugs!</td></tr>
     <tr><td width="400px">Imma need a muzzle for next office guy today plz</td></tr>
     <tr><td width="400px">Do you have capacity to do anything at all this Wednesday? I even mean come over and have lunch or something</td></tr>
@@ -57284,7 +57284,7 @@ That is so beautiful </td></tr>
 Fam is prowling</td></tr>
     <tr><td width="400px">I procured you an ornament. It is funny and beautiful and delicate and and delicious ans sophisticated. It's a lot like you. May i gift it to my favorite you?</td></tr>
     <tr><td width="400px">Yes you may :)</td></tr>
-    <tr><td width="400px">❤</td></tr>
+    <tr><td width="400px"><3</td></tr>
     <tr><td width="400px">How are you?</td></tr>
     <tr><td width="400px">Superfab </td></tr>
     <tr><td width="400px">You?</td></tr>
@@ -57390,4 +57390,4 @@ You are too much</td></tr>
 
 So, so hot</td></tr>
 </table></body></html>
-"""
+""")
