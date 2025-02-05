@@ -9,15 +9,17 @@ table {
     table-layout: fixed;
 }
 
-tr {
+/*tr {
     width: 30%;
 }
-
+*/
 td {
-    width: 30%;
+    width: 100%;
     overflow: clip;
     word-wrap: break-word;
-    border-color: #f2f2f2;
+    border-top-style: solid;
+    border-color: #505050;
+    border-collapse: collapse;
 }
 
 p {

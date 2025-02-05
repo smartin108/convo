@@ -7,6 +7,9 @@ q = """select converted_timestamp, author, body from Convo.dbo.conv order by con
 
 data = S.SelectQuery(q)
 
+outfile = './out.html'
+
+
 
 def headers():
     return \
@@ -32,9 +35,6 @@ def trailers():
 def make_format(body, align, t_b):
     return '    <tr><td class="%s" border-top-width: %s><p>%s</p></td></tr>\n'%(align, t_b, body)
 
-outfile = './out.html'
-
-
 previous_author = 'None'
 previous_timestamp = datetime.datetime.now()
 with open(outfile, 'w', encoding='UTF-8') as f:
@@ -50,11 +50,11 @@ with open(outfile, 'w', encoding='UTF-8') as f:
         else:
             print(f'unknown author in record:\n{r}')
         if author == previous_author:
-            t_b = 'thin'
+            t_b = '1 px dotted'
         else:
-            t_b = 'medium'
+            t_b = '1 px solid'
         if (timestamp - previous_timestamp).seconds > 3600:
-            text = make_format(timestamp.isoformat(), align, t_b)
+            text = make_format(datetime.datetime.strftime(timestamp, '%A') + ', ' + timestamp.isoformat(), align, t_b)
             f.write(text)
         text = make_format(body, align, t_b)
         f.write(text)
