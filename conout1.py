@@ -1,4 +1,5 @@
 import clsSQLServer
+import datetime
 
 S = clsSQLServer.Interface(database='Convo')
 
@@ -6,85 +7,57 @@ q = """select converted_timestamp, author, body from Convo.dbo.conv order by con
 
 data = S.SelectQuery(q)
 
-# print(data)
 
-
-def headers(frame_width):
+def headers():
     return \
 """
-#!/usr/bin/env python3
-
-print(\"\"\"
-Content-type: text.html
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <link rel="stylesheet" href="out.css">
-</head>
+<head><link rel="stylesheet" href="out.css"></head>
 <body>
-    <table><tr><th width="400px"></th></tr>
+    <table class="center">
 """
 
 
 def trailers():
-    return '</table></body></html>\n\"\"\")'
+    return \
+"""
+    </table>
+</body>
+</html>
+
+"""
 
 
-def make_format(frame_width, body, align):
+def make_format(body, align, t_b):
+    return '    <tr><td class="%s" border-top-width: %s><p>%s</p></td></tr>\n'%(align, t_b, body)
 
-    def sanitize(t):
-        temp = t
-        replacements = [\
-            ['“','"'],\
-            ['”','"'],\
-            [' ',' '],\
-            ['​',' '],\
-            ['🇭🇺',' '],\
-            ['\U0001f61d',':P'],\
-            ['😋',':P'],\
-            ['😛',':P'],\
-            ['🤷','\\/'],\
-            ['😊',':)'],\
-            ['👍',' '],\
-            ['🎉',' '],\
-            ['🥰',' '],\
-            ['💞',' '],\
-            ['😁',':)'],\
-            ['🤣',':)'],\
-            ['😂',':)'],\
-            ['🙂',':)'],\
-            ['😅',':)'],\
-            ['😘',''],\
-            ['💋',''],\
-            ['😭',''],\
-            ['🤪',''],\
-            ['☺️',':)'],\
-            ['😈',':)'],\
-            ['❤️','<3'],\
-            ['❤','<3'],\
-            ['♥️','<3'],\
-            ['🤍','<3']\
-            ]
-        for r in replacements:
-            temp = temp.replace(r[0], r[1])
-        return temp
-
-    return '    <tr><td width="400px">%s</td></tr>\n'%(sanitize(body))
-    # return '    <tr><td width="400px"><p>%s</p></td></tr>\n'%(body)
+outfile = './out.html'
 
 
-frame_width = '50%'
-outfile = './cgi-bin/hello.py'
+previous_author = 'None'
+previous_timestamp = datetime.datetime.now()
 with open(outfile, 'w', encoding='UTF-8') as f:
-    f.write(headers(frame_width))
+    f.write(headers())
     for r in data:
-        if r[1] == 'Rebecca':
+        timestamp = r[0]
+        author = r[1]
+        body = r[2].replace('\n','<br>')
+        if author == 'Rebecca':
             align = 'left'
-        elif r[1] == 'Andy':
+        elif author == 'Andy':
             align = 'right'
         else:
             print(f'unknown author in record:\n{r}')
-        text = make_format(frame_width, r[2], align)
+        if author == previous_author:
+            t_b = 'thin'
+        else:
+            t_b = 'medium'
+        if (timestamp - previous_timestamp).seconds > 3600:
+            text = make_format(timestamp.isoformat(), align, t_b)
+            f.write(text)
+        text = make_format(body, align, t_b)
         f.write(text)
+        previous_timestamp = timestamp
+        previous_author = author
     f.write(trailers())

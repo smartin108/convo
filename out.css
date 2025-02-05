@@ -1,17 +1,32 @@
-/*body {
-    width: 800px;
+body {
+    width: 100%;
     background-color: #33333a;
     color: #eeeeee;
 }
 
 table {
-    width: 50%;
+    width: 60%;
+    table-layout: fixed;
+}
+
+tr {
+    width: 30%;
 }
 
 td {
-    width: 50%;
-    border: 1px solid;
-    overflow: visible;
+    width: 30%;
+    overflow: clip;
+    word-wrap: break-word;
+    border-color: #f2f2f2;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .left {
@@ -21,4 +36,3 @@ td {
 .right {
     text-align: right;
 }
-*/
