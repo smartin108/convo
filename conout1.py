@@ -30,7 +30,7 @@ def trailers():
 """
 
 
-def make_format(body, align, timestamp, t_b):
+def cell_body(body, timestamp, author, cell_class=None):
     return \
 """        <tr>
             <td class="%s">
@@ -40,10 +40,10 @@ def make_format(body, align, timestamp, t_b):
                     </p>
                 </div>
                 <div class="tshide">
-                    %s
+                    %s %s
                 </div>
             </td>
-        </tr>\n"""%(align, body, timestamp)
+        </tr>\n"""%(cell_class, body, author, timestamp)
 
 
 previous_author = 'None'
@@ -57,20 +57,21 @@ with open(outfile, 'w', encoding='UTF-8') as f:
         timestamp = r[0]
         author = r[1]
         body = r[2].replace('\n','<br>')
-        if author == 'Rebecca':
-            align = 'left'
-        elif author == 'Andy':
-            align = 'right'
+        if (timestamp - previous_timestamp).seconds > 3600:
+            text = cell_body(datetime.datetime.strftime(timestamp, '%A') + ', ' + timestamp.isoformat(), timestamp, '', 'timestamp')
+            f.write(text)
+
+        if author == 'Rebecca' and previous_author == 'Rebecca':
+            cell_class = 'cont left'
+        elif author == 'Rebecca' and previous_author != 'Rebecca':
+            cell_class = 'sect left'
+        elif author == 'Andy' and previous_author == 'Andy':
+            cell_class = 'cont right'
+        elif author == 'Andy' and previous_author != 'Andy':
+            cell_class = 'sect right'
         else:
             print(f'unknown author in record:\n{r}')
-        if author == previous_author:
-            t_b = '1px dotted'
-        else:
-            t_b = '1px dotted'
-        if (timestamp - previous_timestamp).seconds > 3600:
-            text = make_format(datetime.datetime.strftime(timestamp, '%A') + ', ' + timestamp.isoformat(), align, timestamp, t_b)
-            f.write(text)
-        text = make_format(body, align, timestamp.isoformat(), t_b)
+        text = cell_body(body, timestamp.isoformat(), author, cell_class)
         f.write(text)
         previous_timestamp = timestamp
         previous_author = author

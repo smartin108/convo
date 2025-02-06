@@ -12,8 +12,6 @@ table {
 td {
     overflow: clip;
     word-wrap: break-word;
-    border-top-style: dotted;
-    border-top-width: 2px;
     border-color: #505050;
     border-collapse: collapse;
 }
@@ -27,6 +25,26 @@ p {
     margin-right: auto;
 }
 
+.tshide {
+    display: none;
+}
+
+.tsdiv:hover + .tshide {
+    display: block;
+    color: #aaaadd;
+    font-family: Aptos, Arial, Helvetica, sans-serif;
+}
+
+.cont {
+    border-top-style: dotted;
+    border-top-width: 1px;
+}
+
+.sect {
+    border-top-style: solid;
+    border-top-width: 2px;
+}
+
 .left {
     text-align: left;
     padding-right: 30%;
@@ -37,18 +55,9 @@ p {
     padding-left: 30%;
 }
 
-.tshide {
-    display: none;
-}
-
-.tsdiv:hover + .tshide {
-    display: block;
-    color: #aaaadd;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 .timestamp {
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    background-color: #2323c0;
+    background-color: #232332;
 }
