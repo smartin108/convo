@@ -48,7 +48,7 @@ def make_format(body, align, timestamp, t_b):
 
 previous_author = 'None'
 previous_timestamp = datetime.datetime.now()
-breaker = 20000000
+breaker = 10000
 counter = 0
 with open(outfile, 'w', encoding='UTF-8') as f:
     f.write(headers())
