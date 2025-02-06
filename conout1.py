@@ -13,8 +13,7 @@ outfile = './out.html'
 
 def headers():
     return \
-"""
-<!DOCTYPE html>
+"""<!DOCTYPE html>
 <html lang="en">
 <head><link rel="stylesheet" href="out.css"></head>
 <body>
@@ -24,22 +23,37 @@ def headers():
 
 def trailers():
     return \
-"""
-    </table>
+"""    </table>
 </body>
 </html>
 
 """
 
 
-def make_format(body, align, t_b):
-    return '    <tr><td class="%s" border-top-width: %s><p>%s</p></td></tr>\n'%(align, t_b, body)
+def make_format(body, align, timestamp, t_b):
+    return \
+"""        <tr>
+            <td class="%s">
+                <div class="tsdiv">
+                    <p>
+                        %s
+                    </p>
+                </div>
+                <div class="tshide">
+                    %s
+                </div>
+            </td>
+        </tr>\n"""%(align, body, timestamp)
+
 
 previous_author = 'None'
 previous_timestamp = datetime.datetime.now()
+breaker = 20000000
+counter = 0
 with open(outfile, 'w', encoding='UTF-8') as f:
     f.write(headers())
     for r in data:
+        counter += 1
         timestamp = r[0]
         author = r[1]
         body = r[2].replace('\n','<br>')
@@ -50,14 +64,17 @@ with open(outfile, 'w', encoding='UTF-8') as f:
         else:
             print(f'unknown author in record:\n{r}')
         if author == previous_author:
-            t_b = '1 px dotted'
+            t_b = '1px dotted'
         else:
-            t_b = '1 px solid'
+            t_b = '1px dotted'
         if (timestamp - previous_timestamp).seconds > 3600:
-            text = make_format(datetime.datetime.strftime(timestamp, '%A') + ', ' + timestamp.isoformat(), align, t_b)
+            text = make_format(datetime.datetime.strftime(timestamp, '%A') + ', ' + timestamp.isoformat(), align, timestamp, t_b)
             f.write(text)
-        text = make_format(body, align, t_b)
+        text = make_format(body, align, timestamp.isoformat(), t_b)
         f.write(text)
         previous_timestamp = timestamp
         previous_author = author
+        if counter >= breaker:
+            break
     f.write(trailers())
+print(f'{counter} rows out')

@@ -9,21 +9,17 @@ table {
     table-layout: fixed;
 }
 
-/*tr {
-    width: 30%;
-}
-*/
 td {
-    width: 100%;
     overflow: clip;
     word-wrap: break-word;
-    border-top-style: solid;
+    border-top-style: dotted;
+    border-top-width: 2px;
     border-color: #505050;
     border-collapse: collapse;
 }
 
 p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Aptos, Arial, Helvetica, sans-serif;
 }
 
 .center {
@@ -33,8 +29,20 @@ p {
 
 .left {
     text-align: left;
+    padding-right: 30%;
 }
 
 .right {
     text-align: right;
+    padding-left: 30%;
+}
+
+.tshide {
+    display: none;
+}
+
+.tsdiv:hover + .tshide {
+    display: block;
+    color: #aaaadd;
+    font-family: Arial, Helvetica, sans-serif;
 }
