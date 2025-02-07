@@ -77,7 +77,7 @@ def read_xml(source_file_name):
     print(f'{source_file_name}: reading file data...')
     with open(source_file_name, 'r', encoding='utf-8') as f:
         my_xml = f.read()
-    print(f'read {len(my_xml)} thingies')
+    # print(f'read {len(my_xml)} thingies')
     return my_xml
 
 
