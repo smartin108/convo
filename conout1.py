@@ -48,7 +48,7 @@ def cell_body(body, timestamp, author, cell_class=None):
 
 previous_author = 'None'
 previous_timestamp = datetime.datetime.now()
-breaker = 10000
+breaker = 10000000
 counter = 0
 with open(outfile, 'w', encoding='UTF-8') as f:
     f.write(headers())
