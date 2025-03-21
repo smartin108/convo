@@ -70,7 +70,7 @@ def sms_parsing(message_xml):
     author = 'Rebecca' # I don't actually know how to determine the author for sms message types
     date = message_xml["@date"]
     text = message_xml["@body"]
-    return author, date, text
+    return date, author, text
 
 
 def read_xml(source_file_name):
@@ -106,7 +106,7 @@ def main():
                 try:
                     do_append(date, author, text)
                 except Exception as e:
-                    print(f'\n\nUnhandled exception {e}\ndata:\n{k}\n{v}')
+                    print(f'\n\nUnhandled exception: {e}\ndata:\n{k}\n{v}')
                     exit()
             elif type(v) == 'str':
                 pass
