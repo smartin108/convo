@@ -103,7 +103,11 @@ def main():
             elif k == 'sms':
                 for vv in v:
                     date, author, text = sms_parsing(vv)
-                do_append(date, author, text)
+                try:
+                    do_append(date, author, text)
+                except Exception as e:
+                    print(f'\n\nUnhandled exception {e}\ndata:\n{k}\n{v}')
+                    exit()
             elif type(v) == 'str':
                 pass
             else:
@@ -112,7 +116,7 @@ def main():
         print('writing to database...')
         write_to_db(all_data)
         load_db()
-        remove(source_file_name)
+        # remove(source_file_name)
     print('done')
 
 if __name__ == '__main__':
