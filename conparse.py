@@ -39,6 +39,7 @@ values (?, ?, ?, ?, ?);"""
     MIME_sql = \
 """insert into Convo.dbo.load_multimedia(mms_timestamp, mms_author, part_ct, part_cl, part_data)
 values (?, ?, ?, ?, ?);"""
+    print(MIME_data[0])
     s.InsertMany(MIME_sql, MIME_data)
     pass
 
