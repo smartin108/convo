@@ -9,6 +9,8 @@ from tkinter.filedialog import askopenfilename
 from os import walk
 from os import remove
 from sys import exit
+from uuid import uuid4
+import pprint
 
 
 local_timezone = tzlocal.get_localzone()
@@ -27,8 +29,23 @@ def user_get_file():
     return source_file
 
 
-def write_to_db(text_data:list, MIME_data:list):
+def chunkify(big_text:str, chunk_size:int=4000):
+    """
+    break up the big_text input into smaller pieces
+    """
+    if big_text:
+        N = (len(big_text) - 1) // chunk_size + 1
+        j = list((chunk_size * i) for i in range(N))
+        j.append(len(big_text))
+        for i in range(N-1):
+            yield i, big_text[j[i]:j[i+1]] # chunk#, chunk_data
+    else:
+        yield 0, ''
+
+
+def write_to_db(text_data:list, MIME_data:list=None):
     s = clsSQLServer.Interface(database='Convo')
+
     d = datetime.now(local_timezone)
     for i in text_data:
         i.append(d)
@@ -36,12 +53,16 @@ def write_to_db(text_data:list, MIME_data:list):
 """insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body, record_created) 
 values (?, ?, ?, ?, ?);"""
     s.InsertMany(text_sql, text_data)
-    MIME_sql = \
-"""insert into Convo.dbo.load_multimedia(mms_timestamp, mms_author, part_ct, part_cl, part_data)
-values (?, ?, ?, ?, ?);"""
-    print(MIME_data[0])
-    s.InsertMany(MIME_sql, MIME_data)
-    pass
+
+    if MIME_data:
+        MIME_sql = \
+    """insert into Convo.dbo.load_multimedia(uuid, chunk_number, chunk_data, record_created)
+    values (?, ?, ?, ?);"""
+        for r in MIME_data:
+            r.append(d)
+        print(len(MIME_data))
+        pprint.pp(MIME_data[0])
+        s.InsertMany(MIME_sql, MIME_data)
 
 
 def load_db():
@@ -52,6 +73,7 @@ def load_db():
 
 def mms_parsing(message_xml):
     message = {}
+    MIME_message = []
     message['date'] = message_xml["@date"]
     for part in message_xml["parts"].values():
         message['author'] = 'Rebecca'
@@ -62,7 +84,6 @@ def mms_parsing(message_xml):
                     message['author'] = 'Andy'
                 else:
                     message['text'] = od["@text"]
-            message['MIME'] = False
         elif isinstance(part, dict):
             if part["@seq"] == '-1':
                 message['author'] = 'Andy'
@@ -70,14 +91,24 @@ def mms_parsing(message_xml):
             message['ct'] = part['@ct']
             message['cl'] = part['@cl']
             try:
-                message['data'] = part['@data']
-                message['MIME'] = True
+                tmp = part['@data']
+                u = uuid4()
+                message['uuid'] = u
+                MIME_content = {}
+                for chunk_number, chunk_data in chunkify(tmp):
+                    MIME_content['uuid'] = u
+                    MIME_content['chunk_number'] = chunk_number
+                    MIME_content['chunk_data'] = chunk_data
+                    MIME_message.append([MIME_content])
             except KeyError:
-                message['MIME'] = False
+                message['uuid'] = None
         else:
             message['author'] = '<unknown>'
             message['text'] = '<unknown>'
-    return message
+    # if MIME_message:
+    #     pprint.pp(MIME_message)
+    #     exit()
+    return message, MIME_message
 
 
 def sms_parsing(message_xml):
@@ -85,7 +116,6 @@ def sms_parsing(message_xml):
     message['author'] = 'Rebecca' # I don't actually know how to determine the author for sms message types
     message['date'] = message_xml["@date"]
     message['text'] = message_xml["@body"]
-    message['MIME'] = False
     return message
 
 
@@ -93,7 +123,6 @@ def read_xml(source_file_name):
     print(f'{source_file_name}: reading file data...')
     with open(source_file_name, 'r', encoding='utf-8') as f:
         my_xml = f.read()
-    # print(f'read {len(my_xml)} thingies')
     return my_xml
 
 
@@ -101,10 +130,21 @@ def main():
 
     def do_append(message):
         local_time = datetime.fromtimestamp(float(message['date'])/1000, local_timezone)
-        if message['MIME']:
-            MIME_data.append([message['date'], message['author'], message['ct'], message['cl'], message['data']])
-        else:
-            all_data.append([message['date'], local_time, message['author'], message['text']])
+        all_data.append([\
+            message['date'], 
+            local_time, 
+            message['author'], 
+            message['text']
+            ])
+
+    def do_append_MIME(MIME_message):
+        MIME_data.append([MIME_message])
+        # MIME_data.append([\
+        #     MIME_message['uuid'],
+        #     MIME_message['chunk_number'],
+        #     MIME_message['chunk_data']
+        #     ])
+
 
     # for source_file_name in get_file_names_from_repository():
     for source_file_name in [r"H:\OneDrive\Apps\SMS Backup and Restore\done\sms-20250321031031.xml"]:
@@ -119,8 +159,10 @@ def main():
             if k == 'mms':
                 counter = 0
                 for vv in v:
-                    message = mms_parsing(vv)
+                    message, MIME_message = mms_parsing(vv)
                     do_append(message)
+                    if MIME_message:
+                        do_append_MIME(MIME_message)
             elif k == 'sms':
                 for vv in v:
                     message = sms_parsing(vv)
