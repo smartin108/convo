@@ -40,7 +40,7 @@ def chunkify(big_text:str, chunk_size:int=4000):
         for i in range(N-1):
             yield i, big_text[j[i]:j[i+1]] # chunk#, chunk_data
     else:
-        yield 0, ''
+        return 0, ''
 
 
 def write_to_db(text_data:list, MIME_data:list=None):
@@ -91,23 +91,22 @@ def mms_parsing(message_xml):
             message['ct'] = part['@ct']
             message['cl'] = part['@cl']
             try:
-                tmp = part['@data']
+                message_data = part['@data']
+            except KeyError:
+                message['uuid'] = None
+            else:
+                print('      data start')
+                MIME_content = {}
                 u = uuid4()
                 message['uuid'] = u
-                MIME_content = {}
-                for chunk_number, chunk_data in chunkify(tmp):
+                for chunk_number, chunk_data in chunkify(message_data):
                     MIME_content['uuid'] = u
                     MIME_content['chunk_number'] = chunk_number
                     MIME_content['chunk_data'] = chunk_data
-                    MIME_message.append([MIME_content])
-            except KeyError:
-                message['uuid'] = None
+                    MIME_message.append(MIME_content)
         else:
             message['author'] = '<unknown>'
             message['text'] = '<unknown>'
-    # if MIME_message:
-    #     pprint.pp(MIME_message)
-    #     exit()
     return message, MIME_message
 
 
@@ -138,12 +137,13 @@ def main():
             ])
 
     def do_append_MIME(MIME_message):
-        MIME_data.append([MIME_message])
-        # MIME_data.append([\
-        #     MIME_message['uuid'],
-        #     MIME_message['chunk_number'],
-        #     MIME_message['chunk_data']
-        #     ])
+        # MIME_data.append(MIME_message)
+        print(MIME_message[0])
+        MIME_data.append([\
+            MIME_message['uuid'],
+            MIME_message['chunk_number'],
+            MIME_message['chunk_data']
+            ])
 
 
     # for source_file_name in get_file_names_from_repository():
