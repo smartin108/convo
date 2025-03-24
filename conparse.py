@@ -55,8 +55,8 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
     for i in text_messages:
         i.append(d)
     text_sql = \
-"""insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body, record_created) 
-values (?, ?, ?, ?, ?);"""
+"""insert into Convo.dbo.load_conv(source_timestamp, converted_timestamp, author, body, uuid, record_created) 
+values (?, ?, ?, ?, ?, ?);"""
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
@@ -65,8 +65,8 @@ values (?, ?, ?, ?, ?);"""
     values (?, ?, ?, ?);"""
         for r in MIME_messages:
             r.append(d)
-        print(len(MIME_messages))
-        pprint.pp(MIME_messages[0])
+        # print(len(MIME_messages))
+        # pprint.pp(MIME_messages[0])
         s.InsertMany(MIME_sql, MIME_messages)
 
 
@@ -86,7 +86,8 @@ def do_append_text(text_messages, new_message):
         new_message['date'], 
         local_time, 
         new_message['author'], 
-        new_message['text']
+        new_message['text'],
+        new_message['uuid']
         ])
     return text_messages
 
@@ -114,6 +115,7 @@ def mms_parsing(dict_level_2):
                     text_message_dict['author'] = 'Andy'
                 else:
                     text_message_dict['text'] = od["@text"]
+            text_message_dict['uuid'] = None
         elif isinstance(part, dict):
             if part["@seq"] == '-1':
                 text_message_dict['author'] = 'Andy'
@@ -126,10 +128,10 @@ def mms_parsing(dict_level_2):
             except KeyError:
                 text_message_dict['uuid'] = None
             else:
-                MIME_content = {}
                 u = uuid4()
                 text_message_dict['uuid'] = u
                 for chunk_number, chunk_data in chunkify(message_data):
+                    MIME_content = {}
                     MIME_content['uuid'] = u
                     MIME_content['chunk_number'] = chunk_number
                     MIME_content['chunk_data'] = chunk_data
@@ -145,6 +147,7 @@ def sms_parsing(message_xml):
     message['author'] = 'Rebecca' # I don't actually know how to determine the author for sms message types
     message['date'] = message_xml["@date"]
     message['text'] = message_xml["@body"]
+    message['uuid'] = None
     return message
 
 
