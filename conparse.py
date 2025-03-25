@@ -9,10 +9,13 @@ from tkinter.filedialog import askopenfilename
 from os import walk
 from os import remove
 from sys import exit
-from hashlib import sha256
-# from uuid import uuid4
-
+# from hashlib import sha256
+from uuid import uuid4
+import clsLogger
 import pprint
+
+
+logger = clsLogger.Interface(filename='conparse.log', logname='conparse', level='WARNING')
 
 
 def local_timezone():
@@ -58,8 +61,8 @@ def write_MIME_to_db(MIME_messages):
     s = clsSQLServer.Interface(database='Convo')
     d = datetime.now(local_timezone())
     MIME_sql = \
-        """ insert into Convo.dbo.load_multimedia(
-                message_hash, 
+        """ insert into land.multimedia (
+                message_uuid, 
                 chunk_number, 
                 chunk_data, 
                 record_created)
@@ -76,12 +79,12 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
     for i in text_messages:
         i.append(d)
     text_sql = \
-        """ insert into Convo.dbo.load_conv(
+        """ insert into land.text_message (
                 source_timestamp, 
                 converted_timestamp, 
                 author, 
                 body, 
-                message_hash, 
+                message_uuid, 
                 ct,
                 cl,
                 record_created) 
@@ -89,13 +92,14 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
-        write_MIME_to_db(MIME_messages)
+        # write_MIME_to_db(MIME_messages)
+        pass
     return 0
 
 
 def load_db():
     s = clsSQLServer.Interface(database='Convo')
-    sql = 'exec dbo.load_conversation_data'
+    sql = 'exec dev.do_load;'
     s.Execute(sql)
     return 0
 
@@ -113,7 +117,6 @@ def do_append_text(text_messages, new_message):
         local_time, 
         new_message['author'], 
         new_message['text'],
-        new_message['hash'],
         new_message['ct'],
         new_message['cl']
         ])
@@ -123,53 +126,55 @@ def do_append_text(text_messages, new_message):
 def do_append_MIME(MIME_messages, new_MIME_message):
     for chunk in new_MIME_message:
         MIME_messages.append([\
-            chunk['hash'],
+            chunk['uuid'],
             chunk['chunk_number'],
             chunk['chunk_data']
             ])
     return MIME_messages
 
 
-def extract_MIME_data(hash_f, message_data):
+def extract_MIME_data(uuid, message_data):
     MIME_message = []
     for chunk_number, chunk_data in chunkify(message_data):
         MIME_content = {}
-        MIME_content['hash'] = hash_f.digest()
+        MIME_content['uuid'] = uuid
         MIME_content['chunk_number'] = chunk_number
         MIME_content['chunk_data'] = chunk_data
         MIME_message.append(MIME_content)
     return MIME_message
 
 
-def mms_parsing(hash_f, dict_level_2):
+def mms_parsing(dict_level_2):
     for part in dict_level_2["parts"].values():
         text_message_dict = {} # single message as dict
         text_message_dict['date'] = dict_level_2["@date"]
         text_message_dict['author'] = 'Rebecca'
-        text_message_dict['hash'] = hash_f.digest()
+        # text_message_dict['hash'] = hash_f.digest()
 
         if isinstance(part, list):
-            # print(str(part)[:1000])
             for od in part:
-                # print(str(od)[:1000])
                 seq_flag = int(od['@seq'])
+                text_message_dict['ct'] = od['@ct']
+                text_message_dict['cl'] = od['@cl']
+
                 if seq_flag == -1:
                     text_message_dict['author'] = 'Andy'
                 else:
                     text_message_dict['text'] = od["@text"]
-                text_message_dict['ct'] = od['@ct']
-                text_message_dict['cl'] = od['@cl']
 
                 try:
                     message_data = od['@data']
                 except KeyError:
                     MIME_message = []
+                    text_message_dict['uuid'] = None
                 else:
-                    MIME_message = extract_MIME_data(hash_f, message_data)
+                    u = uuid4()
+                    MIME_message = extract_MIME_data(u, message_data)
 
         elif isinstance(part, dict):
             if part["@seq"] == '-1':
                 text_message_dict['author'] = 'Andy'
+
             text_message_dict['text'] = part["@text"]
             text_message_dict['ct'] = part['@ct']
             text_message_dict['cl'] = part['@cl']
@@ -178,8 +183,10 @@ def mms_parsing(hash_f, dict_level_2):
                 message_data = part['@data']
             except KeyError:
                 MIME_message = []
+                text_message_dict['uuid'] = None
             else:
-                MIME_message = extract_MIME_data(hash_f, message_data)
+                u = uuid4()
+                MIME_message = extract_MIME_data(u, message_data)
 
         else:
             text_message_dict['author'] = '<unknown>'
@@ -187,12 +194,12 @@ def mms_parsing(hash_f, dict_level_2):
     return text_message_dict, MIME_message
 
 
-def sms_parsing(hash_f, message_xml):
+def sms_parsing(message_xml):
     message = {}
     message['author'] = 'Rebecca' # I don't actually know how to determine the author for sms message types
     message['date'] = message_xml["@date"]
     message['text'] = message_xml["@body"]
-    message['hash'] = hash_f.digest()
+    # message['hash'] = hash_f.digest()
     message['ct'] = None
     message['cl'] = None
     return message
@@ -204,32 +211,13 @@ def do_content_loop(messages_as_dict):
     for message_type, dict_level_1 in messages_as_dict.items():
         if message_type == 'mms':
             for dict_level_2 in dict_level_1:
-                """
-
-                You should actually go back to using UUIDs to pair messages with MIME content
-                stop doing digests in Python because they don't really help you here
-
-                In the data layer, you have 50% redundancy in the MIME content storage
-
-                so, you need to modify the data layer:
-                    create a repository of MIME content with only a PK to find it
-                    create a bridge table between multimedia and repo
-                    hash the MIME content and check the repo
-                        insert to repo if needed
-                        or if it already exists, insert to the bridge table
-
-                """
-                hash_f = sha256()
-                hash_f.update(str({message_type:dict_level_2}).encode())
-                new_message, new_MIME_message = mms_parsing(hash_f, dict_level_2)
+                new_message, new_MIME_message = mms_parsing(dict_level_2)
                 do_append_text(text_messages, new_message)
                 if new_MIME_message:
                     do_append_MIME(MIME_messages, new_MIME_message)
         elif message_type == 'sms':
             for dict_level_2 in dict_level_1:
-                hash_f = sha256()
-                hash_f.update(str({message_type:dict_level_2}).encode())
-                new_message = sms_parsing(hash_f, dict_level_2)
+                new_message = sms_parsing(dict_level_2)
             do_append_text(text_messages, new_message)
         elif message_type in ['@count', '@backup_set', '@backup_date', '@type']:
             pass
