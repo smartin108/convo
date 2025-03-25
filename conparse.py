@@ -21,9 +21,13 @@ def local_timezone():
 
 def do_pause():
     _ = input('paused...')
+    return 0
 
 
 def get_file_names_from_repository():
+    """
+    Iterator returns all the backup files from the default location
+    """
     backup_location = "H:/OneDrive/Apps/SMS Backup and Restore"
     for subdir, _, files in walk(backup_location):
         for filename in files:
@@ -50,6 +54,22 @@ def chunkify(big_text:str, chunk_size:int=4000):
         return 0, ''
 
 
+def write_MIME_to_db(MIME_messages):
+    s = clsSQLServer.Interface(database='Convo')
+    d = datetime.now(local_timezone())
+    MIME_sql = \
+        """ insert into Convo.dbo.load_multimedia(
+                message_hash, 
+                chunk_number, 
+                chunk_data, 
+                record_created)
+            values (?, ?, ?, ?); """
+    for r in MIME_messages:
+        r.append(d)
+    s.InsertMany(MIME_sql, MIME_messages)
+    return 0
+
+
 def write_to_db(text_messages:list, MIME_messages:list=None):
     s = clsSQLServer.Interface(database='Convo')
     d = datetime.now(local_timezone())
@@ -69,22 +89,15 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
-        MIME_sql = \
-            """ insert into Convo.dbo.load_multimedia(
-                    message_hash, 
-                    chunk_number, 
-                    chunk_data, 
-                    record_created)
-                values (?, ?, ?, ?); """
-        for r in MIME_messages:
-            r.append(d)
-        s.InsertMany(MIME_sql, MIME_messages)
+        write_MIME_to_db(MIME_messages)
+    return 0
 
 
 def load_db():
     s = clsSQLServer.Interface(database='Convo')
     sql = 'exec dbo.load_conversation_data'
     s.Execute(sql)
+    return 0
 
 
 def read_xml(source_file_name):
@@ -191,6 +204,21 @@ def do_content_loop(messages_as_dict):
     for message_type, dict_level_1 in messages_as_dict.items():
         if message_type == 'mms':
             for dict_level_2 in dict_level_1:
+                """
+
+                You should actually go back to using UUIDs to pair messages with MIME content
+                stop doing digests in Python because they don't really help you here
+
+                In the data layer, you have 50% redundancy in the MIME content storage
+
+                so, you need to modify the data layer:
+                    create a repository of MIME content with only a PK to find it
+                    create a bridge table between multimedia and repo
+                    hash the MIME content and check the repo
+                        insert to repo if needed
+                        or if it already exists, insert to the bridge table
+
+                """
                 hash_f = sha256()
                 hash_f.update(str({message_type:dict_level_2}).encode())
                 new_message, new_MIME_message = mms_parsing(hash_f, dict_level_2)
