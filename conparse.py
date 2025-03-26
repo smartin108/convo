@@ -82,9 +82,9 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
         """ insert into land.text_message (
                 source_timestamp, 
                 converted_timestamp, 
+                message_uuid, 
                 author, 
                 body, 
-                message_uuid, 
                 ct,
                 cl,
                 record_created) 
@@ -92,8 +92,7 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
-        # write_MIME_to_db(MIME_messages)
-        pass
+        write_MIME_to_db(MIME_messages)
     return 0
 
 
@@ -111,10 +110,15 @@ def read_xml(source_file_name):
 
 
 def do_append_text(text_messages, new_message):
+    """
+    This output of this functions is a recordset that will be uploaded
+    to the database. Order is important!
+    """
     local_time = datetime.fromtimestamp(float(new_message['date'])/1000, local_timezone())
     text_messages.append([\
         new_message['date'], 
         local_time, 
+        new_message['uuid'],
         new_message['author'], 
         new_message['text'],
         new_message['ct'],
@@ -124,6 +128,10 @@ def do_append_text(text_messages, new_message):
 
 
 def do_append_MIME(MIME_messages, new_MIME_message):
+    """
+    This output of this functions is a recordset that will be uploaded
+    to the database. Order is important!
+    """
     for chunk in new_MIME_message:
         MIME_messages.append([\
             chunk['uuid'],
@@ -149,7 +157,7 @@ def mms_parsing(dict_level_2):
         text_message_dict = {} # single message as dict
         text_message_dict['date'] = dict_level_2["@date"]
         text_message_dict['author'] = 'Rebecca'
-        # text_message_dict['hash'] = hash_f.digest()
+        text_message_dict['uuid'] = None
 
         if isinstance(part, list):
             for od in part:
@@ -166,10 +174,10 @@ def mms_parsing(dict_level_2):
                     message_data = od['@data']
                 except KeyError:
                     MIME_message = []
-                    text_message_dict['uuid'] = None
                 else:
                     u = uuid4()
                     MIME_message = extract_MIME_data(u, message_data)
+                    text_message_dict['uuid'] = u
 
         elif isinstance(part, dict):
             if part["@seq"] == '-1':
@@ -178,15 +186,17 @@ def mms_parsing(dict_level_2):
             text_message_dict['text'] = part["@text"]
             text_message_dict['ct'] = part['@ct']
             text_message_dict['cl'] = part['@cl']
+            text_message_dict['uuid'] = None
 
             try:
                 message_data = part['@data']
             except KeyError:
                 MIME_message = []
-                text_message_dict['uuid'] = None
             else:
                 u = uuid4()
                 MIME_message = extract_MIME_data(u, message_data)
+                text_message_dict['uuid'] = u
+
 
         else:
             text_message_dict['author'] = '<unknown>'
@@ -199,7 +209,7 @@ def sms_parsing(message_xml):
     message['author'] = 'Rebecca' # I don't actually know how to determine the author for sms message types
     message['date'] = message_xml["@date"]
     message['text'] = message_xml["@body"]
-    # message['hash'] = hash_f.digest()
+    message['uuid'] = None
     message['ct'] = None
     message['cl'] = None
     return message
@@ -226,7 +236,7 @@ def do_content_loop(messages_as_dict):
     return text_messages, MIME_messages
 
 
-def do_input_file_work(source_file_name, sampling:int=None):
+def do_input_file_work(source_file_name):
     """
     read one input file and make it xml
     if <sampling> is specified, return approximately <sampling>/100 total items
@@ -241,7 +251,7 @@ def do_input_file_work(source_file_name, sampling:int=None):
 def main():
     # for source_file_name in get_file_names_from_repository():
     for source_file_name in [r"H:\OneDrive\Apps\SMS Backup and Restore\done\sms-20250321031031.xml"]:
-        messages_as_dict = do_input_file_work(source_file_name, sampling=1)
+        messages_as_dict = do_input_file_work(source_file_name)
         text_messages, MIME_messages = do_content_loop(messages_as_dict)
 
         print(f'{len(text_messages)} records read\n')
