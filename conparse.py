@@ -158,6 +158,14 @@ def mms_parsing(dict_level_2):
         text_message_dict['date'] = dict_level_2["@date"]
         text_message_dict['author'] = 'Rebecca'
         text_message_dict['uuid'] = None
+        try:
+            text_message_dict['mms_m_size'] = dict_level_2['@m_size']
+            text_message_dict['mms_tr_id'] = dict_level_2['@tr_id']
+            text_message_dict['mmd_id'] = dict_level_2['@_id']
+        except KeyError as e:
+            print(e)
+            print(text_message_dict['date'])
+            exit()
 
         if isinstance(part, list):
             for od in part:
@@ -186,7 +194,6 @@ def mms_parsing(dict_level_2):
             text_message_dict['text'] = part["@text"]
             text_message_dict['ct'] = part['@ct']
             text_message_dict['cl'] = part['@cl']
-            text_message_dict['uuid'] = None
 
             try:
                 message_data = part['@data']
