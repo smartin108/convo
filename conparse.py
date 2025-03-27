@@ -158,6 +158,27 @@ def extract_MIME_data(uuid, message_data):
     return MIME_message
 
 
+def mms_part_data(part, text_message_dict:dict):
+    if part["@seq"] == '-1':
+        text_message_dict['author'] = 'Andy'
+
+    text_message_dict['seq'] = part['@seq']
+    text_message_dict['text'] = part["@text"]
+    text_message_dict['ct'] = part['@ct']
+    text_message_dict['cl'] = part['@cl']
+
+    try:
+        message_data = part['@data']
+    except KeyError:
+        MIME_message = []
+    else:
+        u = uuid4()
+        MIME_message = extract_MIME_data(u, message_data)
+        text_message_dict['uuid'] = u
+    return text_message_dict, MIME_message
+
+
+
 def mms_parsing(dict_level_2):
     for part in dict_level_2["parts"].values():
         text_message_dict = {} # single message as dict
@@ -174,42 +195,11 @@ def mms_parsing(dict_level_2):
             exit()
 
         if isinstance(part, list):
-            for od in part:
-                seq_flag = int(od['@seq'])
-                text_message_dict['ct'] = od['@ct']
-                text_message_dict['cl'] = od['@cl']
-
-                if seq_flag == -1:
-                    text_message_dict['author'] = 'Andy'
-                else:
-                    text_message_dict['text'] = od["@text"]
-
-                try:
-                    message_data = od['@data']
-                except KeyError:
-                    MIME_message = []
-                else:
-                    u = uuid4()
-                    MIME_message = extract_MIME_data(u, message_data)
-                    text_message_dict['uuid'] = u
+            for mini_part in part:
+                text_message_dict, MIME_message = mms_part_data(mini_part, text_message_dict)
 
         elif isinstance(part, dict):
-            if part["@seq"] == '-1':
-                text_message_dict['author'] = 'Andy'
-
-            text_message_dict['text'] = part["@text"]
-            text_message_dict['ct'] = part['@ct']
-            text_message_dict['cl'] = part['@cl']
-
-            try:
-                message_data = part['@data']
-            except KeyError:
-                MIME_message = []
-            else:
-                u = uuid4()
-                MIME_message = extract_MIME_data(u, message_data)
-                text_message_dict['uuid'] = u
-
+            text_message_dict, MIME_message = mms_part_data(part, text_message_dict)
 
         else:
             text_message_dict['author'] = '<unknown>'
