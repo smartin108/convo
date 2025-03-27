@@ -82,6 +82,7 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
         """ insert into land.text_message (
                 source_timestamp, 
                 converted_timestamp, 
+                sequence_number,
                 message_uuid, 
                 author, 
                 body, 
@@ -91,7 +92,7 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
                 mms_tr_id,
                 mms_id,
                 record_created) 
-            values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); """
+            values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); """
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
@@ -121,6 +122,7 @@ def do_append_text(text_messages, new_message):
     text_messages.append([\
         new_message['date'], 
         local_time, 
+        new_message['sequence_number'],
         new_message['uuid'],
         new_message['author'], 
         new_message['text'],
@@ -159,10 +161,9 @@ def extract_MIME_data(uuid, message_data):
 
 
 def mms_part_data(part, text_message_dict:dict):
+    text_message_dict['sequence_number'] = int(part['@seq'])
     if part["@seq"] == '-1':
         text_message_dict['author'] = 'Andy'
-
-    text_message_dict['seq'] = part['@seq']
     text_message_dict['text'] = part["@text"]
     text_message_dict['ct'] = part['@ct']
     text_message_dict['cl'] = part['@cl']
@@ -185,14 +186,9 @@ def mms_parsing(dict_level_2):
         text_message_dict['date'] = dict_level_2["@date"]
         text_message_dict['author'] = 'Rebecca'
         text_message_dict['uuid'] = None
-        try:
-            text_message_dict['mms_m_size'] = dict_level_2['@m_size']
-            text_message_dict['mms_tr_id'] = dict_level_2['@tr_id']
-            text_message_dict['mms_id'] = dict_level_2['@_id']
-        except KeyError as e:
-            print(e)
-            print(text_message_dict['date'])
-            exit()
+        text_message_dict['mms_m_size'] = dict_level_2['@m_size']
+        text_message_dict['mms_tr_id'] = dict_level_2['@tr_id']
+        text_message_dict['mms_id'] = dict_level_2['@_id']
 
         if isinstance(part, list):
             for mini_part in part:
@@ -209,6 +205,7 @@ def mms_parsing(dict_level_2):
 
 def sms_parsing(message_xml):
     message = {}
+    message['sequence_number'] = 0
     message['author'] = 'Rebecca' # I don't actually know how to determine the author for sms message types
     message['date'] = message_xml["@date"]
     message['text'] = message_xml["@body"]
