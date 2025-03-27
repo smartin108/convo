@@ -87,8 +87,11 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
                 body, 
                 ct,
                 cl,
+                mms_m_size,
+                mms_tr_id,
+                mms_id,
                 record_created) 
-            values (?, ?, ?, ?, ?, ?, ?, ?); """
+            values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); """
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
@@ -122,7 +125,10 @@ def do_append_text(text_messages, new_message):
         new_message['author'], 
         new_message['text'],
         new_message['ct'],
-        new_message['cl']
+        new_message['cl'],
+        new_message['mms_m_size'],
+        new_message['mms_tr_id'],
+        new_message['mms_id']
         ])
     return text_messages
 
@@ -161,7 +167,7 @@ def mms_parsing(dict_level_2):
         try:
             text_message_dict['mms_m_size'] = dict_level_2['@m_size']
             text_message_dict['mms_tr_id'] = dict_level_2['@tr_id']
-            text_message_dict['mmd_id'] = dict_level_2['@_id']
+            text_message_dict['mms_id'] = dict_level_2['@_id']
         except KeyError as e:
             print(e)
             print(text_message_dict['date'])
@@ -219,6 +225,9 @@ def sms_parsing(message_xml):
     message['uuid'] = None
     message['ct'] = None
     message['cl'] = None
+    message['mms_m_size'] = None
+    message['mms_tr_id'] = None
+    message['mms_id'] = None
     return message
 
 
