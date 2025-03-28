@@ -62,7 +62,7 @@ def write_MIME_to_db(MIME_messages):
     d = datetime.now(local_timezone())
     MIME_sql = \
         """ insert into land.multimedia (
-                message_uuid, 
+                part_uuid, 
                 chunk_number, 
                 chunk_data, 
                 record_created)
@@ -79,20 +79,21 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
     for i in text_messages:
         i.append(d)
     text_sql = \
-        """ insert into land.text_message (
-                source_timestamp, 
-                converted_timestamp, 
-                sequence_number,
-                message_uuid, 
-                author, 
-                body, 
-                ct,
-                cl,
-                mms_m_size,
-                mms_tr_id,
-                mms_id,
+        f""" insert into land.text_message (
+                message_service,
+                message_date, 
+                message_timestamp, 
+                message_author,
+                message_mms_m_size,
+                message_mms_tr_id,
+                message_mms_id,
+                part_uuid, 
+                part_seq,
+                part_ct,
+                part_cl,
+                part_text, 
                 record_created) 
-            values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?); """
+            values ({','.join('?'*13)}); """
     s.InsertMany(text_sql, text_messages)
 
     if MIME_messages:
@@ -118,19 +119,20 @@ def do_append_text(text_messages, new_message):
     This output of this functions is a recordset that will be uploaded
     to the database. Order is important!
     """
-    local_time = datetime.fromtimestamp(float(new_message['date'])/1000, local_timezone())
+    local_time = datetime.fromtimestamp(float(new_message['message_date'])/1000, local_timezone())
     text_messages.append([\
-        new_message['date'], 
+        new_message['message_service'], 
+        new_message['message_date'], 
         local_time, 
-        new_message['sequence_number'],
-        new_message['uuid'],
-        new_message['author'], 
-        new_message['text'],
-        new_message['ct'],
-        new_message['cl'],
+        new_message['message_author'], 
         new_message['mms_m_size'],
         new_message['mms_tr_id'],
-        new_message['mms_id']
+        new_message['mms_id'],
+        new_message['part_uuid'],
+        new_message['part_seq'],
+        new_message['part_ct'],
+        new_message['part_cl'],
+        new_message['part_text']
         ])
     return text_messages
 
@@ -142,7 +144,7 @@ def do_append_MIME(MIME_messages, new_MIME_message):
     """
     for chunk in new_MIME_message:
         MIME_messages.append([\
-            chunk['uuid'],
+            chunk['part_uuid'],
             chunk['chunk_number'],
             chunk['chunk_data']
             ])
@@ -153,7 +155,7 @@ def extract_MIME_data(uuid, message_data):
     MIME_message = []
     for chunk_number, chunk_data in chunkify(message_data):
         MIME_content = {}
-        MIME_content['uuid'] = uuid
+        MIME_content['part_uuid'] = uuid
         MIME_content['chunk_number'] = chunk_number
         MIME_content['chunk_data'] = chunk_data
         MIME_message.append(MIME_content)
@@ -161,12 +163,12 @@ def extract_MIME_data(uuid, message_data):
 
 
 def mms_part_data(part, text_message_dict:dict):
-    text_message_dict['sequence_number'] = int(part['@seq'])
-    if part["@seq"] == '-1':
-        text_message_dict['author'] = 'Andy'
-    text_message_dict['text'] = part["@text"]
-    text_message_dict['ct'] = part['@ct']
-    text_message_dict['cl'] = part['@cl']
+    message['part_seq'] = part['@seq']
+    if message['part_seq'] == '-1':
+        message['message_author'] = 'Andy'
+    message['part_ct'] = part['@ct']
+    message['part_cl'] = part['@cl']
+    message['part_text'] = part["@text"]
 
     try:
         message_data = part['@data']
@@ -175,48 +177,47 @@ def mms_part_data(part, text_message_dict:dict):
     else:
         u = uuid4()
         MIME_message = extract_MIME_data(u, message_data)
-        text_message_dict['uuid'] = u
-    return text_message_dict, MIME_message
+        message['part_uuid'] = u
+    return message, MIME_message
 
 
 
-def mms_parsing(dict_level_2):
-    print(dict_level_2)
-    exit()
-    for part in dict_level_2["parts"].values():
-        text_message_dict = {} # single message as dict
-        text_message_dict['date'] = dict_level_2["@date"]
-        text_message_dict['author'] = 'Rebecca'
-        text_message_dict['uuid'] = None
-        text_message_dict['mms_m_size'] = dict_level_2['@m_size']
-        text_message_dict['mms_tr_id'] = dict_level_2['@tr_id']
-        text_message_dict['mms_id'] = dict_level_2['@_id']
+def mms_parsing(extracted_xml, part):
+    message = {} 
+    message['message_service'] = 'mms'
+    message['message_date'] = extracted_xml["@date"]
+    message['message_author'] = 'Rebecca'
+    message['mms_m_size'] = extracted_xml['@m_size']
+    message['mms_tr_id'] = extracted_xml['@tr_id']
+    message['mms_id'] = extracted_xml['@_id']
+    message['part_uuid'] = None
 
-        if isinstance(part, list):
-            for mini_part in part:
-                text_message_dict, MIME_message = mms_part_data(mini_part, text_message_dict)
+    if isinstance(part, list):
+        for mini_part in part:
+            message, MIME_message = mms_part_data(mini_part, message)
 
-        elif isinstance(part, dict):
-            text_message_dict, MIME_message = mms_part_data(part, text_message_dict)
+    elif isinstance(part, dict):
+        message, MIME_message = mms_part_data(part, message)
 
-        else:
-            text_message_dict['author'] = '<unknown>'
-            text_message_dict['text'] = '<unknown>'
-    return text_message_dict, MIME_message
+    else:
+        message['message_author'] = 'unknown'
+        message['part_text'] = 'unknown'
+    return message, MIME_message
 
 
-def sms_parsing(message_xml):
+def sms_parsing(extracted_xml):
     message = {}
-    message['sequence_number'] = 0
-    message['author'] = 'Rebecca' # I don't actually know how to determine the author for sms message types
-    message['date'] = message_xml["@date"]
-    message['text'] = message_xml["@body"]
-    message['uuid'] = None
-    message['ct'] = None
-    message['cl'] = None
+    message['message_service'] = 'sms'
+    message['message_date'] = extracted_xml["@date"]
+    message['message_author'] = 'unknown'
     message['mms_m_size'] = None
     message['mms_tr_id'] = None
     message['mms_id'] = None
+    message['part_uuid'] = None
+    message['part_seq'] = None
+    message['part_ct'] = None
+    message['part_cl'] = None
+    message['part_text'] = extracted_xml["@body"]
     return message
 
 
@@ -225,14 +226,15 @@ def do_content_loop(messages_as_dict):
     MIME_messages = [] # list of lists of lists [[message1[chunk1],[chunk2],[...]],message2[[chunk1],[chunk2],[...]]]]
     for message_type, dict_level_1 in messages_as_dict.items():
         if message_type == 'mms':
-            for dict_level_2 in dict_level_1:
-                new_message, new_MIME_message = mms_parsing(dict_level_2)
-                do_append_text(text_messages, new_message)
-                if new_MIME_message:
-                    do_append_MIME(MIME_messages, new_MIME_message)
+            for extracted_xml in dict_level_1:
+                for part in extracted_xml['parts']:
+                    new_message, new_MIME_message = mms_parsing(extracted_xml, part)
+                    do_append_text(text_messages, new_message)
+                    if new_MIME_message:
+                        do_append_MIME(MIME_messages, new_MIME_message)
         elif message_type == 'sms':
-            for dict_level_2 in dict_level_1:
-                new_message = sms_parsing(dict_level_2)
+            for extracted_xml in dict_level_1:
+                new_message = sms_parsing(extracted_xml)
             do_append_text(text_messages, new_message)
         elif message_type in ['@count', '@backup_set', '@backup_date', '@type']:
             pass
