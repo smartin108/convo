@@ -181,6 +181,8 @@ def mms_part_data(part, text_message_dict:dict):
 
 
 def mms_parsing(dict_level_2):
+    print(dict_level_2)
+    exit()
     for part in dict_level_2["parts"].values():
         text_message_dict = {} # single message as dict
         text_message_dict['date'] = dict_level_2["@date"]
