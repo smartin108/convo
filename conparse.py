@@ -258,7 +258,7 @@ def do_input_file_work(source_file_name):
     read one input file and make it xml
     if <sampling> is specified, return approximately <sampling>/100 total items
     """
-    print(f'reading {source_file_name}...')
+    print(f'\nreading {source_file_name}...')
     file_xml = read_xml(source_file_name)
     xml_as_dict = xmltodict.parse(file_xml)
     messages_as_dict = xml_as_dict['smses']
@@ -266,12 +266,12 @@ def do_input_file_work(source_file_name):
 
 
 def main():
-    # for source_file_name in get_file_names_from_repository():
-    for source_file_name in [r"H:\OneDrive\Apps\SMS Backup and Restore\done\sms-20250321031031.xml"]:
+    for source_file_name in get_file_names_from_repository():
+    # for source_file_name in [r"H:\OneDrive\Apps\SMS Backup and Restore\done\sms-20250321031031.xml"]:
         messages_as_dict = do_input_file_work(source_file_name)
         text_messages, MIME_messages = do_content_loop(messages_as_dict)
 
-        print(f'{len(text_messages)} records read\n')
+        print(f'{len(text_messages)} records read')
         print('writing to database...')
         write_to_db(text_messages, MIME_messages)
         load_db()
