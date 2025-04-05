@@ -7,9 +7,10 @@ from datetime import datetime
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 from os import walk
+# from os import listdir
+from os import path
 from os import remove
 from sys import exit
-# from hashlib import sha256
 from uuid import uuid4
 import clsLogger
 import pprint
@@ -34,7 +35,8 @@ def get_file_names_from_repository():
     backup_location = "H:/OneDrive/Apps/SMS Backup and Restore"
     for subdir, _, files in walk(backup_location):
         for filename in files:
-            yield f'{subdir}/{filename}'
+            if 'done' not in subdir:
+                yield path.join(subdir, filename)
 
 
 def user_get_file():
@@ -212,7 +214,6 @@ def mms_parsing(extracted_xml, part):
         message['message_author'] = 'unknown'
         message['part_text'] = 'unknown'
         yield message, MIME_message
-    # return message, MIME_message
 
 
 def sms_parsing(extracted_xml):
@@ -258,7 +259,7 @@ def do_input_file_work(source_file_name):
     read one input file and make it xml
     if <sampling> is specified, return approximately <sampling>/100 total items
     """
-    print(f'\nreading {source_file_name}...')
+    print(f'\nreading {source_file_name}')
     file_xml = read_xml(source_file_name)
     xml_as_dict = xmltodict.parse(file_xml)
     messages_as_dict = xml_as_dict['smses']
