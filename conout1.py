@@ -3,7 +3,7 @@ import datetime
 
 S = clsSQLServer.Interface(database='Convo')
 
-q = """select converted_timestamp, author, body from Convo.dbo.conv order by converted_timestamp"""
+q = """select message_timestamp, message_author, part_text from Convo.dev.text_message where isnull(part_seq,0) > -1 order by message_timestamp"""
 
 data = S.SelectQuery(q)
 
