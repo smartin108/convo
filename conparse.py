@@ -105,7 +105,7 @@ def write_to_db(text_messages:list, MIME_messages:list=None):
 
 def load_db():
     s = clsSQLServer.Interface(database='Convo')
-    sql = 'exec dev.do_load;'
+    sql = 'exec dev.load_messages;'
     s.Execute(sql)
     return 0
 
