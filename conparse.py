@@ -41,8 +41,9 @@ def get_file_names_from_repository():
 
 def user_get_file():
     Tk().withdraw()
-    source_file = askopenfilename(initialdir='C://Users//Andy//Downloads')
-    return source_file
+    source_file = askopenfilename(initialdir='C:/Users/Andy/Downloads')
+    print(f'user selected: {source_file}')
+    return [source_file]
 
 
 def chunkify(big_text:str, chunk_size:int=4000):
@@ -267,8 +268,9 @@ def do_input_file_work(source_file_name):
 
 
 def main():
-    for source_file_name in get_file_names_from_repository():
+    # for source_file_name in get_file_names_from_repository():
     # for source_file_name in [r"H:\OneDrive\Apps\SMS Backup and Restore\done\sms-20250321031031.xml"]:
+    for source_file_name in user_get_file():
         messages_as_dict = do_input_file_work(source_file_name)
         text_messages, MIME_messages = do_content_loop(messages_as_dict)
 
