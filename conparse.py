@@ -242,8 +242,9 @@ def do_content_loop(messages_as_dict):
                 for part in extracted_xml['parts'].values():
                     for new_message, new_MIME_message in mms_parsing(extracted_xml, part):
                         do_append_text(text_messages, new_message)
-                        if new_MIME_message:
-                            do_append_MIME(MIME_messages, new_MIME_message)
+                        # the database procs need work before we can safely do this:
+                        # if new_MIME_message:
+                        #     do_append_MIME(MIME_messages, new_MIME_message)
         elif message_type == 'sms':
             for extracted_xml in dict_level_1:
                 new_message = sms_parsing(extracted_xml)
