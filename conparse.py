@@ -5,7 +5,7 @@ import clsSQLServer
 import tzlocal
 from datetime import datetime
 from tkinter import Tk
-from tkinter.filedialog import askopenfilename
+from tkinter.filedialog import askopenfilenames
 from os import walk
 # from os import listdir
 from os import path
@@ -41,9 +41,10 @@ def get_file_names_from_repository():
 
 def user_get_file():
     Tk().withdraw()
-    source_file = askopenfilename(initialdir='C:/Users/Andy/Downloads')
+    source_file = askopenfilenames(initialdir='C:/Users/Andy/Downloads')
     print(f'user selected: {source_file}')
-    return [source_file]
+    return list(source_file)
+    # return [source_file]
 
 
 def chunkify(big_text:str, chunk_size:int=4000):
