@@ -9,9 +9,9 @@ where
 order by message_timestamp
 
 
-declare @root_date   bigint = 1768412932000;
-declare @minutes_before int = 60;
-declare @minutes_after  int = 60;
+declare @root_date   bigint = 1730948327000;
+declare @minutes_before int = 10;
+declare @minutes_after  int = 10;
 
 select *
 from dbo.conv_vw_extended
